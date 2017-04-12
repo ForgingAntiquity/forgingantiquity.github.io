@@ -1,1 +1,7 @@
-# Hello World
+# Forging Antiquity
+
+To forge is creative, but forgery now means creating a fake. This project explores this ambiguous dichotomy by situating the first typology of forged papyri in a historical analysis of the development of forgery, authentication techniques, and public debates over forgeries from the 19th century to the present day. Contextualising technical study of fakes within authentication strategies in ancient papyri, traditional and emerging de-authentication practices, and the cultural context of forgery, its outcomes provide a tool for scholars and the antiquities trade, illuminate the paralleldevelopment of the professional personae and skills of forgers and authenticators, and contribute to debate on who has the authority to pronounce on the past.
+
+A typology of forged papyri will enable collecting institutions to better assess fakes, permit easier detection of forgeries in antiquities markets, and provide a ready tool for scholars asked to assess the authenticity of papyri offered for sale or donation. Socio-historical perspectives on the phenomenon of forgery and strategies for authenticating artefacts will allow reflection on the relationship between different academic disciplines, and public views the development of academic expertise.
+
+See our [team](/team.html).

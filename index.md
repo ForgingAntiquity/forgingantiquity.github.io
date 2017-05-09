@@ -10,9 +10,4 @@ See our [team](/team.html).
 
 ![HD Logo](/HD_logo.jpg)
 
-
-<div>
-<span>
-<img src="https://webresources.mq.edu.au/newsroom/wp-content/uploads/2015/04/MQ_MAS_VER_RGB_POS.png" style="height:100px"/ alt="Macquarie University Logo"/>
-</span>
-</div>
+* [Example Papyri](https://drive.google.com/a/forgingantiquity.com/file/d/0B8I0NbmnqP9Ma1lDSlozMjh3dmM/view?usp=sharing)

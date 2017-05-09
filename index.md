@@ -7,4 +7,8 @@ The project is supported by an Australian Research Council Discovery project gra
 See our [team](/team.html).
 
 
-[![Macquarie University](https://webresources.mq.edu.au/newsroom/wp-content/uploads/2015/04/MQ_MAS_VER_RGB_POS.png)](http://mq.edu.au)
+<div>
+<span>
+<img src="https://webresources.mq.edu.au/newsroom/wp-content/uploads/2015/04/MQ_MAS_VER_RGB_POS.png" style="height:100px"/ alt="Macquarie University Logo"/>
+</span>
+</div>

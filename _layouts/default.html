@@ -17,10 +17,13 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
+          <!--<a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>-->
+          <div style="height:230px">
+          <img src="/images/MoA_Logo.jpg" style="float:left; margin:20px; border:0px solid; padding:0px; margin-bottom:40px"/>
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          <h3 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h3>
+        </div>
 
           {% if site.show_downloads %}
             <section id="downloads">

@@ -1,3 +1,7 @@
+---
+title: Forging Antiquity
+layout: default
+---
 
 # Forging Antiquity
 

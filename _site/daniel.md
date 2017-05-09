@@ -1,1 +1,0 @@
-Daniel Hanigan. M.Phil. candidate in the Department of Classics and Ancient History at the University of Sydney. Currently working on the ARC DP 'Forging Antiquity: Authenticity, Forgery, and Fake Papyri'. Contact me at: [daniel@forgingantiquity.com](mailto: daniel@forgingantiquity.com) 

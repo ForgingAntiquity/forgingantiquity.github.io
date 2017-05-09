@@ -5,4 +5,4 @@
 * Rachel Yuen Collingridge
 * Daniel Hanigan
 * [Vanessa Mawby](/vanessa)
-[Lauren Dundler] (/lauren) 
+* [Lauren Dundler] (/lauren) 

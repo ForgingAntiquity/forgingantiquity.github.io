@@ -11,6 +11,7 @@ The project is supported by an Australian Research Council Discovery project gra
 
 See our [team](/team.html).
 
+----------------------------------------------|---------------------------------------------------------|-------------------------------
 ![Heidelberg University](/images/HD_logo.jpg) | ![Macquarie University](/images/MQ_INT_HOR_RGB_POS.png) | ![ARC](/images/ARC_stacked.jpg)
 
 * [Example Papyri](https://drive.google.com/a/forgingantiquity.com/file/d/0B8I0NbmnqP9Ma1lDSlozMjh3dmM/view?usp=sharing)

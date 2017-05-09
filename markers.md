@@ -6,4 +6,4 @@ network which draws on research expertise from across the Faculty of Arts to hos
 conversations about the markers of authenticity in human experience of the contemporary
 and past worlds from a range of perspectives. ‘Markers of Authenticity’ hosts a seminar
 series convened by Malcolm Choat, Rachel Yuen-Collingridge, and Lauren Dundler, and a
-blog at[markersofauthenticity.wordpress.com](/https://markersofauthenticity.wordpress.com/).
+blog at [markersofauthenticity.wordpress.com](/https://markersofauthenticity.wordpress.com/).

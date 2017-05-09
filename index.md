@@ -1,6 +1,6 @@
 ---
 title: Forging Antiquity
-layout: page
+layout: post
 ---
 
 # Forging Antiquity

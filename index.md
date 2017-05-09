@@ -6,7 +6,7 @@ The project is supported by an Australian Research Council Discovery project gra
 
 See our [team](/team.html).
 
-![HD Logo](https://github.com/ForgingAntiquity/forgingantiquity.github.io/blob/master/HD_logo.jpg)
+![HD Logo](/HD_logo.jpg)
 
 
 <div>

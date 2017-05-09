@@ -4,4 +4,4 @@
 * Rodney Ast
 * Rachel Yuen Collingridge
 * Daniel Hanigan
-* Vanessa Mawby
+* [Vanessa Mawby](/vanessa)

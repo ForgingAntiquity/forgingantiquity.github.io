@@ -1,5 +1,8 @@
 # Forging Antiquity
 
+
+![Antiquity Logo](/images/MoA_Logo.jpg)
+
 The website for the Australian Research Council Discovery Project "Forging Antiquity: Authenticity, forgery and fake papyri"
 
 To forge is creative, but forgery now means creating a fake. 'Forging Antiquity' explores this ambiguous dichotomy by situating an examination of forged papyri within an historical analysis of the development of forgery, authentication techniques, and public debates over forgeries from the 19th century to the present day. By contextualising technical study of fakes within analysis of authentication strategies in ancient papyri, traditional and emerging de-authentication practices, and the cultural context of forgery, its outcomes will provide a tool for future assessments of authenticity, illuminate the parallel development of the professional personae and skills of forgers and authenticators, and contribute to debate on who has the authority to pronounce on the past.
@@ -8,6 +11,6 @@ The project is supported by an Australian Research Council Discovery project gra
 
 See our [team](/team.html).
 
-![HD Logo](/images/HD_logo.jpg)
+![Heidelberg University](/images/HD_logo.jpg) | ![Macquarie University](/images/MQ_INT_HOR_RGB_POS.png) | ![ARC](/images/ARC_stacked.jpg)
 
 * [Example Papyri](https://drive.google.com/a/forgingantiquity.com/file/d/0B8I0NbmnqP9Ma1lDSlozMjh3dmM/view?usp=sharing)

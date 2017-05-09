@@ -3,5 +3,6 @@
 * [Malcolm Choat](/malcolm)
 * Rodney Ast
 * Rachel Yuen Collingridge
-* [Daniel Hanigan](/daniel)  
+* Daniel Hanigan
 * [Vanessa Mawby](/vanessa)
+[Lauren Dundler] (/lauren) 

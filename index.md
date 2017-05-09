@@ -1,8 +1,3 @@
----
-title: Forging Antiquity
-layout: default
----
-
 # Forging Antiquity
 
 The website for the Australian Research Council Discovery Project "Forging Antiquity: Authenticity, forgery and fake papyri"

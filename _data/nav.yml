@@ -1,0 +1,12 @@
+- title: "Home"
+  href: "/"
+
+- title: "Team"
+  href: "/team"
+
+- title: "Examples"
+  href: "/examples/"
+
+- title: "E-mail us"  
+  href: "mailto:malcolm@forgingantiquity.com"
+  side: right

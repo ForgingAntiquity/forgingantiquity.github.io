@@ -1,3 +1,8 @@
+---
+title: Team
+---
+ 
+
 # Team
 
 * [Malcolm Choat](/malcolm)

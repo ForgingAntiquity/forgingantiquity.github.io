@@ -12,6 +12,60 @@
     <title>{{ site.title | default: site.github.repository_name }}</title>
 
 <style>
+
+ul.nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    width: 100%;
+    background: #f2f2f2;
+    border-bottom: 1px black solid;
+
+}
+
+ul.nav li:first-child{
+
+  border-left: 1px black solid;
+}
+ul.nav li{
+display:inline;
+background: #f2f2f2;
+padding-left: 10px;
+padding-right: 10px;
+padding-top:10px;
+padding-bottom:8px;
+height:100%;
+border-right: 1px black solid;
+
+border-bottom: 1px black solid;
+
+}
+
+ul.nav li:hover{
+display:inline;
+background: #ffffff;
+padding-left: 10px;
+padding-right: 10px;
+padding-top:10px;
+padding-bottom:8px;
+border-right: 1px black solid;
+border-bottom: 1px black solid;
+
+}
+
+
+ul.nav li.active{
+display:inline;
+background: #fefffe;
+padding-left: 10px;
+padding-right: 10px;
+padding-top:10px;
+padding-bottom:8px;
+border-right: 1px black solid;
+border-bottom: 1px black solid;
+
+}
+
 #main_content {
   min-height: 510px;
 }
@@ -40,8 +94,12 @@ ul.float li img {
 
   <body>
 
+
+
+
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
+        {% include nav.html %}
         <header class="inner">
           <!--<a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>-->
 

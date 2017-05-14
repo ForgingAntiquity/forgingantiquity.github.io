@@ -5,7 +5,7 @@ title: Team
 
 # Team
 
-The team for 'Forging Antiqity' is based at Macquarie University, Sydney, and the Univeristy of Heidelberg, Germany.
+The team for 'Forging Antiqity' is based at Macquarie University, Sydney, and the University of Heidelberg, Germany.
 
 Lead Investigators:
 * [Malcolm Choat](/malcolm)

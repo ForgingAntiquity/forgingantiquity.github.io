@@ -7,12 +7,12 @@ of which we are aware: to alert us to others, please email malcolm@forgingantqui
 ### The Lying Pen of Scribes. Manuscript Forgeries and Counterfeiting Scripture in the Twenty-First Century
 A project based at the University of Agder in Norway, concentrating on forged manuscripts which have come
 to light in the last fifteen years, with a special focus on recently published an dpublicised Dead Sea Scrolls material. 
-[Project page](/https://lyingpen.com), [Facebook page] (/https://www.facebook.com/lyingpen/).
+[Project page](/https://lyingpen.com), [Facebook page](/https://www.facebook.com/lyingpen/).
 
 ### False testimonianze. Copie, contraffazioni, manipolazioni e abusi del documento epigrafico antico
 A National Research Project funded by the Italian Ministry of Education, based at Ca’ Foscari 
 University of Venice and led by Lorenzo Calvelli, this project focuses on fake Roman inscriptions. 
-Further information on the project may be found [here](/see https://www.aiegl.org/blogreader/research-project-on-epigraphic-forgeries.html)
+Further information on the project may be found [here](/https://www.aiegl.org/blogreader/research-project-on-epigraphic-forgeries.html)
 
 ## Forged antiquities – a forthcoming book by 
 Christopher Rollston (instituional page [here](/https://cnelc.columbian.gwu.edu/christopher-rollston) is writing a book on

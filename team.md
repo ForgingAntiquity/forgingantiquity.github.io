@@ -9,7 +9,7 @@ The team for 'Forging Antiqity' is based at Macquarie University, Sydney, and th
 
 Lead Investigators:
 * [Malcolm Choat](/malcolm)
-* [Rodney Ast] (/rodney)
+* [Rodney Ast](/rodney)
 
 Postdoctoral Fellow and Project Manager:
 * Rachel Yuen-Collingridge

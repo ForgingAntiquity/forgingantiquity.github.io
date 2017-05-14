@@ -14,7 +14,7 @@ A National Research Project funded by the Italian Ministry of Education, based a
 University of Venice and led by Lorenzo Calvelli, this project focuses on fake Roman inscriptions. 
 Further information on the project may be found [here](/https://www.aiegl.org/blogreader/research-project-on-epigraphic-forgeries.html)
 
-## Forged antiquities – a forthcoming book by 
+## Forged antiquities – a forthcoming book by Christopher Rollston
 Christopher Rollston (instituional page [here](/https://cnelc.columbian.gwu.edu/christopher-rollston) is writing a book on
 ancient and modern epigraphic and other forgeries; see his blog at [http://www.rollstonepigraphy.com](/http://www.rollstonepigraphy.com).
 

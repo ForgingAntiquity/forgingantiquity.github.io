@@ -12,7 +12,7 @@ Lead Investigators:
 * [Rodney Ast](/rodney)
 
 Postdoctoral Fellow and Project Manager:
-* Rachel Yuen-Collingridge
+* [Rachel Yuen-Collingridge](/rachel)
 
 Research Assistants:
 * [Daniel Hanigan](/daniel) 

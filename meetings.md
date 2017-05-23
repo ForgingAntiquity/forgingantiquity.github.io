@@ -18,13 +18,12 @@ June 9, 4:00–5:30 pm, X5B 321, Macquarie University
 
 ### Workshops, Symposia, and Conferences 
 
-#### 'Forgery and (De)Authentication: A workshop'
-Co-Sponsored by the Ancient Cultures Reserach Centre and the 
-Australasian Centre for Ancient Numismatic Studies
+#### 'Forgery and (De)Authentication'
+*Co-Sponsored by the Ancient Cultures Research Centre and the 
+Australasian Centre for Ancient Numismatic Studies*
+13 October 2017, Museum of Ancient Cultures, Macquarie University
 
-13 October 2017
-
-This workshop will examine forged objects from a range of genres and periods, 
+This symposium will examine forged objects from a range of genres and periods, 
 as well as the discourses of authenticity that surround them, and the contrasting
 approaches and implications of Humanities and Scientific approaches to authentication.
 Speakers will include:
@@ -41,4 +40,5 @@ Speakers will include:
 Two further meetings are planned: a workshop on editing forged papyri planned for September 2018; 
 and an interdisciplinary conference on authenticity across the disciplines, for late 2019.
 
+### Past Papers
 

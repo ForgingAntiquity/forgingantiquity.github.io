@@ -13,7 +13,7 @@ cursive documentary script.
 
 <figure>
 <p><img src="/images/Mich.inv.1879.jpg"/></p>
-<figcaption> P. Mich. inv. 1879. Source: <a href="http://www.lib.umich.edu/papyrus-collection">University of Michigan Papyrology Collection</a>.Image digitally reproduced with the permission of the Papyrology Collection, Graduate Library, University of Michigan.
+<figcaption> P. Mich. inv. 1879. Source: <a href="http://www.lib.umich.edu/papyrus-collection">University of Michigan Papyrology Collection</a>. Image digitally reproduced with the permission of the Papyrology Collection, Graduate Library, University of Michigan.
  </figcaption>
 
 </figure>

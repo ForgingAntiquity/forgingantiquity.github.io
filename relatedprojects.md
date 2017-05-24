@@ -26,6 +26,9 @@ The 2017–2018 Seminar of the Humanities Research Center at Rice University, Te
 The Leibniz Research Alliance on Historical Authenticity explores contemporary conceptions of authenticity through
 a range of approaches: further details may be found [here](/http://www.leibniz-historische-authentizitaet.de/en/start/).
 
+#### Ancient Ink Laboratory – Columbia University
+Part of the Columbia Nano Initiative, the [Ancient Ink Laboratory](/http://cni.columbia.edu/ancient-ink-lab/) brings together physicists, conservators, and papyrologists to investigate the nature of the inks used on papyri, inlcuding [work](/http://cni.columbia.edu/publications-reports-and-presentations) on the 'Gospel of Jesus' Wife' and associated Gospel of John fragment.
+
 #### ‘Imitations, copies et faux. Des rives du Nil à Rome.’
 A report on a recent symposium of the Académie des Inscriptions et Belles-Lettres on this theme
 may be found [here](/http://www.aibl.fr/seances-et-manifestations/colloques-et-journees-d-etudes-313/colloques-et-journees-d-etudes-524/article/imitations-copies-et-faux-des?lang=fr).

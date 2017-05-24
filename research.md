@@ -55,8 +55,8 @@ may be found.</dd>
 
 A selection of earlier work on forged papyri.
 
-Coles R.A. and Gallazzi, C. “Papyri and Ostraka: Alterations and Counterfeits”, in Scritti in onore di Orsolina Montevecchi (Bologna: Clueb, 1981), pp. 99–105.
-Horak, U. “Fälschungen auf Papyrus, Pergament, Papier und Ostraka”, Tyche 6(1991), pp. 91–98.
-Horak, U. “Fälschungen auf Papyrus, Pergament und Papier”, in C. Gastgeber (ed.). (2001). Kopie und Fälschung (Graz: Adeva Akademische Druck- und Verlagsanstalt, 2001), pp. 51–60.
-Schmidt, C. “Über moderne Papyrusfälschungen”, in Actes du Ve Congrès international de Papyrologie, Oxford 30 août-3 septembre 1937 (Bruxelles: Fondation égyptologique reine Élisabeth, 1938), pp. 370–380.
+Coles R.A. and Gallazzi, C. “Papyri and Ostraka: Alterations and Counterfeits”, in *Scritti in onore di Orsolina Montevecchi* (Bologna: Clueb, 1981), pp. 99–105.
+Horak, U. “Fälschungen auf Papyrus, Pergament, Papier und Ostraka”, *Tyche* 6(1991), pp. 91–98.
+Horak, U. “Fälschungen auf Papyrus, Pergament und Papier”, in C. Gastgeber (ed.), *Kopie und Fälschung* (Graz: Adeva Akademische Druck- und Verlagsanstalt, 2001), pp. 51–60.
+Schmidt, C. “Über moderne Papyrusfälschungen”, in *Actes du Ve Congrès international de Papyrologie, Oxford 30 août-3 septembre 1937* (Bruxelles: Fondation égyptologique reine Élisabeth, 1938), pp. 370–380.
 

@@ -41,6 +41,9 @@ ancient and modern epigraphic and other forgeries; see his blog at <a href="http
 <dd> The <a href="http://www.leibniz-historische-authentizitaet.de/en/start/">Leibniz Research Alliance on Historical Authenticity</a> explores contemporary conceptions of authenticity through
 a range of approaches.</dd>
 
+<dt>Ancient Ink Laboratory – Columbia University</dt>
+<dd> Part of the Columbia Nano Initiative, the <a href="http://cni.columbia.edu/ancient-ink-lab/">Ancient Ink Laboratory</a> brings together physicists, conservators, and papyrologists to investigate the nature of the inks used on papyri, inlcuding <a href="http://cni.columbia.edu/publications-reports-and-presentations">work</a> on the 'Gospel of Jesus' Wife' and associated Gospel of John fragment.</dd>
+
 <dt>'Imitations, copies et faux. Des rives du Nil à Rome.'</dt>
 <dd> A <a href="http://www.aibl.fr/seances-et-manifestations/colloques-et-journees-d-etudes-313/colloques-et-journees-d-etudes-524/article/imitations-copies-et-faux-des?lang=fr">report on a recent symposium</a> of the Académie des Inscriptions et Belles-Lettres on this theme
 may be found.</dd>

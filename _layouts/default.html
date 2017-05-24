@@ -19,14 +19,46 @@ ul.nav{
     padding: 5px;
     width: 100%;
     background: #f2f2f2;
-    border-bottom: 1px black solid;
+    
+
+}
+
+
+#header_wrap{
+  background: url("/images/1978.291.245a.JPG") left top no-repeat;
+    background-size: cover;
+    background-position: absolute;
+
+
+}
+
+#footer_wrap{
+  background: url("/images/1978.291.245a.JPG") left top no-repeat;
+    background-size: cover ;
+    background-position: 100%;
+
 
 }
 
 ul.nav li:first-child{
 
-  border-left: 1px black solid;
+  
 }
+
+ul.nav ul {
+    position: absolute;
+    display: none;
+    left: 0;
+    top: 100%;
+    opacity: 0;
+}
+ul.nav li:hover ul {
+    display: block;
+}
+ul.nav li:hover ul li {
+    display: block;
+}
+
 ul.nav li{
 display:inline;
 background: #f2f2f2;
@@ -35,21 +67,47 @@ padding-right: 10px;
 padding-top:10px;
 padding-bottom:8px;
 height:100%;
-border-right: 1px black solid;
 
-border-bottom: 1px black solid;
+
+
+    position: relative;
+width:100px;
 
 }
 
-ul.nav li:hover{
+ul.nav li a{
 display:inline;
-background: #ffffff;
+
 padding-left: 10px;
 padding-right: 10px;
 padding-top:10px;
 padding-bottom:8px;
-border-right: 1px black solid;
-border-bottom: 1px black solid;
+height:100%;
+
+ -webkit-transition: .5s;
+      transition: .5s;
+
+    position: relative;
+
+
+}
+
+
+
+ul.nav li:hover{
+display:inline;
+background: #ddd;
+padding-left: 10px;
+padding-right: 10px;
+padding-top:10px;
+padding-bottom:8px;
+
+}
+
+
+ul.nav li:hover > ul{
+  visibility: visible;
+      opacity: 1;
 
 }
 
@@ -61,8 +119,7 @@ padding-left: 10px;
 padding-right: 10px;
 padding-top:10px;
 padding-bottom:8px;
-border-right: 1px black solid;
-border-bottom: 1px black solid;
+
 
 }
 
@@ -87,6 +144,32 @@ ul.float li img {
       margin: 0;
     padding: 0;
 
+}
+
+div.footer {
+height:150px;
+text-align: center;
+vertical-align: middle;
+}
+
+div.footer a{
+  width: 15%;
+  
+  display: block-inline;
+  background-color:white;
+  
+  
+}
+div.footer img {
+  display: inline;
+  max-width:23%;
+  max-height:45%;
+  padding:5px;
+  margin: auto;
+  background-color:white;
+  box-shadow:none;
+  
+  
 }
 </style>
 
@@ -124,15 +207,6 @@ ul.float li img {
 
       <section id="main_content" class="inner">
 
-
-
-<ul class="float">
-
-<li> <img src="/images/MoA_Logo.jpg" /></li>
-<li> <img src="/images/original/ARC_stacked.jpg" /> </li>
-<li> <img src="/images/MQ_MAS_VER_RGB_POS.png" /> </li>
-<li> <img src="/images/original/HD_logo.jpg" /> </li>
-</ul>
         {{ content }}
       </section>
     </div>
@@ -140,11 +214,31 @@ ul.float li img {
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
+
+<div class="footer">
+<a href="https://markersofauthenticity.wordpress.com/"><img  src="/images/MoA_Logo.jpg" /></a>
+<a href="http://arc.edu.au"><img  src="/images/original/ARC_stacked.jpg" /></a>
+<a href="http://mq.edu.au"><img style="padding:0px;max-height:51.5%" src="/images/MQ_MAS_VER_RGB_POS.png" /></a>
+<a href="http://www.uni-heidelberg.de/index_e.html"><img  src="/images/original/HD_logo.jpg" /></a>
+<a href="http://zaw.uni-hd.de/index_en.html"><img style="padding-top:1.9%; padding-bottom:1.9%" src="/images/schriftzug_zaw.gif" /></a>
+
+</div>
+
         {% if site.github.is_project_page %}
         <!--<p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>-->
         {% endif %}
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+
+
+
+
+
+
+
+
       </footer>
+      <div style="width:100%; background:#ddd; text-align:center">
+<a href="http://pages.github.io">Hosted by Github Pages.</a> All content on the site all rights reserved and (C) 2017, Macquarie University. <a href="http://www.mq.edu.au/about/about-the-university/governance/privacy">Privacy policy</a>
+</div>
     </div>
 
     {% if site.google_analytics %}

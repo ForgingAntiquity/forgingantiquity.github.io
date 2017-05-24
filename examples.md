@@ -1,5 +1,5 @@
 ---
-title: Examples
+title: Gallery
 ---
  
 <style>

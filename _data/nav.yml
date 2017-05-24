@@ -1,12 +1,25 @@
+- title: "Markers of Authenticity"
+  href: "/markers"
+
 - title: "Home"
   href: "/"
 
-- title: "Team"
+- title: "About"
   href: "/team"
+  subcategories:
+  - subtitle: "About Us"
+    subhref: "/team#about"
+  - subtitle: "Aims"
+    subhref: "/team"
+  - subtitle: "Our Team"
+    subhref: "/team#team"
 
-- title: "Examples"
-  href: "/examples"
+- title: "Meetings"
+  href: "/meetings"
 
-- title: "E-mail us"  
-  href: "mailto:malcolm@forgingantiquity.com"
-  side: right
+- title: "Gallery"
+  href: "/gallery"
+
+- title: "Research"
+  href: "/research"
+

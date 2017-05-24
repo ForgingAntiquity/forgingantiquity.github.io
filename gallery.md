@@ -3,4 +3,4 @@
 A gallery of forged papyri (alledged or proven), and related
 artefacts.
 
-[![](/images/Hamon_thumb.jpg)](/gallery1.md)
+[![this is a thing](/images/Hamon_thumb.jpg)](/gallery1)

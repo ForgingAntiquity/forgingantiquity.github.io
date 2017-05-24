@@ -10,6 +10,6 @@ Image: Gallica.bnf.fr. Source: Bibliothéque Nationale de France.
 
 <figure>
 <p><img src="/images/Hamon_Recueil.jpg"/></p>
-<figcaption> Hamon Forgery </figcaption>
+<figcaption> Pierre Hamon's 1566 Recueil d'alphabets et d'exemples d'écritures anciennes, shows a section from P.Ital. I 8 (Ravenna, 563) </figcaption>
 
 </figure>

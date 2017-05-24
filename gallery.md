@@ -17,7 +17,7 @@ artefacts.
 <figure class="thumb">
 <a href="/galleryHamon">
 <p><img src="/images/Hamon_thumb.jpg"/></p>
-<figcaption> Hamon Forgery </figcaption>
+<figcaption> Lorem ipsum dolor sit amet, consectetur adipiscing elit.  </figcaption>
 
 </a>
 </figure>
@@ -26,7 +26,7 @@ artefacts.
 <figure class="thumb">
 <a href="/galleryHamon">
 <p><img src="/images/Hamon_thumb.jpg"/></p>
-<figcaption> Hamon Forgery </figcaption>
+<figcaption> Donec dictum eros vel nulla pellentesque vulputate. Cras eget fringilla erat. Nam sit amet nulla metus. Phasellus lectus ligula, vehicula vel facilisis non, euismod et velit. Sed faucibus auctor justo, sit amet accumsan turpis pulvinar ut. Etiam tristique odio vitae lacus faucibus tincidunt. Integer et molestie metus, et iaculis dolor. </figcaption>
 
 </a>
 </figure>
@@ -35,7 +35,7 @@ artefacts.
 <figure class="thumb">
 <a href="/galleryHamon">
 <p><img src="/images/Hamon_thumb.jpg"/></p>
-<figcaption> Hamon Forgery </figcaption>
+<figcaption> Hamon Forgery Wibble </figcaption>
 
 </a>
 </figure>

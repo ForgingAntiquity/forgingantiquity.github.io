@@ -1,0 +1,11 @@
+### Types of papyrus forgery: Simulated Script
+
+Many fake papyri are not in any real language, but are nonsensical scribbles
+intended to mimic ancient writing, which bear a passing similarity to the 
+untrained eye to Greek or some other ancient script. These fooled many 
+unwary buyers of papyrus in Egypt in the late 19th and early 20th century, 
+or were hidden in larger lots purchased by knowledgeable purchasers, and
+can be found in most papyrus collections. The papyrus illustrated here,
+P.Mich.inv. 1879 from the papyrus collection of the University of
+Michigan at Ann Arbor, is one such example, intended to mimic a 
+cursive documentary script.

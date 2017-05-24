@@ -4,11 +4,11 @@
 
 
 <a name="publications"/>
-## Publications
+### Publications
 
 
 <a name="related"/>
-## Related Projects
+### Related Projects
 
 There are a range of projects being currently undertaken in various
 institutions on issues related to forged antiquities. Below we list those
@@ -51,7 +51,7 @@ may be found.</dd>
 </dl>
 
 <a name="bibliography"/>
-## Bibliography
+### Bibliography
 
 A selection of earlier work on forged papyri.
 

@@ -14,6 +14,6 @@ from a copy of Homer’s Iliad: for its publication see [Julia Lougovaya,
 
 <figure>
 <p><img src="/images/Col.inv.543b.jpeg"/></p>
-<figcaption> P.Col.inv.543b. Source: <a href="http://library.columbia.edu/locations/rbml/units/papyri_and_ostraca.html/">Columbia University Rare Book and Manuscript Library</a>. Image: <a href="http://library.columbia.edu/index.html">Columbia Universities Library</a>. </figcaption>
+<figcaption> P.Col.inv.543b. Source: <a href="http://library.columbia.edu/locations/rbml/units/papyri_and_ostraca.html/">Columbia University Rare Book and Manuscript Library</a>. Image: <a href="http://library.columbia.edu/index.html">Columbia University Libraries</a>. </figcaption>
 
 </figure>

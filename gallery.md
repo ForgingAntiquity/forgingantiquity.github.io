@@ -8,16 +8,16 @@ artefacts.
 <figure class="thumb">
 <a href="/galleryHamon">
 <p><img src="/images/Hamon_thumb.jpg"/></p>
-<figcaption> Hamon Forgery </figcaption>
+<figcaption> The first forged papyrus in Europe </figcaption>
 
 </a>
 </figure>
 
 
 <figure class="thumb">
-<a href="/galleryHamon">
-<p><img src="/images/Hamon_thumb.jpg"/></p>
-<figcaption> Lorem ipsum dolor sit amet, consectetur adipiscing elit.  </figcaption>
+<a href="/gallerysimulatedscript">
+<p><img src="/images/Mich1879thumb.jpg"/></p>
+<figcaption> Types of Forgery: Simulated Script  </figcaption>
 
 </a>
 </figure>

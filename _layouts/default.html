@@ -13,6 +13,18 @@
 
 <style>
 
+
+body, html {
+    height: 100%;
+}
+
+@media only screen and (max-device-width: 1024px) {
+    .parallax {
+        background-attachment: scroll;
+    }
+}
+
+
 ul.nav{
     list-style-type: none;
     margin: 0;
@@ -26,17 +38,24 @@ ul.nav{
 
 #header_wrap{
   background: url("/images/Header.jpg") left top no-repeat;
+    /*background-size: cover;
+    background-position: 100% 50%;*/
+
+
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
-    background-position: 100% 50%;
 
 
 }
 
 #footer_wrap{
   background: url("/images/Header.jpg") left top no-repeat;
-    background-size: cover ;
-    background-position: 100% 100%;
-
+      background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 

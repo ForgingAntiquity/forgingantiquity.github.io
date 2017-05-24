@@ -20,7 +20,7 @@ of which we are aware: to alert us to others, please email [malcolm@forgingantiq
 
 <dt> The Lying Pen of Scribes. Manuscript Forgeries and Counterfeiting Scripture in the Twenty-First Century</dt>
 <dd>A <a href="https://lyingpen.com">project</a> based at the University of Agder in Norway, concentrating on forged manuscripts which have come
-to light in the last fifteen years, with a special focus on recently published and publicised Dead Sea Scrolls material. <a href="https://www.facebook.com/lyingpen/">Also visit them on facebook.</a>.</dd>
+to light in the last fifteen years, with a special focus on recently published and publicised Dead Sea Scrolls material. <a href="https://www.facebook.com/lyingpen/">Also visit them on facebook</a>.</dd>
 
 
 

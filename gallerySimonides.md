@@ -14,6 +14,6 @@ Testament and material found in some of his other forgeries. The papyrus is toda
 
 <figure>
 <p><img src="/images/Simonides_Hegesippus.jpg"/></p>
-<figcaption> The 'Hegesippus' papyrus of Constantine Simonides. Source: C. Simonides, *Facsimiles of certain portions of the Gospel of St. Matthew, and of the Epistles of Ss. Jame and Jude* (London: Trübner, 1861), pl. XIV. </figcaption>
+<figcaption> The 'Hegesippus' papyrus of Constantine Simonides. Source: C. Simonides, <i>Facsimiles of certain portions of the Gospel of St. Matthew, and of the Epistles of Ss. Jame and Jude</i> (London: Trübner, 1861), pl. XIV. </figcaption>
 
 </figure>

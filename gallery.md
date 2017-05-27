@@ -33,9 +33,9 @@ artefacts.
 
 
 <figure class="thumb">
-<a href="/galleryHamon">
-<p><img src="/images/Hamon_thumb.jpg"/></p>
-<figcaption> Hamon Forgery Wibble </figcaption>
+<a href="/gallerySimonides">
+<p><img src="/images/Hegesippus_thumb.jpg"/></p>
+<figcaption> The papyri of Constantine Simonides </figcaption>
 
 </a>
 </figure>

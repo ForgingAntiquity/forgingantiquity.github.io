@@ -5,14 +5,14 @@
   href: "/"
 
 - title: "About"
-  href: "/team"
+  href: "/about"
   subcategories:
   - subtitle: "About Us"
-    subhref: "/team#about"
+    subhref: "/about#about"
   - subtitle: "Aims"
-    subhref: "/team"
+    subhref: "/about#aims"
   - subtitle: "Our Team"
-    subhref: "/team#team"
+    subhref: "/about#team"
 
 - title: "Meetings"
   href: "/meetings"

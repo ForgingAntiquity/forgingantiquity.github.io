@@ -6,6 +6,21 @@
 <a name="publications"/>
 ### Publications
 
+We will blog on the project at the [Markers of Authenticity](https://markersofauthenticity.wordpress.com) blog.
+
+#### Published
+
+M. Choat, ‘The Gospel of Jesus’s Wife: A Preliminary Paleographical Assessment’, *Harvard Theological Review* 107 (2014), 160–62.
+
+#### In press
+
+M. Choat, ‘The Case of Papyri Fakes’, in *The Art Crime Handbook*, ed. D. Chappell and S. Hufnagel (Basingstoke: Palgrave Macmillan, in press).
+
+#### In preperation
+
+M. Choat, 'Dating and Authenticating papyri, from Mabillon to the present day', forthcoming in *Journal for the Study of the New Testament*.
+
+#### Papers
 
 <a name="related"/>
 ### Related Projects

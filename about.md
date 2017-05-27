@@ -58,5 +58,5 @@ Research students:
 * [Lauren Dundler](/lauren) 
 
 Collaborators:
-* [Tommy Wasserman](/https://ansgarteologiskehogskole.academia.edu/TWasserman)
-* [Gregg Schwendner](/https://wichita.academia.edu/GreggWSchwendner)
+* [Tommy Wasserman](https://ansgarteologiskehogskole.academia.edu/TWasserman)
+* [Gregg Schwendner](https://wichita.academia.edu/GreggWSchwendner)

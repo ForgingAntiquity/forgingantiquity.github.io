@@ -51,6 +51,7 @@ humanities expertise in the detection of forged artefacts.
   * a treatment by Yuen-Collingridge of 16th century forger Pierre Hamon;
   * an article by Choat on the development of authenticating techniques by Jean Mabillon;
   * a chapter by Choat on Forged papyri in a Handbook on Art Crime edited by Saskia Maria Hufnagel & Duncan Chappell (Palgrave Macmillan).
+  * a treatment of the biblical papyri of Constantine Simonides by Choat and Wasserman.
 
 * A volume, co-edited by the project team along with collaborators, on forged papyri from (or allegedly from) Egypt, with editions and commentary.
 

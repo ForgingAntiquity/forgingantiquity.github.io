@@ -4,6 +4,11 @@ title: About
 <a name="about"/> 
 # About us
 
+This project grew from three sources: sections of the graduate course on historiography Yuen-Collingridge taught
+at Macquarie University provided the framework for an investigaiton of authenticity and forgery in relation to the 
+ancient world; Choat's involvement in the 'Gospel of Jesus' Wife' affair led to his interest in the topic;and the 
+collaboration between Choat, Yuen-Collingridge and Ast in earlier projects focussing on scribal practice in the papyri
+led to further questions about scribal practice which are inter alia addressed in this project.
 
 <a name="aims"/> 
 ## Aims

@@ -41,12 +41,4 @@ artefacts.
 </figure>
 
 
-<figure class="thumb">
-<a href="/galleryHamon">
-<p><img src="/images/Hamon_thumb.jpg"/></p>
-<figcaption> Hamon Forgery </figcaption>
-
-</a>
-</figure>
-
 

@@ -14,7 +14,7 @@ All these issues are framed within broader interests in discourses of authentici
 
 We thus aim to combine technical and historiographic analysis, situating close examination of forged papyri within socio-historical perspectives on the work of forgers, and the role their productions play in academic and public discussions of the past. By studying the production of forged manuscripts alongside evolving strategies for their detection, we hope to provide insights into the development of authentication techniques, and the means by which forgeries are produced and detected. Via examination of the way debates over forged antiquities engage with other contemporary issues and positioning the development of academic professionalism in relation to evolving public views of the past, we hope to illuminate alignments and disjunctions between academic and popular views on the value of the past, and on who has the authority to determine authenticity.
 
-Contact us at 
+Contact us at info@forgingantiquity.com, or via the contact details in the Team section below.
 
 <a name="aims"/> 
 ## Aims

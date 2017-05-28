@@ -9,12 +9,12 @@ and a conference on a broader theme in 2019.
 For past papers, see below
 
 #### ‘Forging Antiquity: Insights from a new ARC Discovery Project’
- Malcolm Choat, Rachel Yuen-Collingridge, and Vanessa Mawby 
- June 2, 4:00–5:30 pm, X5B 321, Macquarie University
+  Malcolm Choat, Rachel Yuen-Collingridge, and Vanessa Mawby  
+  June 2, 4:00–5:30 pm, X5B 321, Macquarie University
 
 #### ‘The internet antiquities trade: Insight into an invisible market?’
- Lauren Dundler in conversation with Iain Shearer
- June 9, 4:00–5:30 pm, X5B 321, Macquarie University 
+  Lauren Dundler in conversation with Iain Shearer  
+  June 9, 4:00–5:30 pm, X5B 321, Macquarie University 
 
 ### Workshops, Symposia, and Conferences 
 

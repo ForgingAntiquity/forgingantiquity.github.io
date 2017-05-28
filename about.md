@@ -4,37 +4,17 @@ title: About
 <a name="about"/> 
 # About us
 
-This project grew from three sources: sections of the graduate course on historiography Yuen-Collingridge taught
-at Macquarie University provided the framework for an investigaiton of authenticity and forgery in relation to the 
-ancient world; Choat's involvement in the 'Gospel of Jesus' Wife' affair and his participation in a Society of Biblical 
-Literature taskfoce on Unprovenanced antiquties led to his interest in forgeries and issues of culutral heritage; and 
-collaboration between Astm Choat, and Yuen-Collingridge in earlier projects focussing on scribal practice in the papyri
-led to further questions about scribal practice which are inter alia addressed in this project. Dundler's Masters of 
-Research thesis project on the internet trade in papyri was inspired by Yuen-Collingridge's historiography course and 
-developed in discussion with Choat and Yuen-Collingridge to dovetail with the forgery project.
+This project grew from three sources: sections of the graduate course on historiography Yuen-Collingridge taught at Macquarie University provided the framework for an investigation of authenticity and forgery in relation to the ancient world; Choat’s involvement in the ‘Gospel of Jesus’ Wife’ affair and his participation in a Society of Biblical Literature taskforce on unprovenanced antiquities led to his interest in forgeries and issues of cultural heritage; and earlier collaboration between Ast’s project on [Antique Letters as a Means of Communication](http://www.materiale-textkulturen.org/subproject.php?tp=A02&up=) and Choat and Yuen-Collingridge’s ARC project on [scribal practice in duplicate papyri](http://purl.org/au-research/grants/arc/DP120103738) led to further questions about scribal practice which are inter alia addressed in this project. As a research team, we have a set of related concerns which underpin this work.
 
-While the primary focus of the project is forged papyri in Greek, Coptic, or simulated script from (or allegedly from)
-Egypt, it is framed within a broader investigation of authenticity, expertise, and cultural heritage. The significance 
-of the past is nowhere more evident than when its authenticity is called into question. How do we recognise the ‘authentic
-past’, and on what basis do we decide what aspects of it are allowed to participate in our present? Is assessing the past, 
-how do we detect and guard against forgery, and what does the forging of artefacts, and the manner in which we detect them,
-tell us about the importance of the past to the present?
+Our work on a typology of forged papyri, and methodologies and resources for their detection, incorporates not only technical analysis of forgeries, but investigation of their production and distribution. We thus hope to provide not imporved means of assessign and detecting the increasingly large numbers of forgeries being sold on traditional and new antiquities markets, but reflection on the wider role they play in questions of cultural heritage, authenticity discourses, and questions of expertise.
 
-Forgeries can undermine or support dominant institutions and practices, and unsettle the public’s confidence both in the past
-itself, and in the disciplinary expertise of those who comment on it. The unmasking of forgeries can erode the popular perception
-of a single ‘authentic past’ which enables many popular traditions. In the internet age, when access to information and participation
-in debate has become much wider and more immediate, the public reception of the methods, results, and personalities of academic
-scholarship has become particularly prominent, especially in the case of accusations of forgery. In the process, new questions have
-arisen about how we trust the past as presented to us by both professional and amateur commentators, and what constitutes the authority
-to participate in debates about the past.
+Cultural heritage, provenance, and the antiquities trade are central to our concerns. Our investigations of the provenance, production, and purchasing of fake papyri find their context in wider concerns about the antiquities market , especially that for papyri. These issues address both target markets and buyers (including the recent upsurge – sometimes on a large scale and at great expense – in purchasing of textual artifacts), and source countries, where issues of cultural heritage and looting have become critical. Dundler’s Masters of Research thesis project on the internet trade in papyri examines an aspect of this issue in detail.
 
-We aim to combine technical and historiographic analysis, situating close examination of forged papyri within socio-historical 
-perspectives on the work of forgers, and the role their productions play in academic and public discussions of the past. 
-By studying the production of forged manuscripts alongside evolving strategies for their detection, we hope to provide insights 
-into the development of authentication strategies, and the means by which forgeries are produced and detected. Via examination 
-of the way debates over forged antiquities engage with other contemporary issues and positioning the development of academic 
-professionalism in relation to evolving public views of the past, we hope to illuminate alignments and disjunctions between 
-academic and popular views on the value of the past, and on who has the authority to determine authenticity.
+All these issues are framed within broader interests in discourses of authenticity and expertise. The significance of the past is nowhere more evident than when its authenticity is called into question. Forgeries can undermine or support dominant institutions and practices, and unsettle the public’s confidence both in the past itself, and in the disciplinary expertise of those who comment on it. Our investigations of the strategies for the detection of forgeries over the last 500 years find their context in new questions which have arisen about how we trust the past as presented to us by both professional and amateur commentators, and what constitutes the authority to participate in debates about the past.
+
+We thus aim to combine technical and historiographic analysis, situating close examination of forged papyri within socio-historical perspectives on the work of forgers, and the role their productions play in academic and public discussions of the past. By studying the production of forged manuscripts alongside evolving strategies for their detection, we hope to provide insights into the development of authentication techniques, and the means by which forgeries are produced and detected. Via examination of the way debates over forged antiquities engage with other contemporary issues and positioning the development of academic professionalism in relation to evolving public views of the past, we hope to illuminate alignments and disjunctions between academic and popular views on the value of the past, and on who has the authority to determine authenticity.
+
+Contact us at 
 
 <a name="aims"/> 
 ## Aims
@@ -60,7 +40,7 @@ This will focus primarily on the collection of forged papyri in the World Museum
 England in 1859--1863, telling the story of someone forging Greek history, and selling it (literally and metaphorically)
 to the English.
 
-* An online database of forged papyri from (or allegedly from) Egypt.
+* An online database of forged papyri from (or allegedly from) Egypt. We invite people to report fake papyri they are aware of to us at 
 
 * A study by Dundler of the Internet trade in papyrus.
 

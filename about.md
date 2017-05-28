@@ -27,11 +27,7 @@ discussions, in particular debates over the ethics and practice of the antiquiti
 of the illegal trafficking of artefacts; and public perceptions of the relative value of scientific and
 humanities expertise in the detection of forged artefacts.
 
-* Journal articles and book chapters relating to the theme. Those in progress so far include:
-  * a treatment by Yuen-Collingridge of 16th century forger Pierre Hamon;
-  * an article by Choat on the development of authenticating techniques by Jean Mabillon;
-  * a chapter by Choat on Forged papyri in a Handbook on Art Crime edited by Saskia Maria Hufnagel & Duncan Chappell (Palgrave Macmillan).
-  * a treatment of the biblical papyri of Constantine Simonides by Choat and Wasserman.
+* Journal articles and book chapters relating to the theme. Those forthcoming and in progress are listed on our [Research page](/research#publications).
 
 * A volume, co-edited by the project team along with collaborators, on forged papyri from (or allegedly from) Egypt, with editions and commentary.
 

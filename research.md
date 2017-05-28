@@ -18,7 +18,10 @@ M. Choat, ‘The Case of Papyri Fakes’, in *The Art Crime Handbook*, ed. D. Ch
 
 #### In preperation
 
-M. Choat, 'Dating and Authenticating papyri, from Mabillon to the present day', forthcoming in *Journal for the Study of the New Testament*.
+M. Choat, 'Dating and Authenticating papyri, from Mabillon to the present day', to be submitted to *Journal for the Study of the New Testament*.
+R. Yuen-Collingridge, 'The first forged papyrus in Euorpe: Pierre Hamon and his work on ancient scripts'.
+M. Choat and T. Wasserman, 'The Cable guy: the biblical papyri of Constantine Simonides'.
+
 
 #### Papers
 

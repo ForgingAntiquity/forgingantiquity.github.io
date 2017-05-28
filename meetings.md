@@ -9,12 +9,12 @@ and a conference on a broader theme in 2019.
 For past papers, see below
 
 #### ‘Forging Antiquity: Insights from a new ARC Discovery Project’
-Malcolm Choat, Rachel Yuen-Collingridge, and Vanessa Mawby 
-June 2, 4:00–5:30 pm, X5B 321, Macquarie University
+ Malcolm Choat, Rachel Yuen-Collingridge, and Vanessa Mawby 
+ June 2, 4:00–5:30 pm, X5B 321, Macquarie University
 
 #### ‘The internet antiquities trade: Insight into an invisible market?’
-Lauren Dundler in conversation with Iain Shearer
-June 9, 4:00–5:30 pm, X5B 321, Macquarie University 
+ Lauren Dundler in conversation with Iain Shearer
+ June 9, 4:00–5:30 pm, X5B 321, Macquarie University 
 
 ### Workshops, Symposia, and Conferences 
 
@@ -37,8 +37,14 @@ Speakers will include:
 * Clementine Vanderkwast
 * Dr Margie Borschke
 
-Two further meetings are planned: a workshop on editing forged papyri planned for September 2018; 
-and an interdisciplinary conference on authenticity across the disciplines, for late 2019.
+Further meetings are planned for 2018–2019. These will include:
+
+* a workshop on editing forged papyri, planned for Macquarie university in September 2018;
+* a panel on the theme at the 2019 International congress of Papyrology;
+* a follow-up workshop on editing forged papyri, planned for Heidelberg in the second half of 2019;
+* an interdisciplinary conference on authenticity across the disciplines, planned for Macquarie university in late 2019.
+
+More details will be posted on these events in due course.
 
 ### Past Papers
 

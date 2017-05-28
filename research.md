@@ -16,7 +16,7 @@ M. Choat, ‘The Gospel of Jesus’s Wife: A Preliminary Paleographical Assessme
 
 M. Choat, ‘The Case of Papyri Fakes’, in *The Art Crime Handbook*, ed. D. Chappell and S. Hufnagel (Basingstoke: Palgrave Macmillan, in press).
 
-#### In preperation
+#### In preparation
 
 M. Choat, 'Dating and Authenticating papyri, from Mabillon to the present day', to be submitted to *Journal for the Study of the New Testament*.
 

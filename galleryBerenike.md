@@ -1,4 +1,4 @@
-## Ostraca from Berenike in mysterious scripts
+### Ostraca from Berenike in mysterious scripts
 
 The ostraca illustrated below were found in an archaeological context, an Early Roman dump at the Red Sea port of [Berenike](https://pleiades.stoa.org/places/785986). The datable contents of this trench belong approximately to the third quarter of the first century AD, i.e., to the reigns of Nero and Vespasian. These ostraca are not Greek, Latin, or Demotic, and it seems likely that all represent one or more Semitic scripts. In *O. Berenike* 2 (ed. Bagnall, Helms, and Verhoogt, 2005, where they were published as nos. 254–257), some suggestions were advanced (thanks to Meindert Dijkstra) on possible Semitic scripts (including Palmyrene Cursive, and Old Syrian) in which they might be written. However, much remains unclear about these texts, and ideas about them are very welcome (please contact Rodney Ast, <a href="mailto:ast@uni-heidelberg.de">ast@uni-heidelberg.de</a>.)
 

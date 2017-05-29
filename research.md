@@ -52,7 +52,7 @@ Further information on the project may be found <a href="https://www.aiegl.org/b
 
 <dt>Forged antiquities -- a forthcoming book by Christopher Rollston</dt>
 <dd> Christopher Rollston (<a href="https://cnelc.columbian.gwu.edu/christopher-rollston">institutional page</a>) is writing a book on
-ancient and modern epigraphic and other forgeries; see his blog at <a href="http://www.rollstonepigraphy.com">http://www.rollstonepigraphy.com</a>. </dd>
+ancient and modern epigraphic and other forgeries; see also his <a href="http://www.rollstonepigraphy.com">blog</a>. </dd>
 
 <dt>Forgery and the Ancient: Art, Agency, Authorship</dt>
 <dd> The 2017--2018 Seminar of the Humanities Research Center at Rice University, Texas is based on the theme 

@@ -4,7 +4,7 @@ A gallery of forged papyri (alledged or proven), and related
 artefacts. While the project database is being produced, this page
 will feature papyri and related artefacts which illustrates issues
 we are addressing. To report a fake papyrus to us, contact us at
-info@forgingantiquity.com.
+<a href="mailto:info@forgingantiquity.com">info@forgingantiquity.com</a>.
 
 
 

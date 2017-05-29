@@ -40,4 +40,12 @@ This gallery shows some of the types of material on which we will focus: forged 
 </figure>
 
 
+<figure class="thumb">
+<a href="/galleryBerenike">
+<p><img src="/images/48055-OBer255_thumb"/></p>
+<figcaption> Semitic(?) ostraca from Berenike </figcaption>
+
+</a>
+</figure>
+
 

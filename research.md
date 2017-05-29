@@ -24,6 +24,7 @@ R. Yuen-Collingridge, 'The first forged papyrus in Euorpe: Pierre Hamon and his 
 
 M. Choat and T. Wasserman, 'The Cable guy: the biblical papyri of Constantine Simonides'.
 
+Work is also in progress by Yuen-Collingridge, Choat, and Schwendner on other parts of the Simonides corpus, as well as on the historical circumstances of his career.
 
 #### Papers
 

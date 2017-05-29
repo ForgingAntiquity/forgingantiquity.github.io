@@ -1,3 +1,2 @@
-Rodney Ast is a Senior Research and Teaching Associate in the 
-Institute for Papyrology at the University of Heidelberg. 
+Rodney Ast is a Senior Research and Teaching Associate in the Institute for Papyrology at the University of Heidelberg. His research interests are methods of authentication and the production of writing in antiquity; ancient literacy; Graeco-Roman social history, archeology, and cultural heritage; digital papyrology and scholarly communication.   Current projects include the study of written artifacts from the Red Sea area; Latin everyday texts from North Africa; literary agency in Roman Egypt. He is particularly interested in scholarly assumptions about purported forgeries. 
 For details of his publications, see his [academia.edu page](https://uni-heidelberg.academia.edu/RodneyAst). 

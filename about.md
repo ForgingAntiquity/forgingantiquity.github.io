@@ -20,7 +20,7 @@ Contact us at <a href="mailto:info@forgingantiquity.com">info@forgingantiquity.c
 ## Aims
 
 The project aims to produce a full typology of forged papyri of all types, from the early modern period to the 
-present day, by a close exmaination of fake papyri of every type. Alongside this, we investigate how papyrus 
+present day, by a close examination of fake papyri of every type. Alongside this, we investigate how papyrus 
 forgers work, both in terms of the methods they use, and the assumptions about the past which they exploit when
 producing fakes. In doing do, we will locate and contextualise debates over forged papyri within contemporary
 discussions, in particular debates over the ethics and practice of the antiquities trade and the related problem 

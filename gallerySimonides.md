@@ -5,9 +5,9 @@ One of the chief focuses of the project will be the papyri forged in the mid 19t
 by Constantine Simonides, who created a suite of papyri containing Christian scripture, 
 Greek historical works, and private letters from the Egyptian papyri in the collection of Joseph 
 Mayer, an antiquities collector from Liverpool.
-The image below shows the facsimle of a papyrus which pretended to be from the lost Ecclesiastical
-History of Hegesippus, which (conviniently) confirmed both Simonides' theories about the New
-Testament and material found in some of his other forgeries. The papyrus is today in the
+The image below shows the facsimile of a papyrus which pretended to be from the lost Ecclesiastical
+History of Hegesippus, which (conveniently) confirmed both Simonides' theories about the New
+Testament and material found in some of his other forgeries. The papyrus is today housed in the
 [World Museum Liverpool](http://www.liverpoolmuseums.org.uk/wml/).
 
 

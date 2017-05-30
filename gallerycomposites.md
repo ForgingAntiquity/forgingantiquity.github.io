@@ -1,6 +1,6 @@
 ### Types of papyrus forgery: Composites
 
-One of the most common types of fake are composites made by 
+One of the most common category of fakes is composites made by 
 sticking together a number of fragments from genuine papyri. 
 Sometimes the pieces come from the one original papyrus, but
 often they are easily recognisable because clearly separate 

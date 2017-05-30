@@ -4,4 +4,4 @@ The overarching theme of his work is the role of language, truth, and historical
 
 He is working concurrently on a study of the evidence for Greek and Roman thought, belief, and practice concerning resurrection prior to the first century AD. This project proposes to offer a considered response to claims by contemporary Christian apologists that bodily return from the dead was absent as a category of thought in the Greek and Roman worlds prior to the earliest interpretations of the alleged resurrection of Jesus Christ. In doing so, it rethinks the authenticity of the claim that the Early Christian interpretation of and extrapolation upon the ‘empty tomb’ (whether historical reality or narrative motif) was demonstrably unprecedented and ultimately disconnected from earlier mythological and theological traditions. 
 
-Contact him at: [daniel@forgingantiquity.com](mailto: daniel@forgingantiquity.com) 
+Publications can be found on at [academia.edu](http://sydney.academia.edu/DanielHanigan). Contact him at: [daniel@forgingantiquity.com](mailto: daniel@forgingantiquity.com) 

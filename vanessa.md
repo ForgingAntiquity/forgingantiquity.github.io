@@ -5,5 +5,5 @@ the construction of global communities. Our interconnectedness, afforded by tech
 
 As grammar is foundational to the way we construe information and experience across individuals and communities, her studies of ancient languages, including Classical Latin, Greek, and Middle Egyptian Hieroglyphs, aim to draw connections between how language is used to facilitate communication. 
 
-Contact Vanessa at 
-[vanessa@forgingantiquity.com] 
+Contact Vanessa: 
+<vanessa@forgingantiquity.com>

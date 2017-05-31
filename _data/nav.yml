@@ -22,4 +22,11 @@
 
 - title: "Research"
   href: "/research"
+  subcategories:
+  - subtitle: "Publications"
+    subhref: "/research#publications"
+  - subtitle: "Related Projects"
+    subhref: "/research#related"
+  - subtitle: "Bibliography"
+    subhref: "/research#bibliography"
 

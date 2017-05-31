@@ -28,6 +28,8 @@ Work is also in progress by Yuen-Collingridge, Choat, and Schwendner on other pa
 
 #### Papers
 
+Here we will list papers given by the team on the themes of the project.
+
 <a name="related"/>
 ### Related Projects
 

@@ -1,10 +1,10 @@
 # Markers of Authenticity 
 
 'Forging Antiquity' is part of the 'Markers of Authenticity' research cluster 
-within the Fauclty of Arts at Macquarie University, a cross-disciplinary research
-network which draws on research expertise from across the Faculty of Arts to host
-conversations about the markers of authenticity in human experience of the contemporary
-and past worlds from a range of perspectives. 
+within the Faculty of Arts at Macquarie University, a cross-disciplinary research
+network which draws on research expertise from across the Faculty of Arts and beyond 
+to host conversations about the markers of authenticity in human experience of the 
+contemporary and past worlds from a range of perspectives. 
 How do we distinguish the real from the fake? How can we trust what we perceive? How 
 stable is our hold on the truth? This cross-disciplinary research network seeks to 
 understand why authenticity matters so much and to look at the ways in which it has been

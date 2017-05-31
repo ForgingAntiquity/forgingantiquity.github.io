@@ -50,7 +50,7 @@ to light in the last fifteen years, with a special focus on recently published a
 <dt>False testimonianze. Copie, contraffazioni, manipolazioni e abusi del documento epigrafico antico</dt>
 <dd> A National Research Project funded by the Italian Ministry of Education, based at Ca' Foscari 
 University of Venice and led by Lorenzo Calvelli, this project focuses on fake Roman inscriptions. 
-Further information on the project may be found <a href="https://www.aiegl.org/blogreader/research-project-on-epigraphic-forgeries.html">at their research page</a> </dd>
+For further information on the project, see this <a href="https://www.aiegl.org/blogreader/research-project-on-epigraphic-forgeries.html">announcement</a>. </dd>
 
 <dt>Forged antiquities -- a forthcoming book by Christopher Rollston</dt>
 <dd> Christopher Rollston (<a href="https://cnelc.columbian.gwu.edu/christopher-rollston">institutional page</a>) is writing a book on

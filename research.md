@@ -75,7 +75,7 @@ a range of approaches.</dd>
 <a name="bibliography"/>
 ### Bibliography
 
-A selection of earlier work on forged papyri.
+A selection of earlier work on forged papyri (to be expanded in the future).
 
 Coles R.A. and Gallazzi, C. “Papyri and Ostraka: Alterations and Counterfeits”, in *Scritti in onore di Orsolina Montevecchi* (Bologna: Clueb, 1981), pp. 99–105.
 

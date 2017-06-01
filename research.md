@@ -28,7 +28,32 @@ Work is also in progress by Yuen-Collingridge, Choat, and Schwendner on other pa
 
 #### Papers
 
-Here we will list papers given by the team on the themes of the project.
+Papers given by the team on the themes of the project.
+
+Malcolm Choat, Panelist: ‘Provenance in an eBay World: Does the Provenance of Ancient Artifacts Matter?’, *Society of Biblical Literature Annual Meeting* Atlanta, 23 November 2015. 
+
+Malcolm Choat, ‘Forged memories, real emotions: discourses of authenticity and the debate over fake artifacts’, *Moving Minds: Converting cognition and emotion in history*, Macquarie University, Sydney, 2–4 March 2016.
+
+Rachel-Yuen Collingridge ‘Zukunftsgeschichte and the future of history’, *Markers of Authenticity*, Macquarie University, 11 March 2016.
+
+Malcolm Choat , ‘What is a forgery? Constantine Simonides, the Joseph Mayer papyri, and Hermippus of Beirut’, *Markers of Authenticity*, Macquarie University, 1 April 2016.
+
+Malcolm Choat, ‘From Constantine Simonides to the Gospel of Jesus' Wife: the Authentication of Papyri and Development of Palaeography’, *Manuscript Forgeries and Counterfeiting Scripture in the Twenty-First Century*, University of Agder, 13–15 April 2016.
+
+Malcolm Choat, ‘Forging Antiquity: An overview of the Project’, *Manuscript Forgeries and Counterfeiting Scripture in the Twenty-First Century*, University of Agder, 13–15 April 2016.
+
+Malcolm Choat, ‘Constantine Simonides and his Biblical Papyri’, *Scripture, Reception, and Authenticity*, a *Markers of Authenticity* workshop, 9 September 2016.
+
+Malcolm Choat, ‘Speed-Dating Papyri: Familiarity, Instinct, and Guesswork’ Panel: *Dating Early Christian Papyri: Old and New Methods*, *Society of Biblical Literature Annual Meeting*, San Antonio, 21 November 2016.
+
+Malcolm Choat, ‘Hermippus of Beirut, Simonides of Symi, and the forgery of papyri’, *Australasian Society for Classical Studies Annual Conference*, Victoria University, Wellington, 31 January–3 February 2017.
+
+Malcolm Choat and Rachel Yuen-Collingridge, ‘Jean Mabillon, Pierre Hamon, and the first forged papyrus in Europe’, *Australia and New Zealand Association for Medieval and Early Modern Studies biennial conference*, Victoria University, Wellington, New Zealand, 7–10 February 2017.
+
+Malcolm Choat, Rachel Yuen-Collingridge, and Vanessa Mawby, ‘Forging Antiquity: Insights from a new ARC Discovery Project’, *Markers of Authenticity*, Macquarie University, 2 June 2017.
+
+Lauren Dundler in discussion with Iain Shearer, ‘The Internet Antiquities Trade: Insight into an Invisible Market?’, *Markers of Authenticity*, Macquarie University, 9 June 2017.
+
 
 <a name="related"/>
 ### Related Projects

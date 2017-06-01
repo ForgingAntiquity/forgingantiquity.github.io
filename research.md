@@ -14,7 +14,7 @@ M. Choat, ‘The Gospel of Jesus’s Wife: A Preliminary Paleographical Assessme
 
 #### In press
 
-M. Choat, ‘The Case of Papyri Fakes’, in *The Art Crime Handbook*, ed. D. Chappell and S. Hufnagel (Basingstoke: Palgrave Macmillan, in press).
+M. Choat, ‘The Case of Papyrus Fakes’, in *The Art Crime Handbook*, ed. D. Chappell and S. Hufnagel (Basingstoke: Palgrave Macmillan, in press).
 
 #### In preparation
 
@@ -44,7 +44,7 @@ Malcolm Choat, ‘Forging Antiquity: An overview of the Project’, *Manuscript 
 
 Malcolm Choat, ‘Constantine Simonides and his Biblical Papyri’, *Scripture, Reception, and Authenticity*, a *Markers of Authenticity* workshop, 9 September 2016.
 
-Malcolm Choat, ‘Speed-Dating Papyri: Familiarity, Instinct, and Guesswork’ Panel: *Dating Early Christian Papyri: Old and New Methods*, *Society of Biblical Literature Annual Meeting*, San Antonio, 21 November 2016.
+Malcolm Choat, ‘Speed-Dating Papyri: Familiarity, Instinct, and Guesswork’, Panel: *Dating Early Christian Papyri: Old and New Methods*, *Society of Biblical Literature Annual Meeting*, San Antonio, 21 November 2016.
 
 Malcolm Choat, ‘Hermippus of Beirut, Simonides of Symi, and the forgery of papyri’, *Australasian Society for Classical Studies Annual Conference*, Victoria University, Wellington, 31 January–3 February 2017.
 

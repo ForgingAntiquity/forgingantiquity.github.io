@@ -54,13 +54,15 @@ Malcolm Choat, Rachel Yuen-Collingridge, and Vanessa Mawby, ‘Forging Antiquity
 
 Lauren Dundler in discussion with Iain Shearer, ‘The Internet Antiquities Trade: Insight into an Invisible Market?’, *Markers of Authenticity*, Macquarie University, 9 June 2017.
 
+Lauren Dundler, ‘Collecting Papyrus in the 21st Century: Price, Provenance and Personae’,*Immortal Words: Classical Antiquity Then and Now*: AMPHORAE XI, University of Sydney, 12–14 JUly 2017. 
+
 
 <a name="related"/>
 ### Related Projects
 
 There are a range of projects being currently undertaken in various
 institutions on issues related to forged antiquities. Below we list those
-of which we are aware: to alert us to others, please email [malcolm@forgingantiquity.com](mailto:malcolm@forgingantiquity.com).
+of which we are aware: to alert us to others, please email [info@forgingantiquity.com](mailto:info@forgingantiquity.com).
 
 
 

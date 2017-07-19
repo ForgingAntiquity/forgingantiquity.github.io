@@ -54,7 +54,8 @@ Postdoctoral Fellow and Project Manager:
 * [Rachel Yuen-Collingridge](/rachel)
 
 Research Assistants:
-* [Daniel Hanigan](/daniel) 
+* [Daniel Hanigan](/daniel)
+* [Jacob Gwiazdzinski](/jacob)
 * [Vanessa Mawby](/vanessa)
 
 Research students:

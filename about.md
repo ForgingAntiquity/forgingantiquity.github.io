@@ -55,8 +55,8 @@ Postdoctoral Fellow and Project Manager:
 
 Research Assistants:
 * [Daniel Hanigan](/daniel)
-* [Jacob Gwiazdzinski](/jacob)
 * [Vanessa Mawby](/vanessa)
+* [Jacob Gwiazdzinski](/jacob)
 
 Research students:
 * [Lauren Dundler](/lauren) 

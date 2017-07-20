@@ -23,3 +23,5 @@ to the English.
 * An online database of forged papyri from (or allegedly from) Egypt.
 
 * A study by Dundler of the Internet trade in papyrus.
+
+* An online Artefact Portal where members of the public can learn about the antiquities trade, provide us with stories about their own collections of antiquities, and connect with researchers about the past and present of the antiquities market.

@@ -24,4 +24,4 @@ to the English.
 
 * A study by Dundler of the Internet trade in papyrus.
 
-* An online Artefact Portal where members of the public can learn about the antiquities trade, provide us with stories about their own collections of antiquities, and connect with researchers about the past and present of the antiquities market.
+* An online [Artefact Portal](http://www.forgingantiquity.com/portal) where members of the public can learn about the antiquities trade, provide us with stories about their own collections of antiquities, and connect with researchers about the past and present of the antiquities market.

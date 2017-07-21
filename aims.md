@@ -17,7 +17,7 @@ humanities expertise in the detection of forged artefacts.
 
 * A monograph, co-authored by Choat and Yuen-Collingridge, on the mid-nineteenth century master forger and self-taught manuscript expert Constantine Simonides. 
 This will focus primarily on the collection of forged papyri in the World Museum at Liverpool and on Simonides’ time in 
-England in 1859–1863, telling the story of someone forging Greek history and selling it (literally and metaphorically)
+England in 1859–1863, telling the story of someone forging Greek history, and selling it (literally and metaphorically)
 to the English.
 
 * An online database of forged papyri from (or allegedly from) Egypt.

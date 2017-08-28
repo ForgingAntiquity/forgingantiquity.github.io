@@ -14,8 +14,11 @@
   - subtitle: "Our Team"
     subhref: "/about#team"
 
-- title: "Meetings"
-  href: "/meetings"
+- title: "Events"
+  href: "/events"
+  subcategories:
+    -subtitle: "events"
+     subhref: "/event#conference"
 
 - title: "Portal"
   href: "/portal"

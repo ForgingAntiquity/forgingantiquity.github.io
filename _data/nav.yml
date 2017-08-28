@@ -17,8 +17,8 @@
 - title: "Events"
   href: "/events"
   subcategories:
-    - subtitle: "Conference"
-      subhref: "/event#conference"
+  - subtitle: "Conference"
+    subhref: "/event#conference"
 
 - title: "Portal"
   href: "/portal"

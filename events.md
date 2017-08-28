@@ -44,6 +44,6 @@ Further meetings are planned for 2018–2019. These will include:
 * a follow-up workshop on editing forged papyri, planned for Heidelberg in the second half of 2019;
 * an interdisciplinary conference on authenticity across the disciplines, planned for Macquarie university in late 2019.
 
-For more information, [click here](null).
+For more information, [click here](/conference).
 
 ### Past Papers

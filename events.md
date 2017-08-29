@@ -27,13 +27,13 @@ This symposium will examine forged objects from a range of genres and periods,
 as well as the discourses of authenticity that surround them, and the contrasting
 approaches and implications of Humanities and Scientific approaches to authentication.
 
+For more information, [click here](/conference).
+
 Further meetings are planned for 2018–2019. These will include:
 
 * a workshop on editing forged papyri, planned for Macquarie university in September 2018;
 * a panel on the theme at the 2019 International congress of Papyrology;
 * a follow-up workshop on editing forged papyri, planned for Heidelberg in the second half of 2019;
 * an interdisciplinary conference on authenticity across the disciplines, planned for Macquarie university in late 2019.
-
-For more information, [click here](/conference).
 
 ### Past Papers

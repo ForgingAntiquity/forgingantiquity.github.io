@@ -1,9 +1,11 @@
 ---
-title: Conference
+title: Conference 2017
 ---
 ## ‘Imagining the real: Alternative (arte)facts from antiquity to the present day’
 
 ### October 13–14, 2017, Macquarie University Museum of Ancient Cultures
+
+[register here](null)
 
 Sponsored by the Australian Research Council, the MQ Ancient Cultures Research Centre,  the Australian Centre for Ancient Numismatic Studies, and the Macquarie University Faculty of Arts ‘Modes of Communication’ Research Theme.
 
@@ -17,3 +19,7 @@ This symposium examines contested objects from a range of genres and periods; tr
 John Melville Jones (University of Western Australia); Årstein Justnes (University of Agder); Margie Borscke (Macquarie University); Malcolm Choat (Macquarie University); Maree Clegg (University of Auckland); Heather Greybehl (Monash University); Ken Sheedy (Macquarie University); Clementine Vanderkwast (Macquarie University); Rachel Yuen-Collingridge (Macquarie University).
 
 Attendance will be free, but rsvps are necessary for catering purposes. A registration site wil be activated soon, but to signal interest now, or for other inquiries, contact [malcolm@forgingantiquity.com](mailto:malcolm@forgingantiquity.com)
+
+### Registration
+
+<iframe src="https://mqedu.qualtrics.com/jfe/form/SV_cOpJQuiF2RIKdUx" style="width:100%; height:500px"/>

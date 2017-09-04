@@ -6,7 +6,7 @@ title: Conference 2017
 ### October 13–14, 2017, Macquarie University Museum of Ancient Cultures
 ---
 
-
+<a name="quicklinks"/>
 #### Quicklinks:
 
 [Speakers](/conference#Speakers)
@@ -27,7 +27,7 @@ All pasts are imagined, competing constructs of what should, or could, have been
 
 This symposium examines contested objects from a range of genres and periods; traditional and emerging techniques used to authenticate them; and the discourses of authenticity and modes of knowledge that both enable their creation, and frame competing understandings of them.
 
-[Back to top](null)
+[Back to top](/conference#quicklinks)
 
 <a name="Speakers"/>
 #### Speakers
@@ -39,17 +39,17 @@ Attendance will be free, but rsvps are necessary for catering purposes. A regist
 #### Abstracts
 Coming soon
 
-[Back to top](null)
+[Back to top](/conference#quicklinks)
 
 <a name="Programme"/>
 #### Programme
 Coming soon
 
-[Back to top](null)
+[Back to top](/conference#quicklinks)
 
 <a name="Registration"/>
 #### Registration
 
 <iframe src="https://mqedu.qualtrics.com/jfe/form/SV_cOpJQuiF2RIKdUx" style="width:100%; height:600px"/>
 
-[Back to top](null)
+[Back to top](/conference#quicklinks)

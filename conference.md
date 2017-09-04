@@ -63,5 +63,6 @@ Coming soon
 #### Registration
 
 <iframe src="https://mqedu.qualtrics.com/jfe/form/SV_cOpJQuiF2RIKdUx" style="width:100%; height:600px"/>
+</iframe>
 
 [Back to top](/conference#quicklinks)

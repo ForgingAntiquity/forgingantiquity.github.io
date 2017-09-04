@@ -62,7 +62,7 @@ Coming soon
 <a name="Registration"/>
 #### Registration
 
-<iframe src="https://mqedu.qualtrics.com/jfe/form/SV_cOpJQuiF2RIKdUx" style="width:100%; height:600px"/>
+<iframe src="https://mqedu.qualtrics.com/jfe/form/SV_cOpJQuiF2RIKdUx" style="width:100%; height:500px">
 </iframe>
 
 [Back to top](/conference#quicklinks)

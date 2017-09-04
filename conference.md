@@ -5,7 +5,10 @@ title: Conference 2017
 
 ### October 13–14, 2017, Macquarie University Museum of Ancient Cultures
 
-[register here](null)
+
+Quicklinks:
+[Register here](null)
+[Submit abstract](null)
 
 Sponsored by the Australian Research Council, the MQ Ancient Cultures Research Centre,  the Australian Centre for Ancient Numismatic Studies, and the Macquarie University Faculty of Arts ‘Modes of Communication’ Research Theme.
 
@@ -23,3 +26,5 @@ Attendance will be free, but rsvps are necessary for catering purposes. A regist
 ### Registration
 
 <iframe src="https://mqedu.qualtrics.com/jfe/form/SV_cOpJQuiF2RIKdUx" style="width:100%; height:500px"/>
+
+### Abstract

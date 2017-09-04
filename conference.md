@@ -9,7 +9,7 @@ title: Conference 2017
 
 #### Quicklinks:
 
-[Speakers](null)
+[Speakers](/conference#Speakers)
 
 [Abstracts](null)
 

@@ -4,11 +4,11 @@ title: Conference 2017
 ## ‘Imagining the real: Alternative (arte)facts from antiquity to the present day’
 
 ### October 13–14, 2017, Macquarie University Museum of Ancient Cultures
-
+---
 
 
 #### Quicklinks:
----
+
 [Registration](null)
 
 [Submit abstract](null)
@@ -30,7 +30,7 @@ Attendance will be free, but rsvps are necessary for catering purposes. A regist
 
 #### Registration
 
-<iframe src="https://mqedu.qualtrics.com/jfe/form/SV_cOpJQuiF2RIKdUx" style="width:100%; height:500px"/>
+<iframe src="https://mqedu.qualtrics.com/jfe/form/SV_cOpJQuiF2RIKdUx" style="width:100%; height:600px"/>
 
 #### Abstract
 Aaa

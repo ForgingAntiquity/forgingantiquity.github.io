@@ -35,6 +35,8 @@ John Melville Jones (University of Western Australia); Årstein Justnes (Univers
 
 Attendance will be free, but rsvps are necessary for catering purposes. A registration site wil be activated soon, but to signal interest now, or for other inquiries, contact [malcolm@forgingantiquity.com](mailto:malcolm@forgingantiquity.com)
 
+[Back to top](/conference#quicklinks)
+
 <a name="Abstracts"/>
 #### Abstracts
 Coming soon

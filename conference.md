@@ -27,7 +27,7 @@ All pasts are imagined, competing constructs of what should, or could, have been
 
 This symposium examines contested objects from a range of genres and periods; traditional and emerging techniques used to authenticate them; and the discourses of authenticity and modes of knowledge that both enable their creation, and frame competing understandings of them.
 
-[return top](null)
+[Back to top](null)
 
 #### Speakers
 John Melville Jones (University of Western Australia); Årstein Justnes (University of Agder); Margie Borscke (Macquarie University); Malcolm Choat (Macquarie University); Maree Clegg (University of Auckland); Heather Greybehl (Monash University); Ken Sheedy (Macquarie University); Clementine Vanderkwast (Macquarie University); Rachel Yuen-Collingridge (Macquarie University).
@@ -37,17 +37,17 @@ Attendance will be free, but rsvps are necessary for catering purposes. A regist
 #### Abstracts
 Coming soon
 
-[return top](null)
+[Back to top](null)
 
 
 #### Programme
 Coming soon
 
-[return top](null)
+[Back to top](null)
 
 
 #### Registration
 
 <iframe src="https://mqedu.qualtrics.com/jfe/form/SV_cOpJQuiF2RIKdUx" style="width:100%; height:600px"/>
 
-[return top](null)
+[Back to top](null)

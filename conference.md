@@ -27,7 +27,7 @@ All pasts are imagined, competing constructs of what should, or could, have been
 
 This symposium examines contested objects from a range of genres and periods; traditional and emerging techniques used to authenticate them; and the discourses of authenticity and modes of knowledge that both enable their creation, and frame competing understandings of them.
 
-[Back to top](/conference#quicklinks)
+[^ Back to top ^](/conference#quicklinks)
 
 <a name="Speakers"/>
 #### Speakers

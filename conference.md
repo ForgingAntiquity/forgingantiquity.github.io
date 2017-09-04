@@ -6,14 +6,15 @@ title: Conference 2017
 ### October 13–14, 2017, Macquarie University Museum of Ancient Cultures
 
 
----
+
 #### Quicklinks:
+---
 [Registration](null)
 
 [Submit abstract](null)
 
 
-### Overview
+#### Overview
 Sponsored by the Australian Research Council, the MQ Ancient Cultures Research Centre,  the Australian Centre for Ancient Numismatic Studies, and the Macquarie University Faculty of Arts ‘Modes of Communication’ Research Theme.
 
 Authenticity gives our experience of the world salience and purchase. The idea of a single real past, anchored in material culture and transmitted by cultural practices, remains cherished in popular culture even as it is steadily eroded by academic discourse. The notion of a stable distinction between true and false continues to the widely held, even as everything from fake news to forged objects dissipates this certainty.

@@ -6,11 +6,14 @@ title: Conference 2017
 ### October 13–14, 2017, Macquarie University Museum of Ancient Cultures
 
 
-### Quicklinks:
+---
+#### Quicklinks:
 [Registration](null)
 
 [Submit abstract](null)
 
+
+### Overview
 Sponsored by the Australian Research Council, the MQ Ancient Cultures Research Centre,  the Australian Centre for Ancient Numismatic Studies, and the Macquarie University Faculty of Arts ‘Modes of Communication’ Research Theme.
 
 Authenticity gives our experience of the world salience and purchase. The idea of a single real past, anchored in material culture and transmitted by cultural practices, remains cherished in popular culture even as it is steadily eroded by academic discourse. The notion of a stable distinction between true and false continues to the widely held, even as everything from fake news to forged objects dissipates this certainty.
@@ -24,8 +27,9 @@ John Melville Jones (University of Western Australia); Årstein Justnes (Univers
 
 Attendance will be free, but rsvps are necessary for catering purposes. A registration site wil be activated soon, but to signal interest now, or for other inquiries, contact [malcolm@forgingantiquity.com](mailto:malcolm@forgingantiquity.com)
 
-### Registration
+#### Registration
 
 <iframe src="https://mqedu.qualtrics.com/jfe/form/SV_cOpJQuiF2RIKdUx" style="width:100%; height:500px"/>
 
-### Abstract
+#### Abstract
+[Submit](null)

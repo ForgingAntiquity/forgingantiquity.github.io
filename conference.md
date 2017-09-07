@@ -34,31 +34,48 @@ Attendance will be free, but rsvps are necessary for catering purposes. A regist
 <a name="Speakers"/>
 #### Speakers
 
-John Melville-Jones (University of Western Australia)
+#####John Melville-Jones (University of Western Australia)
+
 'Forgeries or not forgeries? A range of situations'
 
-Årstein Justnes (Department of Religion, Philosophy and History, University of Agder)
+
+#####Årstein Justnes (Department of Religion, Philosophy and History, University of Agder)
+
 'Authenticating Forgeries 101: The Post-2002 Dead Sea Scrolls-like Fragments'
 
-Malcolm Choat (Department of Ancient History, Macquarie University)
+
+#####Malcolm Choat (Department of Ancient History, Macquarie University)
+
 'How do we edit a forged papyrus? Problems and prospects'
 
-Maree Clegg (Department of Art History, University of Auckland)
+
+#####Maree Clegg (Department of Art History, University of Auckland)
+
 'Eighteenth-Century Restoration of Ancient Marbles:  Questions of Authenticity in the Collections of Charles Townley and the Marquis of Lansdowne'
 
-Heather Greybehl (Centre for Ancient Cultures, Monash University)
+
+#####Heather Greybehl (Centre for Ancient Cultures, Monash University)
+
 'Deception or Flattery: Imitations, Skeuomorphs, and Forgeries of Objects in the Classical and Hellenistic Greek World'
 
-Ken Sheedy (Department of Ancient History, Macquarie University)
+
+#####Ken Sheedy (Department of Ancient History, Macquarie University)
+
 'Minting official “fakes” or the logic of plated coins'
 
-Clementine Vanderkwast (Department of Music, Media, and Cultural Studies, Macquarie University)
+
+#####Clementine Vanderkwast (Department of Music, Media, and Cultural Studies, Macquarie University)
+
 'The Conspiracy of Art: Louis Vuitton and Jeff Koons'
 
-Margie Borscke (Department of Music, Media, and Cultural Studies, Macquarie University)
+
+#####Margie Borscke (Department of Music, Media, and Cultural Studies, Macquarie University)
+
 Title TBA
 
-Rachel Yuen-Collingridge (Department of Ancient History, Macquarie University)
+
+#####Rachel Yuen-Collingridge (Department of Ancient History, Macquarie University)
+
 Title TBA
 
 

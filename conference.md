@@ -7,7 +7,7 @@ title: Conference 2017
 ---
 
 <a name="quicklinks"/>
-#### Quicklinks:
+#### Quicklinks
 
 [Speakers](/conference#Speakers)
 

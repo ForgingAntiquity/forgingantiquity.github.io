@@ -36,7 +36,6 @@ Attendance will be free, but rsvps are necessary for catering purposes. A regist
 
 
 John Melville-Jones (University of Western Australia)
-
 'Forgeries or not forgeries? A range of situations'
 
 

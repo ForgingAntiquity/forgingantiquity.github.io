@@ -70,7 +70,7 @@ Coming soon
 
 <a name="Programme"/>
 #### Programme
-Papers will run from 2-6pm on Friday and 9-4pm on Saturday. A detailed Programme will be uploaded soon.
+Papers will run from 2-6pm on Friday and 9-4pm on Saturday. A detailed programme will be uploaded soon.
 
 [Back to top](/conference#quicklinks)
 

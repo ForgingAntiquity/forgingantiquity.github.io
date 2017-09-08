@@ -58,7 +58,7 @@ Attendance will be free, but rsvps are necessary for catering purposes. A [regis
 (Title TBA)
 
 ###### Rachel Yuen-Collingridge (Department of Ancient History, Macquarie University)
-Fabricated Authenticity: Reflections on the theme
+'Fabricated Authenticity: Reflections on the theme'
 
 [Back to top](/conference#quicklinks)
 
@@ -70,7 +70,7 @@ Coming soon
 
 <a name="Programme"/>
 #### Programme
-Papers will run from 2-6pm on Friday and 9-4pm on Saturday. A detailed programme will be uploaded soon.
+The conference will run from 2.00–6.00 pm on Friday 13th and 10.00–4.00 pm on Saturday 14th of October, with the keynote lecture by John Melville Jones on Friday afternoon. A full program will be placed here soon.
 
 [Back to top](/conference#quicklinks)
 

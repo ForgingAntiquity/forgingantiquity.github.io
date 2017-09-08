@@ -58,7 +58,7 @@ Attendance will be free, but rsvps are necessary for catering purposes. A [regis
 (Title TBA)
 
 ###### Rachel Yuen-Collingridge (Department of Ancient History, Macquarie University)
-(Title TBA)
+Fabricated Authenticity: Reflections on the theme
 
 [Back to top](/conference#quicklinks)
 
@@ -70,7 +70,7 @@ Coming soon
 
 <a name="Programme"/>
 #### Programme
-Coming soon
+Papers will run from 2-6pm on Friday and 9-4pm on Saturday. A detailed Programme will be uploaded soon.
 
 [Back to top](/conference#quicklinks)
 

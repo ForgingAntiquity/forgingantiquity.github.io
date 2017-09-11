@@ -70,7 +70,7 @@ Coming soon
 
 <a name="Programme"/>
 #### Programme
-The conference will run from 2.00–6.00 pm on Friday 13th and 10.00–4.00 pm on Saturday 14th of October, with the keynote lecture by John Melville Jones on Friday afternoon. A full program will be placed here soon.
+The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to follow the keynote lecture by John Melville Jones on Friday afternoon, and 10.00–3.30 pm on Saturday 14th of October.
 
 [Back to top](/conference#quicklinks)
 

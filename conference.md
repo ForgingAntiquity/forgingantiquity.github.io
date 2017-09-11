@@ -58,7 +58,7 @@ Attendance will be free, but rsvps are necessary for catering purposes. A [regis
 (Title TBA)
 
 ###### Rachel Yuen-Collingridge (Department of Ancient History, Macquarie University)
-'Fabricating Authenticity: Reflections on the theme'
+‘Fabricating Authenticity: Reflections on the theme’
 
 [Back to top](/conference#quicklinks)
 
@@ -70,7 +70,43 @@ Coming soon
 
 <a name="Programme"/>
 #### Programme
-The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to follow the keynote lecture by John Melville Jones on Friday afternoon, and 10.00–3.30 pm on Saturday 14th of October.
+The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to follow the keynote lecture by John Melville Jones on Friday afternoon, and 10.00–3.30 pm on Saturday 14th of October. All sessions will be held in the Museum of Ancient Cultures seminar room on the third floor of building X5B (room 321) at Macquarie University.
+
+######Friday 13th October
+
+3:00–3:15 Welcome
+
+3:15–3:45 Margie Borscke, (Title TBA)
+
+3:45–4.15 Afternoon Tea
+
+4:15–5:15 Keynote Lecture: John Melville-Jones, ‘Forgeries or not forgeries? A range of situations’
+
+5:15–6:30 Reception
+
+
+######Saturday 14th October
+
+10:00–10:35 Heather Greybehl, ‘Deception or Flattery: Imitations, Skeuomorphs, and Forgeries of Objects in the Classical and Hellenistic Greek World’
+
+10.35–11.10 Ken Sheedy, ‘Minting official “fakes” or the logic of plated coins’
+
+11.10–11.30 Morning tea
+
+11.30–12.05 Malcolm Choat, ‘How do we edit a forged papyrus? Problems and prospects’
+
+12.05–1.00 Årstein Justnes, ‘Authenticating Forgeries 101: The Post-2002 Dead Sea Scrolls-like Fragments’
+
+1.00–2.00 Lunch (provided)
+
+2.00-2.35 Maree Clegg, ‘Eighteenth-Century Restoration of Ancient Marbles:  Questions of Authenticity in the Collections of Charles Townley and the Marquis of Lansdowne’
+
+2.35–3.10 Clementine Vanderkwast, ‘The Conspiracy of Art: Louis Vuitton and Jeff Koons’ 
+
+3.10–3.30 Rachel Yuen-Collingridge, ‘Fabricating Authenticity: Reflections on the theme’
+
+3.40–4.00 Afternoon tea and close
+
 
 [Back to top](/conference#quicklinks)
 

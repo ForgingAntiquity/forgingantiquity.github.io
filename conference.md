@@ -72,7 +72,7 @@ Coming soon
 #### Programme
 The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to follow the keynote lecture by John Melville Jones on Friday afternoon, and 10.00–3.30 pm on Saturday 14th of October. All sessions will be held in the Museum of Ancient Cultures seminar room on the third floor of building X5B (room 321) at Macquarie University.
 
-######Friday 13th October
+###### Friday 13th October
 
 3:00–3:15 Welcome
 
@@ -85,7 +85,7 @@ The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to 
 5:15–6:30 Reception
 
 
-######Saturday 14th October
+###### Saturday 14th October
 
 10:00–10:35 Heather Greybehl, ‘Deception or Flattery: Imitations, Skeuomorphs, and Forgeries of Objects in the Classical and Hellenistic Greek World’
 

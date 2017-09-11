@@ -58,7 +58,7 @@ Attendance will be free, but rsvps are necessary for catering purposes. A [regis
 (Title TBA)
 
 ###### Rachel Yuen-Collingridge (Department of Ancient History, Macquarie University)
-'Fabricated Authenticity: Reflections on the theme'
+'Fabricating Authenticity: Reflections on the theme'
 
 [Back to top](/conference#quicklinks)
 

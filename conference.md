@@ -48,7 +48,7 @@ Attendance will be free, but rsvps are necessary for catering purposes. A [regis
 ###### Heather Greybehl (Centre for Ancient Cultures, Monash University)
 ‘Deception or Flattery: Imitations, Skeuomorphs, and Forgeries of Objects in the Classical and Hellenistic Greek World’
 
-###### Ken Sheedy (Department of Ancient History, Macquarie University)
+###### Ken Sheedy (Department of Ancient History, Macquarie University), Floriana Salvemini, Scott Olsen and Vladimir Luzin (Australian Nuclear Science and Technology Organisation)
 ‘Minting official “fakes” or the logic of plated coins’
 
 ###### Clementine Vanderkwast (Department of Music, Media, and Cultural Studies, Macquarie University)
@@ -89,7 +89,7 @@ The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to 
 
 10:00–10:35 Heather Greybehl, ‘Deception or Flattery: Imitations, Skeuomorphs, and Forgeries of Objects in the Classical and Hellenistic Greek World’
 
-10.35–11.10 Ken Sheedy, ‘Minting official “fakes” or the logic of plated coins’
+10.35–11.10 Ken Sheedy, Floriana Salvemini, Scott Olsen and Vladimir Luzin, ‘Minting official “fakes” or the logic of plated coins’
 
 11.10–11.30 Morning tea
 

@@ -70,7 +70,7 @@ Coming soon
 
 <a name="Programme"/>
 #### Programme
-The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to follow the keynote lecture by John Melville Jones on Friday afternoon, and 10.00–3.30 pm on Saturday 14th of October. All sessions will be held in the Museum of Ancient Cultures seminar room on the third floor of building X5B (room 321) at Macquarie University.
+The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to follow the keynote lecture by John Melville-Jones on Friday afternoon, and 10.00–3.30 pm on Saturday 14th of October. All sessions will be held in the Museum of Ancient Cultures seminar room on the third floor of building X5B (room 321) at Macquarie University.
 
 ###### Friday 13th October
 

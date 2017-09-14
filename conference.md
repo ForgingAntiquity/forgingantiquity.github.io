@@ -5,6 +5,7 @@ title: Conference 2017
 
 ### October 13–14, 2017, Macquarie University Museum of Ancient Cultures
 ---
+![](/images/SymposiumLogo1.jpg)
 
 <a name="quicklinks"/>
 #### Quicklinks
@@ -110,7 +111,7 @@ The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to 
 
 1.50-2.30 Maree Clegg, ‘Eighteenth-Century Restoration of Ancient Marbles:  Questions of Authenticity in the Collections of Charles Townley and the Marquis of Lansdowne’
 
-2.30–3.10 Clementine Vanderkwast, ‘The Conspiracy of Art: Louis Vuitton and Jeff Koons’ 
+2.30–3.10 Clementine Vanderkwast, ‘The Conspiracy of Art: Louis Vuitton and Jeff Koons’
 
 3.10–3.40 Rachel Yuen-Collingridge, ‘Fabricating Authenticity: Reflections on the theme’
 

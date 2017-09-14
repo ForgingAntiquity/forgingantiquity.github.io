@@ -33,34 +33,42 @@ Attendance will be free, but rsvps are necessary for catering purposes. A [regis
 #### Speakers and Abstracts
 ###### John Melville-Jones (University of Western Australia)
 ‘Forgeries or not forgeries? A range of situations’
+
 The motive for some forgeries is simple: criminal greed. But there are other situations. An artist may make something to show how good he is, to make up for the fact that he has not been successful in selling his work. Another artist or writer may create a work of art to show that he can match the work of the wonderful artists of the past, with no intention of deceiving anyone, but when something that he has produced gets out of his hands, it may not be recognised as being a contemporary piece of work, or marketed as much older than it is by unscrupulous dealers. And sometimes an artist may create something that no one could be expected to accept as genuine, but nevertheless it is accepted by careless persons. There is also the attitude of the victims. Who are sometimes unbelievably willing to accept something that is not the authentic artistic or literary creation that it purports to be.
 
 ###### Årstein Justnes (Department of Religion, Philosophy and History, University of Agder)
 ‘Authenticating Forgeries 101: The Post-2002 Dead Sea Scrolls-like Fragments’
+
 Since 2002 more than 75 new so-called Dead Sea Scroll fragments have surfaced on the antiquities market. The majority of these have been bought by wealthy collectors and American evangelical institutions for astronomic prices. Several fragments have been published by major scholars in the field. In this paper I will use the story about these fragments to illustrate how forgeries are introduced, “authenticated”, published, and accepted as part of the dataset, and discuss the role of the scholarly community in this process.
 
 ###### Margie Borscke (Department of Music, Media, and Cultural Studies, Macquarie University)
 ‘Copies, a brief history’
+
 What does it mean to deem an artifact a copy? Does it matter that copies and replication are central to the functioning of contemporary network culture? In this talk I will highlight some pivotal ideas about copies and copying in ancient and contemporary philosophy. In doing so, I distinguish debates about the problem of universals (also known as the problem of one over many) from a) questions of mimesis, and b) notions of authenticity in debates about copies and originals in art theory and aesthetics. I show that the Western understanding of what it means to be a copy itself has a history, one that was influenced by media forms and technological innovations as well as the development of romantic notions of creativity. To begin to glimpse this history, I take special notice of the role that media technologies play in the etymology of copy and how it has shaped ideas about copies in aesthetics and everyday life. Although difference has preoccupied post-structural thinking about copies, I suggest that, when we talk about copies today, we should also pay attention to debates in philosophy that teach us to pay close attention to differences between similarity and identity when considering sameness.
 
 ###### Malcolm Choat (Department of Ancient History, Macquarie University)
 ‘How do we edit a forged papyrus? Problems and prospects’
+
 Both the ‘Forging Antiquity’ and ‘Lying Pen of Scribes’ projects have proposed producing editions of forged papyri as part of their projects. While forgeries on papyrus (and related media) have been edited in the past (both as forgeries and as genuine texts) their edition poses challenges for traditional editorial practice, including the restoration of lacunae and uncertain letters, and the reproduction of some of the nonsensical alphabets which are used in some examples. I will address these issues by concentrating on two forged papyrus fragments of the Gospel of John: the Lycopolitan Coptic fragment which accompanied the Gospel of Jesus’ Wife, and a Greek papyrus of the end of Gospel forged by Constantine Simonides.
 
 ###### Maree Clegg (Department of Art History, University of Auckland)
 ‘Eighteenth-Century Restoration of Ancient Marbles:  Questions of Authenticity in the Collections of Charles Townley and the Marquis of Lansdowne’
+
 The restoration and repair of sculpture has been ongoing since ancient times but from around 1750 until 1816 restoration became the norm in Rome and many thousands of altered ancient marbles were sold to Englishmen on their Grand Tour.  During this limited time period sculptures were reimagined or reconfigured to represent a different subject, pastiches were created from disparate marble pieces, and entirely fake antiquities were manufactured.  Scientific techniques to ascertain more about ancient marbles have advanced considerably in recent decades; however, they are not a panacea in determining antiquity.  This paper examines commonly used scientific tests, and addresses the authenticity of ancient sculptures from the collections of Charles Townley and the Marquis of Lansdowne, using specific examples and documentary evidence from the collections.
 
 ###### Ken Sheedy (Department of Ancient History, Macquarie University), Floriana Salvemini, Scott Olsen and Vladimir Luzin (Australian Nuclear Science and Technology Organisation)
 ‘Minting official “fakes” or the logic of plated coins’
+
 It has been traditionally argued that plated coins were produced by forgers hoping to pass off their devious products as official coins.  There is now mounting evidence that state mints, under the direction of public officials, produced plated coins.  It seems, however, that the production of these coins was done in secret. Were plated coins regarded as official currency in this context?  Were they in fact the first fiduciary coins – circulating at face value and not by the value of their metal?  There is considerable evidence that the inventors of coinage – the Lydians of Asia Minor – also invented plated coins at the same time (the last quarter of the 6th century BC)  as ‘true’ coins were being announced to the world.
 
 ###### Clementine Vanderkwast (Department of Music, Media, and Cultural Studies, Macquarie University)
 ‘The Conspiracy of Art: Louis Vuitton and Jeff Koons’
+
 Contemporary art does not come from a natural impulse, but from a calculated and considered artifice. This is apparent within the 2017 collaboration between Louis Vuitton, and Jeff Koons titled the 'Masters Collection'. I use the theory of Jean Baudrillard, and Walter Benjamin to interrogate the role of art when it conspires with luxury. By proposing that art should be viewed as a commercial production system, I look at the way in which the Baudrillardian concept of 'authenticity' is problematized within collaborations between the fields of luxury, and contemporary art.
 
 ###### Rachel Yuen-Collingridge (Department of Ancient History, Macquarie University)
 ‘Fabricating Authenticity: Reflections on the theme’
+
 This paper will close the workshop and reflect on the themes of the papers.
 
 [Back to top](/conference#quicklinks)

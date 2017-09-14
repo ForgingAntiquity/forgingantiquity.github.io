@@ -9,9 +9,7 @@ title: Conference 2017
 <a name="quicklinks"/>
 #### Quicklinks
 
-[Speakers](/conference#Speakers)
-
-[Abstracts](/conference#Abstracts)
+[Speakers and Abstracts](/conference#Speakers)
 
 [Programme](/conference#Programme)
 
@@ -32,9 +30,10 @@ Attendance will be free, but rsvps are necessary for catering purposes. A [regis
 [Back to top](/conference#quicklinks)
 
 <a name="Speakers"/>
-#### Speakers
+#### Speakers and Abstracts
 ###### John Melville-Jones (University of Western Australia)
 ‘Forgeries or not forgeries? A range of situations’
+The motive for some forgeries is simple: criminal greed. But there are other situations. An artist may make something to show how good he is, to make up for the fact that he has not been successful in selling his work. Another artist or writer may create a work of art to show that he can match the work of the wonderful artists of the past, with no intention of deceiving anyone, but when something that he has produced gets out of his hands, it may not be recognised as being a contemporary piece of work, or marketed as much older than it is by unscrupulous dealers. And sometimes an artist may create something that no one could be expected to accept as genuine, but nevertheless it is accepted by careless persons. There is also the attitude of the victims. Who are sometimes unbelievably willing to accept something that is not the authentic artistic or literary creation that it purports to be.
 
 ###### Årstein Justnes (Department of Religion, Philosophy and History, University of Agder)
 ‘Authenticating Forgeries 101: The Post-2002 Dead Sea Scrolls-like Fragments’

@@ -8,7 +8,6 @@ title: Conference 2017
 <figure>
 <p><img src="/images/SymposiumLogo1.jpg" style="width:100%"/>
 </p>
-
 </figure>
 
 

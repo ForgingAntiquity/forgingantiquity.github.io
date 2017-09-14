@@ -98,23 +98,21 @@ The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to 
 
 ###### Saturday 14th October
 
-10:00–10:35 Heather Greybehl, ‘Deception or Flattery: Imitations, Skeuomorphs, and Forgeries of Objects in the Classical and Hellenistic Greek World’
+10.00–10.40 Ken Sheedy, Floriana Salvemini, Scott Olsen and Vladimir Luzin, ‘Minting official “fakes” or the logic of plated coins’
 
-10.35–11.10 Ken Sheedy, Floriana Salvemini, Scott Olsen and Vladimir Luzin, ‘Minting official “fakes” or the logic of plated coins’
+10.40–11.20 Malcolm Choat, ‘How do we edit a forged papyrus? Problems and prospects’
 
-11.10–11.30 Morning tea
+11.20–11.50 Morning tea
 
-11.30–12.05 Malcolm Choat, ‘How do we edit a forged papyrus? Problems and prospects’
+11.50–12.50 Årstein Justnes, ‘Authenticating Forgeries 101: The Post-2002 Dead Sea Scrolls-like Fragments’
 
-12.05–1.00 Årstein Justnes, ‘Authenticating Forgeries 101: The Post-2002 Dead Sea Scrolls-like Fragments’
+12.50–1.50 Lunch (provided)
 
-1.00–2.00 Lunch (provided)
+1.50-2.30 Maree Clegg, ‘Eighteenth-Century Restoration of Ancient Marbles:  Questions of Authenticity in the Collections of Charles Townley and the Marquis of Lansdowne’
 
-2.00-2.35 Maree Clegg, ‘Eighteenth-Century Restoration of Ancient Marbles:  Questions of Authenticity in the Collections of Charles Townley and the Marquis of Lansdowne’
+2.30–3.10 Clementine Vanderkwast, ‘The Conspiracy of Art: Louis Vuitton and Jeff Koons’ 
 
-2.35–3.10 Clementine Vanderkwast, ‘The Conspiracy of Art: Louis Vuitton and Jeff Koons’ 
-
-3.10–3.30 Rachel Yuen-Collingridge, ‘Fabricating Authenticity: Reflections on the theme’
+3.10–3.40 Rachel Yuen-Collingridge, ‘Fabricating Authenticity: Reflections on the theme’
 
 3.40–4.00 Afternoon tea and close
 

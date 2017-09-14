@@ -1,15 +1,13 @@
 ---
 title: Conference 2017
 ---
-## ‘Imagining the real: Alternative (arte)facts from antiquity to the present day’
-
-### October 13–14, 2017, Macquarie University Museum of Ancient Cultures
----
 <figure>
 <p><img src="/images/SymposiumLogo1.jpg" style="width:100%"/>
 </p>
 </figure>
 
+### October 13–14, 2017, Macquarie University Museum of Ancient Cultures
+---
 
 <a name="quicklinks"/>
 #### Quicklinks

@@ -5,7 +5,12 @@ title: Conference 2017
 
 ### October 13–14, 2017, Macquarie University Museum of Ancient Cultures
 ---
-![](/images/SymposiumLogo1.jpg)
+<figure>
+<p><img src="/images/SymposiumLogo1.jpg" style="width:100%"/>
+</p>
+
+</figure>
+
 
 <a name="quicklinks"/>
 #### Quicklinks

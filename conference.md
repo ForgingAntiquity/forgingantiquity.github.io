@@ -44,7 +44,7 @@ The motive for some forgeries is simple: criminal greed. But there are other sit
 
 Since 2002 more than 75 new so-called Dead Sea Scroll fragments have surfaced on the antiquities market. The majority of these have been bought by wealthy collectors and American evangelical institutions for astronomic prices. Several fragments have been published by major scholars in the field. In this paper I will use the story about these fragments to illustrate how forgeries are introduced, “authenticated”, published, and accepted as part of the dataset, and discuss the role of the scholarly community in this process.
 
-###### Margie Borscke (Department of Music, Media, and Cultural Studies, Macquarie University)
+###### Margie Borschke (Department of Music, Media, and Cultural Studies, Macquarie University)
 ‘Copies, a brief history’
 
 What does it mean to deem an artifact a copy? Does it matter that copies and replication are central to the functioning of contemporary network culture? In this talk I will highlight some pivotal ideas about copies and copying in ancient and contemporary philosophy. In doing so, I distinguish debates about the problem of universals (also known as the problem of one over many) from a) questions of mimesis, and b) notions of authenticity in debates about copies and originals in art theory and aesthetics. I show that the Western understanding of what it means to be a copy itself has a history, one that was influenced by media forms and technological innovations as well as the development of romantic notions of creativity. To begin to glimpse this history, I take special notice of the role that media technologies play in the etymology of copy and how it has shaped ideas about copies in aesthetics and everyday life. Although difference has preoccupied post-structural thinking about copies, I suggest that, when we talk about copies today, we should also pay attention to debates in philosophy that teach us to pay close attention to differences between similarity and identity when considering sameness.
@@ -84,7 +84,7 @@ The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to 
 
 3:00–3:15 Welcome
 
-3:15–3:45 Margie Borscke, ‘Copies, a brief history’
+3:15–3:45 Margie Borschke, ‘Copies, a brief history’
 
 3:45–4.15 Afternoon Tea
 

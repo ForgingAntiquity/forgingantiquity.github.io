@@ -20,7 +20,7 @@ M. Choat, ‘The Case of Papyrus Fakes’, in *The Art Crime Handbook*, ed. D. C
 
 M. Choat, 'Dating and Authenticating papyri, from Mabillon to the present day', to be submitted to *Journal for the Study of the New Testament*.
 
-R. Lucarelli and M. Choat, 'Forged Copies of the Book of the Dead", to be submitted to *The Oxford Handbook of the Egyptian Book of the Dead*, edd. Rita Lucarelli, Marcus Mueller, and Mark Smith. 
+R. Lucarelli and M. Choat, 'Forged Copies of the Book of the Dead", to be submitted to *The Oxford Handbook of the Egyptian Book of the Dead*, edd. Rita Lucarelli and Martin Stadler. 
 
 R. Yuen-Collingridge, 'The first forged papyrus in Euorpe: Pierre Hamon and his work on ancient scripts'.
 

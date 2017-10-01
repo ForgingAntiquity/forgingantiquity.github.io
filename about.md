@@ -65,5 +65,5 @@ Research students:
 Collaborators:
 * [Tommy Wasserman](https://ansgarteologiskehogskole.academia.edu/TWasserman)
 * [Gregg Schwendner](https://wichita.academia.edu/GreggWSchwendner)
-* [Rita Lucarelli](https://berkeley.academia.edu/RitaLucarelli)
+* [Rita Lucarelli](http://nes.berkeley.edu/faculty/lucarelli.html)
 

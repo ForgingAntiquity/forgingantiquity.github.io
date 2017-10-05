@@ -140,7 +140,7 @@ Note that this conference cannot be used to gain points for the Macquarie Univer
 <a name="Map"/>
 #### Campus Map
 <figure>
-<p><img src="/images/SymposiumLogo3-withtitle.jpg" style="width:100%"/>
+<p><img src="/images/Campus-Map.jpg" style="width:100%"/>
 </p>
 </figure>
 

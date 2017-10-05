@@ -16,8 +16,6 @@ title: Conference 2017
 
 [Programme](/conference#Programme)
 
-[Registration](/conference#Registration)
-
 [Campus Map](/conference#Map)
 
 [Getting There](/conference#Transport)
@@ -25,6 +23,8 @@ title: Conference 2017
 [Food & Drink](/conference#Food)
 
 [Amenities](/conference#Amenities)
+
+[Registration](/conference#Registration)
 
 
 #### Overview
@@ -121,21 +121,8 @@ The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to 
 
 3.40–4.00 Afternoon tea and close
 
-
 [Back to top](/conference#quicklinks)
 
-<a name="Registration"/>
-#### Registration
-
-We are pleased to announce that registration for the conference ‘Imagining the real: Alternative (arte)facts from antiquity to the present day’ is now open. The conference will take place on Friday 13th and Saturday 14th of October 2017 in the Museum of Ancient Cultures at Macquarie University in Sydney, Australia. Although there is no charge for attendance we ask all participants to register by 30 September to assist us with planning.
-If you have any questions about conference registration, attendance, or accommodation in Sydney, please contact the team at [info@forgingantiquity.com](mailto:info@forgingantiquity.com).
-
-Note that this conference cannot be used to gain points for the Macquarie University Global Leadership Program, and the organisers will not sign certificates or provide letters proving attendance for Global Leadership Program students.  
-
-<iframe src="https://mqedu.qualtrics.com/jfe/form/SV_0IZ2WzAZKZlZMRT" style="width:100%; height:900px">
-</iframe>
-
-[Back to top](/conference#quicklinks)
 
 <a name="Map"/>
 #### Campus Map
@@ -179,4 +166,18 @@ Nearby Macquarie Centre (S28) also has a range of fast food and sit-down options
 The university store MacShop is currently closed, but Macquarie Centre offers many shops and services. ATMs are located in the Campus Hub and at Macquarie Centre.
 If presenters require any printing, please contact [alice.mcclymont@mq.edu.au] (mailto:alice.mcclymont@mq.edu.au)
 
-[Back to top](/conference#quicklinks)    
+[Back to top](/conference#quicklinks)  
+
+
+<a name="Registration"/>
+#### Registration
+
+We are pleased to announce that registration for the conference ‘Imagining the real: Alternative (arte)facts from antiquity to the present day’ is now open. The conference will take place on Friday 13th and Saturday 14th of October 2017 in the Museum of Ancient Cultures at Macquarie University in Sydney, Australia. Although there is no charge for attendance we ask all participants to register by 30 September to assist us with planning.
+If you have any questions about conference registration, attendance, or accommodation in Sydney, please contact the team at [info@forgingantiquity.com](mailto:info@forgingantiquity.com).
+
+Note that this conference cannot be used to gain points for the Macquarie University Global Leadership Program, and the organisers will not sign certificates or provide letters proving attendance for Global Leadership Program students.  
+
+<iframe src="https://mqedu.qualtrics.com/jfe/form/SV_0IZ2WzAZKZlZMRT" style="width:100%; height:900px">
+</iframe>
+
+[Back to top](/conference#quicklinks)  

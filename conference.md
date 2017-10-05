@@ -18,6 +18,14 @@ title: Conference 2017
 
 [Registration](/conference#Registration)
 
+[Campus Map](/conference#Map)
+
+[Getting There](/conference#Transport)
+
+[Food & Drink](/conference#Food)
+
+[Amenities](/conference#Amenities)
+
 
 #### Overview
 Sponsored by the Australian Research Council, the MQ Ancient Cultures Research Centre,  the Australian Centre for Ancient Numismatic Studies, and the Macquarie University Faculty of Arts ‘Modes of Communication’ Research Theme.
@@ -128,3 +136,47 @@ Note that this conference cannot be used to gain points for the Macquarie Univer
 </iframe>
 
 [Back to top](/conference#quicklinks)
+
+<a name="Map"/>
+#### Campus Map
+<figure>
+<p><img src="/images/SymposiumLogo3-withtitle.jpg" style="width:100%"/>
+</p>
+</figure>
+
+[Back to top](/conference#quicklinks)
+
+
+<a name="Transport"/>
+#### Getting To Macquarie University
+Train: Macquarie University is accessible by the Macquarie University train station (see map, U26), on the Northern Line. There is an approximately 15min walk between the station and conference venue. Macquarie University is accessible by the Macquarie University train station (see map, U26), on the Northern Line. There is an approximately 15min walk between the station and conference venue.
+Bus: Macquarie University is accessible by a number of bus services. There is an approximately 5–10min walk between bus stops and the conference venue.
+Parking: Free parking permits are available upon request for parking in the West 3 carpark (R11) throughout the symposium. Contact [alice.mcclymont@mq.edu.au] (mailto:alice.mcclymont@mq.edu.au) to be sent a permit.
+
+For further information, see the [Macquarie University website] (http://www.mq.edu.au/about/contacts-and-maps/getting-to-macquarie) and [Transport NSW website] (https://transportnsw.info/#/).
+
+Venue
+The symposium will be held in the seminar room of the Museum of Ancient Cultures, Building X5B, level 3 (O11).
+Level 3 can be accessed by stairs or elevator (N11), from the ground level if approaching from Wally’s Walk or from Level 2 if approaching from the West 3 carpark. On Level 3, enter through the glass door opposite the elevator and proceed through the red door of the museum to the seminar room at the rear of the building.
+Toilets are available on every level of the building.
+
+[Back to top](/conference#quicklinks)
+
+
+<a name="Food"/>
+#### Food & drink
+Refreshments will be provided at afternoon tea and the reception on Day 1. Lunch, morning tea and afternoon tea will also be provided on Day 2.
+
+Additional food and drink options can be found on campus at the Campus Hub food court and Ubar (L17), or at a range of cafés and coffee carts. Piccolo Lane (R21), the Library Café (R16), and Wally’s Walk Coffee Cart (N14) are en route from the train station to the symposium venue. For further information, see the [Macquarie University website] (http://www.mq.edu.au/about/campus-services-and-facilities/food-and-shopping/food-and-drink), but note that a number of outlets will not be open on Saturday.
+
+Nearby Macquarie Centre (S28) also has a range of fast food and sit-down options, and is an approximately 15min walk from the conference venue.
+
+[Back to top](/conference#quicklinks)
+
+
+<a name="Amenities"/>
+#### Amenities
+The university store MacShop is currently closed, but Macquarie Centre offers many shops and services. ATMs are located in the Campus Hub and at Macquarie Centre.
+If presenters require any printing, please contact [alice.mcclymont@mq.edu.au] (mailto:alice.mcclymont@mq.edu.au)
+
+[Back to top](/conference#quicklinks)    

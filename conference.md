@@ -135,7 +135,7 @@ The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to 
 
 
 <a name="Transport"/>
-#### Getting To Macquarie University
+#### Getting There
 Train: Macquarie University is accessible by the Macquarie University train station (see map, U26), on the Northern Line. There is an approximately 15min walk between the station and conference venue. Macquarie University is accessible by the Macquarie University train station (see map, U26), on the Northern Line. There is an approximately 15min walk between the station and conference venue.
 Bus: Macquarie University is accessible by a number of bus services. There is an approximately 5–10min walk between bus stops and the conference venue.
 Parking: Free parking permits are available upon request for parking in the West 3 carpark (R11) throughout the symposium. Contact [alice.mcclymont@mq.edu.au] (mailto:alice.mcclymont@mq.edu.au) to be sent a permit.
@@ -147,11 +147,14 @@ The symposium will be held in the seminar room of the Museum of Ancient Cultures
 Level 3 can be accessed by stairs or elevator (N11), from the ground level if approaching from Wally’s Walk or from Level 2 if approaching from the West 3 carpark. On Level 3, enter through the glass door opposite the elevator and proceed through the red door of the museum to the seminar room at the rear of the building.
 Toilets are available on every level of the building.
 
+Arrival Time
+Registration will begin from 2:30pm on Friday and 9:30am on Saturday. Please arrive as early as possible to collection your name badge and program.
+
 [Back to top](/conference#quicklinks)
 
 
 <a name="Food"/>
-#### Food & drink
+#### Food & Drink
 Refreshments will be provided at afternoon tea and the reception on Day 1. Lunch, morning tea and afternoon tea will also be provided on Day 2.
 
 Additional food and drink options can be found on campus at the Campus Hub food court and Ubar (L17), or at a range of cafés and coffee carts. Piccolo Lane (R21), the Library Café (R16), and Wally’s Walk Coffee Cart (N14) are en route from the train station to the symposium venue. For further information, see the [Macquarie University website] (http://www.mq.edu.au/about/campus-services-and-facilities/food-and-shopping/food-and-drink), but note that a number of outlets will not be open on Saturday.

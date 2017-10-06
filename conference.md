@@ -163,7 +163,7 @@ Registration will begin from 2:30pm on Friday and 9:30am on Saturday. Please arr
 #### Food & Drink
 Refreshments will be provided at afternoon tea and the reception on Day 1. Lunch, morning tea and afternoon tea will also be provided on Day 2.
 
-Additional food and drink options can be found on campus at the Campus Hub food court and Ubar (L17), or at a range of cafés and coffee carts. Piccolo Lane (R21), the Library Café (R16), and Wally’s Walk Coffee Cart (N14) are en route from the train station to the symposium venue. For further information, see the [Macquarie University website] (http://www.mq.edu.au/about/campus-services-and-facilities/food-and-shopping/food-and-drink), but note that a number of outlets will not be open on Saturday.
+Additional food and drink options can be found on campus at the Campus Hub food court and Ubar (L17), or at a range of cafés and coffee carts. Piccolo Lane (R21), the Library Café (R16), and Wally’s Walk Coffee Cart (N14) are en route from the train station to the symposium venue. For further information, see the [Macquarie University website](http://www.mq.edu.au/about/campus-services-and-facilities/food-and-shopping/food-and-drink), but note that a number of outlets will not be open on Saturday.
 
 Nearby Macquarie Centre (S28) also has a range of fast food and sit-down options, and is an approximately 15min walk from the conference venue.
 
@@ -173,7 +173,7 @@ Nearby Macquarie Centre (S28) also has a range of fast food and sit-down options
 <a name="Amenities"/>
 #### Amenities
 The university store MacShop is currently closed, but Macquarie Centre offers many shops and services. ATMs are located in the Campus Hub and at Macquarie Centre.
-If presenters require any printing, please contact [alice.mcclymont@mq.edu.au] (mailto:alice.mcclymont@mq.edu.au)
+If presenters require any printing, please contact [alice.mcclymont@mq.edu.au](mailto:alice.mcclymont@mq.edu.au)
 
 [Back to top](/conference#quicklinks)  
 

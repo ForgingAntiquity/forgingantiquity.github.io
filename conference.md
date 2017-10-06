@@ -137,17 +137,21 @@ The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to 
 <a name="Transport"/>
 #### Getting There
 Train: Macquarie University is accessible by the Macquarie University train station (see map, U26), on the Northern Line. There is an approximately 15min walk between the station and conference venue. Macquarie University is accessible by the Macquarie University train station (see map, U26), on the Northern Line. There is an approximately 15min walk between the station and conference venue.
+
 Bus: Macquarie University is accessible by a number of bus services. There is an approximately 5–10min walk between bus stops and the conference venue.
+
 Parking: Free parking permits are available upon request for parking in the West 3 carpark (R11) throughout the symposium. Contact [alice.mcclymont@mq.edu.au] (mailto:alice.mcclymont@mq.edu.au) to be sent a permit.
 
 For further information, see the [Macquarie University website] (http://www.mq.edu.au/about/contacts-and-maps/getting-to-macquarie) and [Transport NSW website] (https://transportnsw.info/#/).
 
 Venue
+
 The symposium will be held in the seminar room of the Museum of Ancient Cultures, Building X5B, level 3 (O11).
 Level 3 can be accessed by stairs or elevator (N11), from the ground level if approaching from Wally’s Walk or from Level 2 if approaching from the West 3 carpark. On Level 3, enter through the glass door opposite the elevator and proceed through the red door of the museum to the seminar room at the rear of the building.
 Toilets are available on every level of the building.
 
 Arrival Time
+
 Registration will begin from 2:30pm on Friday and 9:30am on Saturday. Please arrive as early as possible to collection your name badge and program.
 
 [Back to top](/conference#quicklinks)

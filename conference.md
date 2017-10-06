@@ -136,13 +136,15 @@ The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to 
 
 <a name="Transport"/>
 #### Getting There
+Transport
+
 Train: Macquarie University is accessible by the Macquarie University train station (see map, U26), on the Northern Line. There is an approximately 15min walk between the station and conference venue. Macquarie University is accessible by the Macquarie University train station (see map, U26), on the Northern Line. There is an approximately 15min walk between the station and conference venue.
 
 Bus: Macquarie University is accessible by a number of bus services. There is an approximately 5–10min walk between bus stops and the conference venue.
 
-Parking: Free parking permits are available upon request for parking in the West 3 carpark (R11) throughout the symposium. Contact [alice.mcclymont@mq.edu.au] (mailto:alice.mcclymont@mq.edu.au) to be sent a permit.
+Parking: Free parking permits are available upon request for parking in the West 3 carpark (R11) throughout the symposium. Contact [alice.mcclymont@mq.edu.au](mailto:alice.mcclymont@mq.edu.au) to be sent a permit.
 
-For further information, see the [Macquarie University website] (http://www.mq.edu.au/about/contacts-and-maps/getting-to-macquarie) and [Transport NSW website] (https://transportnsw.info/#/).
+For further information, see the [Macquarie University website](http://www.mq.edu.au/about/contacts-and-maps/getting-to-macquarie) and [Transport NSW website](https://transportnsw.info/#/).
 
 Venue
 
@@ -152,7 +154,7 @@ Toilets are available on every level of the building.
 
 Arrival Time
 
-Registration will begin from 2:30pm on Friday and 9:30am on Saturday. Please arrive as early as possible to collection your name badge and program.
+Registration will begin from 2:30pm on Friday and 9:30am on Saturday. Please arrive as early as possible to collect your name badge and program.
 
 [Back to top](/conference#quicklinks)
 

@@ -138,7 +138,7 @@ The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to 
 #### Getting There
 Transport
 
-Train: Macquarie University is accessible by the Macquarie University train station (see map, U26), on the Northern Line. There is an approximately 15min walk between the station and conference venue. Macquarie University is accessible by the Macquarie University train station (see map, U26), on the Northern Line. There is an approximately 15min walk between the station and conference venue.
+Train: Macquarie University is accessible by the Macquarie University train station (see map, U26), on the Northern Line. There is an approximately 15min walk between the station and conference venue.
 
 Bus: Macquarie University is accessible by a number of bus services. There is an approximately 5–10min walk between bus stops and the conference venue.
 
@@ -173,7 +173,7 @@ Nearby Macquarie Centre (S28) also has a range of fast food and sit-down options
 <a name="Amenities"/>
 #### Amenities
 The university store MacShop is currently closed, but Macquarie Centre offers many shops and services. ATMs are located in the Campus Hub and at Macquarie Centre.
-If presenters require any printing, please contact [alice.mcclymont@mq.edu.au](mailto:alice.mcclymont@mq.edu.au)
+If presenters require any printing, please contact [alice.mcclymont@mq.edu.au](mailto:alice.mcclymont@mq.edu.au).
 
 [Back to top](/conference#quicklinks)  
 

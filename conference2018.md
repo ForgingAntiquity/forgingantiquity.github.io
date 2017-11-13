@@ -4,7 +4,7 @@
 </p>
 </figure>
 
-**September 2018, Macquarie University**
+#September 2018, Macquarie University
 
 The how and why of editing forgeries is a largely inarticulated domain. Whilst forgeries are ubiquitous in collections everywhere, they remain understudied and unappreciated. Efforts have concentrated on the identification of tell-tale signs of duplicity rather than on the mechanics used to feign authenticity. As the intention of forgers differs from that of ancient scribes, the publication of textual remains cannot proceed as usual. Lacunae may be intentional and text fragmentary from their inception.
 

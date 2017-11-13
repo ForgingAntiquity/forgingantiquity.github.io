@@ -1,5 +1,8 @@
 
-How to edit a forgery:Manuscripts from the margins
+<figure>
+<p><img src="/images/ForgeryConferencebanner2018.jpg" style="width:100%"/>
+</p>
+</figure>
 
 September 2018, Macquarie University
 

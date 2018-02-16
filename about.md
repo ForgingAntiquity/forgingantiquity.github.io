@@ -61,10 +61,10 @@ Research Assistants:
 
 Research students:
 * [Lauren Dundler](/lauren)
-* [Richard Bott] (/richard)
+* [Richard Bott](/richard)
 
 Interns
-* [Mark Matic] (/mark)
+* [Mark Matic](/mark)
 
 Collaborators:
 * [Tommy Wasserman](https://ansgarteologiskehogskole.academia.edu/TWasserman)

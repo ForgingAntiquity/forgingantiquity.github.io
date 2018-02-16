@@ -14,17 +14,17 @@ title: Conference 2017
 
 [Speakers and Abstracts](/conference#Speakers)
 
-[Programme](/conference#Programme)
+[Programme](/conference2017#Programme)
 
-[Campus Map](/conference#Map)
+[Campus Map](/conference2017#Map)
 
-[Getting There](/conference#Transport)
+[Getting There](/conference2017#Transport)
 
-[Food & Drink](/conference#Food)
+[Food & Drink](/conference2017#Food)
 
-[Amenities](/conference#Amenities)
+[Amenities](/conference2017#Amenities)
 
-[Registration](/conference#Registration)
+[Registration](/conference2017#Registration)
 
 
 #### Overview
@@ -36,9 +36,9 @@ All pasts are imagined, competing constructs of what should, or could, have been
 
 This symposium examines contested objects from a range of genres and periods; traditional and emerging techniques used to authenticate them; and the discourses of authenticity and modes of knowledge that both enable their creation, and frame competing understandings of them.
 
-Attendance will be free, but rsvps are necessary for catering purposes. A [registration form](/conference#Registration) may be found below. For other inquiries, please contact [malcolm@forgingantiquity.com](mailto:malcolm@forgingantiquity.com)
+Attendance will be free, but rsvps are necessary for catering purposes. A [registration form](/conference2017#Registration) may be found below. For other inquiries, please contact [malcolm@forgingantiquity.com](mailto:malcolm@forgingantiquity.com)
 
-[Back to top](/conference#quicklinks)
+[Back to top](/conference2017#quicklinks)
 
 <a name="Speakers"/>
 #### Speakers and Abstracts
@@ -82,7 +82,7 @@ Contemporary art does not come from a natural impulse, but from a calculated and
 
 This paper will close the workshop and reflect on the themes of the papers.
 
-[Back to top](/conference#quicklinks)
+[Back to top](/conference2017#quicklinks)
 
 <a name="Programme"/>
 #### Programme
@@ -131,7 +131,7 @@ The conference will run from 3.00–5.30 pm on Friday 13th, with a reception to 
 </p>
 </figure>
 
-[Back to top](/conference#quicklinks)
+[Back to top](/conference2017#quicklinks)
 
 
 <a name="Transport"/>
@@ -156,7 +156,7 @@ Arrival Time
 
 Registration will begin from 2:30pm on Friday and 9:30am on Saturday. Please arrive as early as possible to collect your name badge and program.
 
-[Back to top](/conference#quicklinks)
+[Back to top](/conference2017#quicklinks)
 
 
 <a name="Food"/>
@@ -167,7 +167,7 @@ Additional food and drink options can be found on campus at the Campus Hub food 
 
 Nearby Macquarie Centre (S28) also has a range of fast food and sit-down options, and is an approximately 15min walk from the conference venue.
 
-[Back to top](/conference#quicklinks)
+[Back to top](/conference2017#quicklinks)
 
 
 <a name="Amenities"/>
@@ -175,7 +175,7 @@ Nearby Macquarie Centre (S28) also has a range of fast food and sit-down options
 The university store MacShop is currently closed, but Macquarie Centre offers many shops and services. ATMs are located in the Campus Hub and at Macquarie Centre.
 If presenters require any printing, please contact [alice.mcclymont@mq.edu.au](mailto:alice.mcclymont@mq.edu.au).
 
-[Back to top](/conference#quicklinks)  
+[Back to top](/conference2017#quicklinks)  
 
 
 <a name="Registration"/>
@@ -189,4 +189,4 @@ Note that this conference cannot be used to gain points for the Macquarie Univer
 <iframe src="https://mqedu.qualtrics.com/jfe/form/SV_0IZ2WzAZKZlZMRT" style="width:100%; height:900px">
 </iframe>
 
-[Back to top](/conference#quicklinks)  
+[Back to top](/conference2017#quicklinks)  

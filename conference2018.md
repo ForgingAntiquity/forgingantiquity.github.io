@@ -5,7 +5,7 @@
 </figure>
 
 ## 20–22 September 2018, 
-# Macquarie University, Sydney
+### Macquarie University, Sydney
 
 The how and why of editing forgeries is a largely inarticulated domain. Whilst forgeries are ubiquitous in collections everywhere, they remain understudied and unappreciated. Efforts have concentrated on the identification of tell-tale signs of duplicity rather than on the mechanics used to feign authenticity. As the intention of forgers differs from that of ancient scribes, the publication of textual remains cannot proceed as usual. Lacunae may be intentional and text fragmentary from its inception.
 
@@ -17,4 +17,4 @@ The **keynote speaker** will be Professor Christopher Rollston, Associate Profes
 
 **Offers of papers** are welcome, and should be addressed to malcolm@forgingantiquity.com **by April 13th**. Expressions of interst in participating should identify a forged manuscript which will be examined in the workshop. "Manuscript" should be understod broadly, to include any surface used for writing, including papyrus, parchment, paper, metal, stone, wood, pottery, etc. The chronological range of the conference (in terms of when the forgeries have been asserted to date to) is antiquity through to the Renaissance, but papers on forgeries from after this period which address the themes of the conference will also be considered.
 
-## For further information please email malcolm@forgingantiquity.com
+For **further information** please email malcolm@forgingantiquity.com

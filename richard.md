@@ -1,4 +1,4 @@
-# Richard Bott
+# Richard Bott 
 
 Richard is currently undertaking a Masters of Research at Macquarie, and is interested in the authentication of fake antiquities; the licit and illicit components of the antiquities trade; the role of scholarship in both promoting and chastising the illicit trade in antiquities; and the pathways by which fraudulent, illicit, and licit antiquities travel. He comes to us from Victoria University of Wellington, where he completed a Bachelor of Arts majoring in Classical Studies, and Bachelor of Science majoring in Psychology and Criminology, before going on to complete a Bachelor of Arts with Honours majoring in Classical Studies. His Honours’ dissertation examined how the presence of looted antiquities on the global antiquities market facilitated the presence of fake antiquities.
 

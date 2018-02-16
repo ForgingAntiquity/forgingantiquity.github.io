@@ -60,7 +60,11 @@ Research Assistants:
 * [Jacob Gwiazdzinski](/jacob)
 
 Research students:
-* [Lauren Dundler](/lauren) 
+* [Lauren Dundler](/lauren)
+* [Richard Bott] (/richard)
+
+Interns
+* [Mark Matic] (/mark)
 
 Collaborators:
 * [Tommy Wasserman](https://ansgarteologiskehogskole.academia.edu/TWasserman)

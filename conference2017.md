@@ -12,7 +12,7 @@ title: Conference 2017
 <a name="quicklinks"/>
 #### Quicklinks
 
-[Speakers and Abstracts](/conference#Speakers)
+[Speakers and Abstracts](/conference2017#Speakers)
 
 [Programme](/conference2017#Programme)
 
@@ -36,7 +36,10 @@ All pasts are imagined, competing constructs of what should, or could, have been
 
 This symposium examines contested objects from a range of genres and periods; traditional and emerging techniques used to authenticate them; and the discourses of authenticity and modes of knowledge that both enable their creation, and frame competing understandings of them.
 
-Attendance will be free, but rsvps are necessary for catering purposes. A [registration form](/conference2017#Registration) may be found below. For other inquiries, please contact [malcolm@forgingantiquity.com](mailto:malcolm@forgingantiquity.com)
+Attendance will be free, but rsvps are necessary for catering purposes. A [registration form](/
+
+
+2017#Registration) may be found below. For other inquiries, please contact [malcolm@forgingantiquity.com](mailto:malcolm@forgingantiquity.com)
 
 [Back to top](/conference2017#quicklinks)
 

@@ -13,7 +13,7 @@ Palaeographical description and the registering of other metatextual features ar
 
 These questions illustrate some of the potential problems which attend the publication of forgeries. These issues will form the basis of discussion through the presentation of a diverse range of textual forgeries purporting to be from antiquity through to the Renaissance. A a two-day workshop in which participant each present a forged text and ways to best edit and study them on 20th–21st will be followed by a day of lectures on synthetic themes for a wider audience on Saturday 22nd.
 
-The **keynote speaker** will be Professor Christopher Rollston, Associate Professor of Northwest Semitic languages and literatures, Department of Classical and Near Eastern languages and Civilizations, George Washington University, Washington D.C. 
+The **keynote speaker will be Professor Christopher Rollston**, Associate Professor of Northwest Semitic languages and literatures, Department of Classical and Near Eastern languages and Civilizations, George Washington University, Washington D.C. 
 
 **Offers of papers** are welcome, and should be addressed to <a href="mailto:malcolm@forgingantiquity.com">malcolm@forgingantiquity.com</a> **by April 13th**. Expressions of interst in participating should identify a forged manuscript which will be examined in the workshop. "Manuscript" should be understod broadly, to include any surface used for writing, including papyrus, parchment, paper, metal, stone, wood, pottery, etc. The chronological range of the conference (in terms of when the forgeries have been asserted to date to) is antiquity through to the Renaissance, but papers on forgeries from after this period which address the themes of the conference will also be considered.
 

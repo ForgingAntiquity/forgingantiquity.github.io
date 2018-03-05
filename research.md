@@ -16,9 +16,9 @@ M. Choat, ‘The Gospel of Jesus’s Wife: A Preliminary Paleographical Assessme
 
 M. Choat, ‘The Case of Papyrus Fakes’, in *The Art Crime Handbook*, ed. D. Chappell and S. Hufnagel (Basingstoke: Palgrave Macmillan, in press).
 
-#### In preparation
+M. Choat, 'Dating and Authenticating papyri, from Mabillon to the present day', *Journal for the Study of the New Testament*.
 
-M. Choat, 'Dating and Authenticating papyri, from Mabillon to the present day', to be submitted to *Journal for the Study of the New Testament*.
+#### In preparation
 
 R. Lucarelli and M. Choat, 'Forged Copies of the Book of the Dead", to be submitted to *The Oxford Handbook of the Egyptian Book of the Dead*, edd. Rita Lucarelli and Martin Stadler. 
 
@@ -56,7 +56,15 @@ Malcolm Choat, Rachel Yuen-Collingridge, and Vanessa Mawby, ‘Forging Antiquity
 
 Lauren Dundler in discussion with Iain Shearer, ‘The Internet Antiquities Trade: Insight into an Invisible Market?’, *Markers of Authenticity*, Macquarie University, 9 June 2017.
 
-Lauren Dundler, ‘Collecting Papyrus in the 21st Century: Price, Provenance and Personae’,*Immortal Words: Classical Antiquity Then and Now*: AMPHORAE XI, University of Sydney, 12–14 JUly 2017. 
+Lauren Dundler, ‘Collecting Papyrus in the 21st Century: Price, Provenance and Personae’,*Immortal Words: Classical Antiquity Then and Now*: AMPHORAE XI, University of Sydney, 12–14 July 2017.
+
+Malcolm Choat and Tommy Wasserman, ‘The Cable Guy: Constantine Simonides and His New Testament Papyri’, *Society of Biblical Literature Annual Meeting*, Boston, 18 November 2017.
+
+Malcolm Choat, Panelist: ‘The United States of Hobby Lobby’, *Society of Biblical Literature Annual Meeting*, Boston, 20 November 2017.
+
+Lauren Dundler, ‘(Re)Defining Provenance: Origins, Authenticity, and a Performance of Taste in the Internet Market for Papyrus’, *Australasian Society for Classical Studies Annual Conference*, University of Queensland, 30 January – 2 February 2018.
+
+Malcolm Choat, ‘The Forger and the Chemist: Constantine Simonides, Henry Deane, and the (de)authentication of Forged Manuscripts’, *Humanities Research Centre Seminar Series*, Australian National University, 27 February 2018.
 
 
 <a name="related"/>

@@ -16,4 +16,4 @@ expert and the amateur; technique and motivation; performance and experience; na
 artificial environments; virtual worlds and the augmentation of the body and our senses. 
 
 'Markers of Authenticity' hosts a seminar series convened by Malcolm Choat, Rachel 
-Yuen-Collingridge, and Lauren Dundler, and a blog at [markersofauthenticity.wordpress.com](https://markersofauthenticity.wordpress.com).
+Yuen-Collingridge, and Lauren Dundler, and a blog at [markersofauthenticity.com](https://markersofauthenticity.com).

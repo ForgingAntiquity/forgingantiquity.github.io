@@ -4,4 +4,4 @@ Richard is currently undertaking a Masters of Research at Macquarie, and is inte
 
 His current research seeks to explore the impact that fake antiquities can have on scholarship, and how they come to be seen as legitimate objects for study. This research focuses on the Sheikh Ibada fakes that emerged, probably from Egypt, during the middle of the 20th century, and went on to be used extensively as evidence in the founding of ideas about Coptic Art. Through this research Richard hopes to address issues relating to connoisseurship, the importance of provenance and provenience, and the protective nature that academic interaction affords fake antiquities.
 
-Contact Richard at: richard@forgingantiquity.com
+Contact Richard at: <a href="mailto:richard@forgingantiquity.com">richard@forgingantiquity.com</a>.

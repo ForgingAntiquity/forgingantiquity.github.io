@@ -15,7 +15,7 @@ his research seeks to elucidate the perils which drove people from their homelan
 (e.g. Messene, Aegina and Plataea) and the expectations and procedures of the
 Athenians and Spartans in sheltering them. This second set of interests demands
 consideration not only of the strategic agendas of the leading belligerents but
-of the socio-religious concepts of hiketeia (supplication) and xenia (hospitality)
+of the socio-religious concepts of *hiketeia* (supplication) and *xenia* (hospitality)
 which are also likely to have informed the treatment of refugees.
 He is also examining the new status of refugees and the ways in which civic identity
 was expressed after integration or relocation. He hopes this research will help

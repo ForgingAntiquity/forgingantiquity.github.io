@@ -13,6 +13,7 @@ The **keynote speaker** will be Professor Christopher Rollston, Associate Profes
 
 Funding for this conference has been provided by the Ian Potter Foundation, the Australian Research Council, the MQ Ancient Culutres Research Centre,the Sir Asher Joel Foundation, and the Society for the Study of Early Christianity.
 
+<a name="Workshop"/>
 ### Manuscripts from the Margins: How to Edit a Forgery
 #### Macquarie University, 20–21 September 2018.
 
@@ -64,6 +65,7 @@ Stephanie Russo, Macquarie University
 Rachel Yuen-Collingridge (Macquarie University)
 
 
+<a name="Fakingit"/>
 ### Faking it:Manuscripts from the Margins
 #### Australian Hearing Hub, Level 1 Lecture Theatre, Macquarie University, 22 September 2018.
 

@@ -103,7 +103,7 @@ Christopher Rollston, George Washington University
 Emotional Authenticity: Anne Boleyn’s Letter from the Tower
 Stephanie Russo, Macquarie University
 
-(Title TBA)
+Faking it: Reflections on a theme.
 Rachel Yuen-Collingridge, Macquarie University
 
 The program and a registration page will be uploaded shortly.

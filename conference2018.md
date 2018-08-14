@@ -31,37 +31,37 @@ Rodney Ast, University of Heidelberg
 "A dedication to Lucius Aemilius Paulus in the Fitzwilliam Museum, Cambridge"  
 Caroline Barron, Birkbeck, University of London
 
-"Forgeries for the Pigeons: An inscribed bronze tablet with dedication to Drusus Minor from Venice and related objects"
+"Forgeries for the Pigeons: An inscribed bronze tablet with dedication to Drusus Minor from Venice and related objects"  
 Lorenzo Calvelli, Ca’ Foscari University of Venice
 
-"‘Archaic Mark’: A forged Gospel codex in the University of Chicago Library"
+"‘Archaic Mark’: A forged Gospel codex in the University of Chicago Library"  
 Stephen Carlson, Australian Catholic University 
 
-"Constanine Simonides' papyrus roll of the Gospel of John"
+"Constanine Simonides' papyrus roll of the Gospel of John"  
 Malcolm Choat (Macquarie University)
 
-"Azusa Pacific University Deuteronomy fragment 1"
+"Azusa Pacific University Deuteronomy fragment 1"  
 Kipp Davis, Trinity Western University
 
-(Title TBA)
+(Title TBA)  
 Michael Langlois, University of Strasbourg
 
-"From papyrus to mummy bandages: the fake Book of the Dead in the John Rylands University Library in Manchester"
+"From papyrus to mummy bandages: the fake Book of the Dead in the John Rylands University Library in Manchester"  
 Rita Lucarelli, University of California Berkeley
 
-"MU2893: a fake(?) Greek inscription in the Museum of Ancient Cultures, Macquarie University"
+"MU2893: a fake(?) Greek inscription in the Museum of Ancient Cultures, Macquarie University"  
 Paul McKechnie and Jennifer Irving, Macquarie University
 
-"Forgeries in Later Copies: Cotton Claudius C.ix and the Problem of the Ortodoxorum Charters"
+"Forgeries in Later Copies: Cotton Claudius C.ix and the Problem of the Ortodoxorum Charters"  
 Levi Roach, University of Exeter
 
-"The Marzeah Papyrus: Putative Arguments for Authenticity"
+"The Marzeah Papyrus: Putative Arguments for Authenticity"  
 Christopher Rollston, George Washington University
 
-"Anne Boleyn’s Letter from the Tower, 6 May 1539"
+"Anne Boleyn’s Letter from the Tower, 6 May 1539"  
 Stephanie Russo, Macquarie University
 
-"A Fragment of Simonidean Egyptian History in the World Museum, Liverpool"
+"A Fragment of Simonidean Egyptian History in the World Museum, Liverpool"  
 Rachel Yuen-Collingridge (Macquarie University)
 
 
@@ -73,39 +73,39 @@ When it comes to the past, wherever truth matters, fakes abound. The creation, d
 
 ##### Speakers
 
-Forging Fakes and Just Plain Faking. Thoughts on a Range of Forgery Types
+Forging Fakes and Just Plain Faking. Thoughts on a Range of Forgery Types  
 Rodney Ast, University of Heidelberg
  
-Forgery or restoration? Fake inscriptions in Grand Tour collections.
+Forgery or restoration? Fake inscriptions in Grand Tour collections  
 Caroline Barron, Birkbeck, University of London
 
-Once a forger, always a forger. How to deal with fake inscriptions
+Once a forger, always a forger. How to deal with fake inscriptions  
 Lorenzo Calvelli, Ca’ Foscari University of Venice
 
-New Testament Textual Criticism and Forgery
+New Testament Textual Criticism and Forgery  
 Stephen Carlson, Australian Catholic University 
 
-Fan Fiction: Evangelicalism, Inerrancy, and the Marketplace for Modern-day Relic Hunters.
+Fan Fiction: Evangelicalism, Inerrancy, and the Marketplace for Modern-day Relic Hunters  
 Kipp Davis, Trinity Western University
 
-(Title TBA)
+(Title TBA)  
 Michael Langlois, University of Strasbourg
 
-3D printed replicas vs their originals for the study and preservation of ancient Egyptian antiquities
+3D printed replicas vs their originals for the study and preservation of ancient Egyptian antiquities  
 Rita Lucarelli, University of California Berkeley
 
-Fake Founders and Counterfeit Claims: Forging the Past in the Middle Ages
+Fake Founders and Counterfeit Claims: Forging the Past in the Middle Ages  
 Levi Roach, University of Exeter
  
-The Future’s Perfect Forgery (and the Way for You to Debunk It).
+The Future’s Perfect Forgery (and the Way for You to Debunk It)  
 Christopher Rollston, George Washington University
 
-Emotional Authenticity: Anne Boleyn’s Letter from the Tower
+Emotional Authenticity: Anne Boleyn’s Letter from the Tower  
 Stephanie Russo, Macquarie University
 
-Faking it: Reflections on a theme.
+Faking it: Reflections on a theme  
 Rachel Yuen-Collingridge, Macquarie University
 
-The program and a registration page will be uploaded shortly.
+The full program and a registration page will be uploaded shortly.
 
 For **further information** please email <a href="mailto:malcolm@forgingantiquity.com">malcolm@forgingantiquity.com</a>

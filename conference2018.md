@@ -37,7 +37,7 @@ Lorenzo Calvelli, Ca’ Foscari University of Venice
 "‘Archaic Mark’: A forged Gospel codex in the University of Chicago Library"  
 Stephen Carlson, Australian Catholic University 
 
-"Constanine Simonides' papyrus roll of the Gospel of John"  
+"Constantine Simonides' papyrus roll of the Gospel of John"  
 Malcolm Choat (Macquarie University)
 
 "Azusa Pacific University Deuteronomy fragment 1"  

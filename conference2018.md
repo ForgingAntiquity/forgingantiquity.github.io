@@ -26,13 +26,12 @@ Palaeographical description and the registering of other metatextual features ar
 These questions illustrate some of the potential problems which attend the publication of forgeries. These issues will form the basis of discussion through the following presentations.
 
 "Tracking Forgers Across Collections: script and format in a group of fake papyri"
-  Rodney Ast, University of Heidelberg
+Rodney Ast, University of Heidelberg
 
 "A dedication to Lucius Aemilius Paulus in the Fitzwilliam Museum, Cambridge"
-  Caroline Barron, Birkbeck, University of London
+Caroline Barron, Birkbeck, University of London
 
 "Forgeries for the Pigeons: An inscribed bronze tablet with dedication to Drusus Minor from Venice and related objects"
-
 Lorenzo Calvelli, Ca’ Foscari University of Venice
 
 "‘Archaic Mark’: A forged Gospel codex in the University of Chicago Library"

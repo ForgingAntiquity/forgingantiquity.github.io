@@ -72,7 +72,7 @@ When it comes to the past, wherever truth matters, fakes abound. The creation, d
 
 The program for the day will consist of a series of lectures, followed by a panel disucssion to which members of the audience may submit questions. In the evening there will be a reception and a viewing of the associated exhibition "Faking it" in the Museum of Ancient Cultures. The day's events are expected to go from 9.30 am to 5.30 pm, with the reception from 6–8 pm. A full program will be uploaded shortly. A list of speakers and abstracts may be found below.
 
-To register for this event, go to http://events.mq.edu.au/Faking-It-2018
+To register for this event, go to [http://events.mq.edu.au/Faking-It-2018](http://events.mq.edu.au/Faking-It-2018)
 
 ##### Speakers and abstracts.
 

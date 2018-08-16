@@ -6,7 +6,7 @@
 
 ## 20–22 September 2018, Macquarie University, Sydney
 
-The conference "Manuscripts from the Margins" gathers together a group of the world's leading experts in fake texts from throughout history to examine the forging of manuscripts (defined widely to include all surfaces on which writing is found) of all sorts. The conference has two parts. A [two-day workshop on the 20th–21st September, "How to Edit a Forgery"](/#Workshop), and [a day of public lectures on synthetic themes, "Faking it"](/#Fakingit).
+The conference "Manuscripts from the Margins" gathers together a group of the world's leading experts in fake texts from throughout history to examine the forging of manuscripts (defined widely to include all surfaces on which writing is found) of all sorts. The conference has two parts. A [two-day workshop on the 20th–21st September, "How to Edit a Forgery"](/conference2018#Workshop), and [a day of public lectures on synthetic themes, "Faking it"](/conference2018#Fakingit).
 
 The **keynote speaker** will be Professor Christopher Rollston, Associate Professor of Northwest Semitic languages and literatures, Department of Classical and Near Eastern languages and Civilizations, George Washington University, Washington D.C.
 

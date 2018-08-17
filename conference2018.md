@@ -51,6 +51,9 @@ Rita Lucarelli, University of California Berkeley
 "MU2893: a fake(?) Greek inscription in the Museum of Ancient Cultures, Macquarie University"  
 Paul McKechnie and Jennifer Irving, Macquarie University
 
+"The 'Tulli Papyrus': an alleged Hieratic forgery"
+Nicola Reggiani, University of Parma
+
 "Forgeries in Later Copies: Cotton Claudius C.ix and the Problem of the Ortodoxorum Charters"  
 Levi Roach, University of Exeter
 
@@ -110,6 +113,11 @@ Michael Langlois, University of Strasbourg
 Rita Lucarelli, University of California Berkeley
 
 The recent development and use of 3D scanning technologies and photogrammetry to reproduce ancient artefacts kept in museums has changed our view on the concept of replicas vs their original. 3D digital artifact models and prints can play an important role to help museums to promote their collections worldwide. 3D digital and printed replicas of various ancient Egyptian antiquities, from statues and busts to coffins, stelas and other magical objects, are becoming increasingly popular on the web as well as in museums kiosks and shops. This lecture will discuss issues and challenges related to replicas and copies in the study and fruition of the ancient Egyptian heritage, including questions of intellectual property rights and accessibility of the virtual platforms where the replicas are shared, through the example of the 3D models of ancient Egyptian coffins produced for the “Book of the Dead in 3D” project housed at the University of California, Berkeley.
+
+###### Fires in the sky: the “Tulli Papyrus”, an alleged Egyptological forgery  
+Nicola Reggiani, University of Parma
+
+The so-called “Tulli Papyrus” is a controversial fragment of a Hieratic papyrus, now lost and existing only in transcription, the content of which – describing some alleged celestial phenomenon – has been interpreted from time to time as a part of a late Book of the Dead, as the description of a natural event, as the ‘proof’ of an ancient Egyptian UFO sighting (from the annals of Thutmosis III, ca. 1479-1425 BC), and as a not very much skilful forgery. This curious text was allegedly ‘discovered’ and transcribed in hieroglyphs in 1934 in Cairo by Étienne Drioton (later Director of the Egyptian Museum) and Alberto Tulli (Egyptologist of the Vatican Museum), then was re-transcribed and ‘published’ in 1953 by Boris de Rachewiltz, the notorious Egyptologist with esoteric interests, who first gave the ‘ufological’ interpretation, with much success in the field and subsequent translations, quotations, and theories. While Giuseppe Botti, curator at the Egyptian Museum in Florence, unsuccessfully tried to study it from an academic viewpoint in the late Sixties, the US Scientific Study of Unidentified Flying Objects (also known as “Condon Report”, 1968) stressed its parallels with a Biblical passage and recorded it as a forgery. A very recent (and not fully accurate) online deconstruction by amateur Egyptologist Franco Brussino (2006) recognized several phrases as taken from Alan Gardiner’s Egyptian Grammar, but the text did not cease to keep its real nature obscure. The presentation of this ‘papyrus’ will outline the history of this papyrus, and examine how this can help us understand the possible reasons for the ‘virtual’ forgery – religious purposes, economic interests, popular folklore, or just a joke?
 
 ###### Fake Founders and Counterfeit Claims: Forging the Past in the Middle Ages  
 Levi Roach, University of Exeter

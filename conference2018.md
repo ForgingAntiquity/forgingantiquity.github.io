@@ -51,7 +51,7 @@ Rita Lucarelli, University of California Berkeley
 "MU2893: a fake(?) Greek inscription in the Museum of Ancient Cultures, Macquarie University"  
 Paul McKechnie and Jennifer Irving, Macquarie University
 
-"The 'Tulli Papyrus': an alleged Hieratic forgery"
+"The 'Tulli Papyrus': an alleged Hieratic forgery"  
 Nicola Reggiani, University of Parma
 
 "Forgeries in Later Copies: Cotton Claudius C.ix and the Problem of the Ortodoxorum Charters"  

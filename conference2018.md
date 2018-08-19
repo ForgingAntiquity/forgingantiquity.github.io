@@ -42,7 +42,7 @@ Malcolm Choat (Macquarie University)
 "Azusa Pacific University Deuteronomy fragment 1"  
 Kipp Davis, Trinity Western University
 
-(Title TBA)  
+The Jerusalem Papyrus: Is it a forgery, and how to deal with it?  
 Michael Langlois, University of Strasbourg
 
 "From papyrus to mummy bandages: the fake Book of the Dead in the John Rylands University Library in Manchester"  

@@ -16,7 +16,7 @@ The **keynote speaker** will be Professor Christopher Rollston, Associate Profes
 ### Manuscripts from the Margins: How to Edit a Forgery
 #### Macquarie University, 20–21 September 2018.
 
-This two-day workshop will address issues invovled working with, editing, and publishing forgeries (certain or alleged) through the presentation of a diverse range of textual forgeries purporting to be from antiquity through to the early modern period.
+This two-day workshop will address issues involved in working with, editing, and publishing forgeries (certain or alleged) through the presentation of a diverse range of textual forgeries purporting to be from antiquity through to the early modern period.
 
 The how and why of editing forged texts is a largely unarticulated domain. Whilst forgeries are ubiquitous in collections everywhere, they remain understudied and unappreciated. Efforts have concentrated on the identification of telltale signs of duplicity, rather than on the mechanics used to feign authenticity. As the intention of forgers differs from that of pre-modern scribes, the publication of textual remains cannot proceed as usual. Lacunae may be intentional and text fragmentary from its inception.
 

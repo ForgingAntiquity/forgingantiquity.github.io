@@ -104,10 +104,10 @@ Kipp Davis, Trinity Western University
 
 It is said that truth is stranger than fiction, but also that life imitates art. The tremendous impact that the imagination has had and continues to have on our own development and history is pronounced, but how much has the narrative of discovery affected the history of the discovery of the Dead Sea Scrolls, going so far as to shape the marketplace for their discovery? In this paper I will briefly explore how the vested interest of American Evangelicals in the textual value of the Dead Sea Scrolls has affected their appraisal, and also how it has promoted an entire cottage industry of relic hunting, forgery, and modern veneration.
 
-(Title TBA)  
+###### The Jerusalem Papyrus, Israel, and UNESCO  
 Michael Langlois, University of Strasbourg
 
-(abstract to come)
+The so-called ‘Jerusalem Papyrus’ was unveiled by Israeli authorities in October 2016, and is said to be the earliest mention of Jerusalem on a Hebrew papyrus. The issue of its authenticity was immediately raised, as this document was not found during controlled excavations. Yet, some of the most respected epigraphers had asserted that the manuscript is genuine. It was made public just as UNESCO was voting on a draft resolution calling Israel the ‘occupying power’ of Palestine, and Israeli Prime Minister Benyamin Netanyahu used this papyrus as evidence that Jerusalem was the capital of a Hebrew state some 2,700 yeas ago. As well as discussing the authenticity of the papyrus, this paper will examine the political and religious implications of this ‘discovery’.
 
 ###### 3D printed replicas vs their originals for the study and preservation of ancient Egyptian antiquities  
 Rita Lucarelli, University of California Berkeley

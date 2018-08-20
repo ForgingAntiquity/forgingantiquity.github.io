@@ -10,7 +10,7 @@ The conference "Manuscripts from the Margins" gathers together a group of the wo
 
 The **keynote speaker** will be Professor Christopher Rollston, Associate Professor of Northwest Semitic languages and literatures, Department of Classical and Near Eastern languages and Civilizations, George Washington University, Washington D.C.
 
-**Funding for this conference** has been provided by the Ian Potter Foundation, the Australian Research Council, the MQ Ancient Culutres Research Centre, the Sir Asher Joel Foundation, and the Society for the Study of Early Christianity.
+**Funding for this conference** has been provided by the Ian Potter Foundation, the Australian Research Council, the MQ Ancient Cultures Research Centre, the Sir Asher Joel Foundation, and the Society for the Study of Early Christianity.
 
 <a name="Workshop"/>
 ### Manuscripts from the Margins: How to Edit a Forgery

@@ -1,6 +1,6 @@
 
 <figure>
-<p><img src="/images/ForgeryConference2018NewBanner.jpg" style="width:100%"/>
+<p><img src="/images/confbannernew design.jpg" style="width:100%"/>
 </p>
 </figure>
 

@@ -39,7 +39,7 @@ Stephen Carlson, Australian Catholic University
 "Constantine Simonides' papyrus roll of the Gospel of John"  
 Malcolm Choat (Macquarie University)
 
-"Azusa Pacific University Deuteronomy fragment 1"  
+"The Azusa Pacific University Deuteronomy Fragment DSS F.153 and the Usage of C-14 Dating for Authentication"  
 Kipp Davis, Trinity Western University
 
 The Jerusalem Papyrus: Is it a forgery, and how to deal with it?  

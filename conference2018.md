@@ -36,14 +36,14 @@ Lorenzo Calvelli, Ca’ Foscari University of Venice
 "‘Archaic Mark’: A forged Gospel codex in the University of Chicago Library"  
 Stephen Carlson, Australian Catholic University 
 
-"Constantine Simonides' papyrus roll of the Gospel of John"  
-Malcolm Choat (Macquarie University)
+"Constantine Simonides and his collection of papyri"  
+Malcolm Choat and Rachel Yuen-Collingridge (Macquarie University)
 
 "The Azusa Pacific University Deuteronomy Fragment DSS F.153 and the Usage of C-14 Dating for Authentication"  
 Kipp Davis, Trinity Western University
 
 The Jerusalem Papyrus: Is it a forgery, and how to deal with it?  
-Michael Langlois, University of Strasbourg
+Michael Langlois, Helsinki Collegium for Advanced Studies / Centre de Recherche Français à Jérusalem / University of Strasbourg
 
 "From papyrus to mummy bandages: the fake Book of the Dead in the John Rylands University Library in Manchester"  
 Rita Lucarelli, University of California Berkeley
@@ -63,8 +63,6 @@ Christopher Rollston, George Washington University
 "Anne Boleyn’s Letter from the Tower, 6 May 1539"  
 Stephanie Russo, Macquarie University
 
-"A Fragment of Simonidean Egyptian History in the World Museum, Liverpool"  
-Rachel Yuen-Collingridge (Macquarie University)
 
 
 <a name="Fakingit"/>
@@ -77,7 +75,76 @@ The program for the day will consist of a series of lectures, followed by a pane
 
 Attendence is free but registration is essential: to register, go to [http://events.mq.edu.au/Faking-It-2018](http://events.mq.edu.au/Faking-It-2018)
 
-##### Speakers and abstracts.
+##### Program
+
+10.00–10.20am	Opening and Welcome
+
+10.20–10.35am
+‘Fan Fiction: Evangelicalism, Inerrancy, and the Marketplace for Modern-day Relic Hunters’  
+Kipp Davis, Trinity Western University
+
+10.35–10.50am
+‘New Testament Textual Criticism and Forgery’  
+Stephen C. Carlson, Australian Catholic University (Melbourne)
+
+10.50–11.20am   Morning tea
+
+11.20–11.35am
+‘3D printed replicas vs their originals for the study and preservation of ancient Egyptian antiquities’  
+Rita Lucarelli, University of California Berkeley
+
+11.35–11.50am
+‘Fires in the sky: the “Tulli Papyrus”, an alleged Egyptological forgery’  
+Nicola Reggiani, University of Parma
+
+11.50am–12.05pm
+‘Forging Fakes and Just Plain Faking. Thoughts on a Range of Forgery Types’  
+Rodney Ast, University of Heidelberg
+
+12.05–12.15pm	  Pause
+
+12.15–12.30pm	
+‘Once a forger, always a forger. How to deal with fake inscriptions’  
+Lorenzo Calvelli, Ca’ Foscari University of Venice
+
+12.30–12.45pm
+‘Forgery or restoration? Fake inscriptions are found in Grand Tour collections’  
+Caroline Barron, Birkbeck, University of London
+
+12.45–1.00pm	
+‘Fake Founders and Counterfeit Claims: Forging the Past in the Middle Ages’  
+Levi Roach, University of Exeter
+
+1.00–2.00pm	  Lunch (provided)
+
+2.00–2.15pm		
+‘The Jerusalem Papyrus, Israel, and UNESCO’  
+Michael Langlois, Helsinki Collegium for Advanced Studies / Centre de Recherche Français à Jérusalem / University of Strasbourg
+
+2.15–2.30pm
+‘Emotional Authenticity: Anne Boleyn’s Letter from the Tower’  
+Stephanie Russo, Macquarie University
+
+2.30–2.45pm
+‘Faking it: Reflections on a theme’  
+Rachel Yuen-Collingridge, Macquarie University
+
+2.45–3.15pm		Afternoon tea
+
+3.15–4.00pm		
+Keynote: ‘The Future’s Perfect Forgery (and the Way for You to Debunk It)’
+Christopher Rollston, George Washington University
+
+4.00–4.10pm	Pause
+
+4.10–5.00pm	Panel Discussion
+
+5.30–7.30pm	
+Reception and Opening of the Museum of Ancient Cultures Exhibition ‘Faking it: Forgeries & Artefacts in dialogue’
+29 Wally’s Walk / X5B Courtyard & T1 Foyer
+
+
+##### Speakers and abstracts
 
 ###### Forging Fakes and Just Plain Faking. Thoughts on a Range of Forgery Types  
 Rodney Ast, University of Heidelberg
@@ -134,9 +201,5 @@ Stephanie Russo, Macquarie University
 
 In the archives of the British Library, a partially burnt letter holds a tantalizing mystery: is this the final letter of Anne Boleyn? The letter purports to be from Anne Boleyn to Henry VIII, written from Anne’s prison in the Tower just two weeks before her execution in May 1536. The letter is almost certainly a forgery dating from the reign of Elizabeth I, Anne’s daughter. However, recent reassessments have claimed that the letter is authentic, in part due to the letter's apparent ‘emotional’ authenticity; in other words, the way the letter seems to conform to our sense that this is how Anne Boleyn should have, or would have, felt. In this paper, I will consider the letter’s relationship to judgments about authenticity: why do we want this letter to be real? What does the reception of this letter tell us about the relationship between history, forgery and authenticity?
 
-###### Faking it: Reflections on a theme  
-Rachel Yuen-Collingridge, Macquarie University
-
-(abstract to come)
 
 For **further information** please email <a href="mailto:malcolm@forgingantiquity.com">malcolm@forgingantiquity.com</a>

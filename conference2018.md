@@ -20,49 +20,72 @@ This two-day workshop will address issues involved in working with, editing, and
 
 The how and why of editing forged texts is a largely unarticulated domain. Whilst forgeries are ubiquitous in collections everywhere, they remain understudied and unappreciated. Efforts have concentrated on the identification of telltale signs of duplicity, rather than on the mechanics used to feign authenticity. As the intention of forgers differs from that of pre-modern scribes, the publication of textual remains cannot proceed as usual. Lacunae may be intentional and text fragmentary from its inception.
 
-Palaeographical description and the registering of other metatextual features are further complicated by the aspirations and failures of forgers. What sorts of comparisons are possible or even responsible? How much of the traditional repertoire of conventional signs and symbols should we read into ambiguous marks? Do we engage with the artefact as executed or imagined? Is it ethical to publish editions which make transparent forgers’ techniques? Does scholarly engagement with forgeries merely warn future fakers of things they should avoid?
+Palaeographical description and the registering of other metatextual features are further complicated by the aspirations and failures of forgers. What sorts of comparisons are possible or even responsible? How much of the traditional repertoire of conventional signs and symbols should we read into ambiguous marks? Do we engage with the artefact as executed or imagined? Is it ethical to publish editions which make transparent forgers’ techniques? Does scholarly engagement with forgeries merely warn future fakers of things they should avoid? These questions illustrate some of the potential problems which attend work on and the publication of forgeries.
 
-These questions illustrate some of the potential problems which attend the publication of forgeries. These issues will form the basis of discussion through the following presentations.
+#### Schedule
 
-"Tracking Forgers Across Collections: script and format in a group of fake papyri"  
-Rodney Ast, University of Heidelberg
+*Thursday 20th September*
 
-"A dedication to Lucius Aemilius Paulus in the Fitzwilliam Museum, Cambridge"  
-Caroline Barron, Birkbeck, University of London
+1.00–2.20pm  
+‘The Marzeah Papyrus: Putative Arguments for Authenticity’  
+Christopher Rollston, George Washington University  
 
-"Forgeries for the Pigeons: An inscribed bronze tablet with dedication to Drusus Minor from Venice and related objects"  
-Lorenzo Calvelli, Ca’ Foscari University of Venice
+‘The Azusa Pacific University Deuteronomy Fragment DSS F.153 and the Usage of C-14 Dating for Authentication’  
+Kipp Davis, Trinity Western University  
 
-"‘Archaic Mark’: A forged Gospel codex in the University of Chicago Library"  
-Stephen Carlson, Australian Catholic University 
+2.20 – 2.50 pm 	Afternoon tea  
 
-"Constantine Simonides and his collection of papyri"  
-Malcolm Choat and Rachel Yuen-Collingridge (Macquarie University)
-
-"The Azusa Pacific University Deuteronomy Fragment DSS F.153 and the Usage of C-14 Dating for Authentication"  
-Kipp Davis, Trinity Western University
-
-The Jerusalem Papyrus: Is it a forgery, and how to deal with it?  
+2.50 – 4.10 pm  
+‘The Jerusalem Papyrus: Is it a forgery, and how to deal with it?’  
 Michael Langlois, Helsinki Collegium for Advanced Studies / Centre de Recherche Français à Jérusalem / University of Strasbourg
 
-"From papyrus to mummy bandages: the fake Book of the Dead in the John Rylands University Library in Manchester"  
-Rita Lucarelli, University of California Berkeley
+‘Tracking Forgers Across Collections: script and format in a group of fake papyri’  
+Rodney Ast, University of Heidelberg
 
-"MU2893: a fake(?) Greek inscription in the Museum of Ancient Cultures, Macquarie University"  
-Paul McKechnie and Jennifer Irving, Macquarie University
+4.10 – 4.20 pm	Pause
 
-"The 'Tulli Papyrus': an alleged Hieratic forgery"  
-Nicola Reggiani, University of Parma
+4.20 – 5.20 pm  
+‘Constantine Simonides and his collection of papyri’  
+Rachel Yuen-Collingridge and Malcolm Choat, Macquarie University  
 
-"Forgeries in Later Copies: Cotton Claudius C.ix and the Problem of the Ortodoxorum Charters"  
-Levi Roach, University of Exeter
+5.30 –7.00 pm Reception: Australian Hearing Hub, Level 3 Recreation room  
 
-"The Marzeah Papyrus: Putative Arguments for Authenticity"  
-Christopher Rollston, George Washington University
+*Friday 21st September*
 
-"Anne Boleyn’s Letter from the Tower, 6 May 1539"  
-Stephanie Russo, Macquarie University
+9.20 – 10.40 am  
+‘Forgeries in Later Copies: Cotton Claudius C.ix and the Problem of the Ortodoxorum Charters’  
+Levi Roach, University of Exeter  
 
+‘Anne Boleyn’s Letter from the Tower, 6 May 1539’  
+Stephanie Russo, Macquarie University  
+
+10.40 – 11.10 am	Morning tea  
+
+11.10 am – 12.30 pm  
+‘MU2893: a fake(?) Greek inscription in the Museum of Ancient Cultures, Macquarie University’  
+Paul McKechnie (Macquarie University) and Jennifer Irving (University of Nebraska, Omaha and Lincoln)  
+
+‘Forgeries for the Pigeons: An inscribed bronze tablet with dedication to Drusus Minor from Venice and related objects’  
+Lorenzo Calvelli, Ca’ Foscari University of Venice  
+
+12.30–2.00 pm 	Lunch  
+
+2.00 – 3.20 pm 
+
+‘From papyrus to mummy bandages: the fake Book of the Dead in the John Rylands University Library in Manchester’  
+Rita Lucarelli, University of California Berkeley  
+
+‘The “Tulli Papyrus”: an alleged Hieratic forgery’  
+Nicola Reggiani, University of Parma  
+
+3.20 – 3.50 pm afternoon tea  
+‘“Archaic Mark”: A forged Gospel codex in the University of Chicago Library’  
+Stephen Carlson, Australian Catholic University (Melbourne)  
+
+‘A dedication to Lucius Aemilius Paulus in the Fitzwilliam Museum, Cambridge’  
+Caroline Barron, Birkbeck, University of London  
+
+Evening: Conference dinner 
 
 
 <a name="Fakingit"/>

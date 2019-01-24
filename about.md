@@ -38,9 +38,7 @@ to the English.
 
 * An online database of forged papyri from (or allegedly from) Egypt. We invite people to report fake papyri they are aware of to us at <a href="mailto:info@forgingantiquity.com"> info@forgingantiquity.com </a>.
 
-* A study by Dundler of the internet trade in papyrus.
-
-* An online [Artefact Portal](/portal) where members of the public can learn about the antiquities trade, provide us with stories about their own collections of antiquities, and connect with researchers about the past and present of the antiquities market.
+* Studies by Dundler of the internet trade in papyrus, and Bott of fake sculptures from Egypt.
 
 <a name="team"/>
 ## Team
@@ -57,7 +55,6 @@ Postdoctoral Fellow and Project Manager:
 Research Assistants:
 * [Daniel Hanigan](/daniel)
 * [Vanessa Mawby](/vanessa)
-* [Jacob Gwiazdzinski](/jacob)
 
 Research students:
 * [Lauren Dundler](/lauren)
@@ -65,6 +62,7 @@ Research students:
 
 Interns
 * [Mark Matic](/mark)
+* [Jacob Gwiazdzinski](/jacob)
 
 Collaborators:
 * [Tommy Wasserman](https://ansgarteologiskehogskole.academia.edu/TWasserman)

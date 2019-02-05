@@ -35,5 +35,8 @@
   - subtitle: "Bibliography"
     subhref: "/research#bibliography"
 
+- title: "Inks"
+  href: "/inks/"
+  
 - title: "Contact Us"
   href: "/contact"

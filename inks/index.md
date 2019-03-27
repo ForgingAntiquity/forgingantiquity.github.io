@@ -11,6 +11,6 @@ The project is supported by an Australian Research Council Discovery project gra
 
 ## Project Team
 
-A/Prof. Malcolm Choat, Department of Ancient History,Macquarie University
-Prof. Damian Gore, Department of Environmental Sciences, Macquarie University
-Dr Rodney Ast, Institute for Papyrology, University of Heidelberg.
+* A/Prof. Malcolm Choat, Department of Ancient History,Macquarie University
+* Prof. Damian Gore, Department of Environmental Sciences, Macquarie University
+* Dr Rodney Ast, Institute for Papyrology, University of Heidelberg.

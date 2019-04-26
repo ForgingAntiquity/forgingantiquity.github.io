@@ -25,6 +25,9 @@
 - title: "Gallery"
   href: "/gallery"
 
+- title: "Forged Papyri"  
+  href: "/forgeries"
+
 - title: "Research"
   href: "/research"
   subcategories:

@@ -27,6 +27,11 @@
 
 - title: "Forged Papyri"  
   href: "/forgeries"
+  subcategories:
+  - subtitle: "List of known forgeries"
+    subhref: "/forgeries"
+  - subtitle: "Typology of forgeries"
+    subhref: "/typology"
 
 - title: "Research"
   href: "/research"

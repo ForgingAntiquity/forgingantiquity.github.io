@@ -1,4 +1,4 @@
-# Typology of Forged Manuscripts#
+# Typology of Forged Manuscripts
 
 The typology of forged manuscripts adopted by the project separates forgeries into four categories based on their script, text, or physical characteristics.
 

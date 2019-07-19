@@ -28,6 +28,8 @@ Bagnall et al. (1980) = Bagnall, R., Sijpesteijn, P. J. and Worp, K. A. (1980) G
  
 Bailey (2008) = Bailey, D. (2008) Catalogue of the Terracottas in the British Museum vol. 4: Ptolemaic and Roman Terracottas from Egypt. London: The British Museum.
  
+Bailey (1996) = Bailey, D. (1996) Archaeological Research in Roman Egypt: the Proceedings of the Seventeenth Classical Colloquium of the Department of Greek and Roman Antiquities, British Museum, held on 1–4 December, 1993 (Journal of Roman Archaeology suppl. series 19). Ann Arbor: Journal of Roman Archaeology.
+
 Barratte & Boyaval (1979) = Baratte, F. and Boyaval, B. (1979) ‘Catalogue des étiquettes de momies du Musée du Louvre’, Cahiers de Recherches de l’Institut de Papyrologie et d’Egyptologie de Lille, 5, 5, pp. 237–287.
 
 Bell (1927) = Bell, H. I. (1927) ‘Alexandria’, Journal of Egyptian Archaeology, 13, pp. 171–184.
@@ -43,9 +45,7 @@ Bingen (1988) = Bingen, J. (1988) ‘Les “Fayum Tablets” de faux abécédair
 Bingen, J. (1994) ‘Deux stèles chrétiennes de l’ex-collection Michaelidès: S.B. X 10515 et 10516’, Zeitschrift für Papyrologie und Epigraphik 100, pp. 319–320.
 
 Borchardt, L. (1902) ‘Harpokrates mit dem Topf’, Zeitschrift für Ägyptische Sprache und Altertumskunde, 40, p. 98.
- 
-Borgin (1996) = Borg, B. (1996) Mumienporträts: Chronologie und kultureller Kontext. Mainz: Ph. von Zabern.
- 
+  
 Brown (2017) = Brown, I.P. (2017). “Gospel of Jesus’ Wife.” e-Clavis: Christian Apocrypha. Version as updated March 2017. http://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-jesus-wife/, accessed 22 June 2017.
 
 Boyaval (1974) = Boyaval, B. (1974) ‘Catalogue des étiquettes des momies du Musée du Louvre’, Cahiers de Recherches de l’Institut de Papyrologie et d’Egyptologie de Lille, 2, 2, pp. 155–264.
@@ -64,11 +64,14 @@ Chauveau (1991) = Chauveau, M. (1991) ‘Les étiquettes de momies de la “NY C
 
 Choat (2014) = Choat, M. (2014) ‘The Gospel of Jesus’s Wife: A Preliminary Paleographical Assessment’, Harvard Theological Review, 107, pp. 60–62.
 
+Clarysse (2014) = Clarysse, W. et al (2014) ‘Mummy Labels from Graeco-Roman Egypt in National Museums Scotland, England CdE 89 (2014) 356–375’, Chronique d’Égypte, 89, pp. 356–375.
+ 
 Clarysse (1980) = Clarysse, W. (1980) ‘Forgeries and Ghost Names’, Zeitschrift für Papyrologie und Epigraphik, 40, pp. 76–77.
  
 Coles & Gallazzi (1981) = Coles, R. A. and Gallazzi, C. (1981) ‘Papyri and Ostraka: Alterations and Counterfeits’, in E. Bresciani et al. (ed.) Scritti in onore di Orsolina Montevecchi. Bologna: Clueb, pp. 99–105.
  
 Cook (ed.) (1996) = Cook, B. (1966) Inscribed Hadra Vases in The Metropolitan Museum of Art. New York: Metropolitan Museum of Art.
+
 
 Cribiore (1996) = Cribiore, R. (1996) Writing, Teachers, and Students in Graeco Roman Egypt. Atlanta: Scholars Press.
 
@@ -84,10 +87,13 @@ Devauchelle, & Quaegebeur (1981) = Devauchelle, D. and Quaegebeur, J. (1981) ‘
  
 Depuydt (2014) = Depuydt, L. (2014) ‘The Alleged Gospel of Jesus’s Wife: Assessment and Evaluation of Authenticity’, Harvard Theological Review, 107, pp. 172–189.
 
+di Cerbo (2014) = di Cerbo, C. (2014) ‘Seven Offering Tables and a Mummy Label from the Magazines of Luxor Temple’, in Sandra, L. L., Stadler, M. A., and Jakobeit, U. (eds) Gehilfe des Thot. Festschrift für Karl-Theodor Zauzich zu seinem 75. Geburtstag. Wiesbaden: Harrassowit, pp. 21–27.
+ 
 Dieleman (2010) = Dieleman, J. (2010) ‘Cryptography at the Monastery of Deir el Bachit (Ostracon Bachit 21)’, Oreintalia Lovaniensia Analecta, 194, pp. 511–518.
 
 Dunand, F. (1979) Les terres cuites isiaqies du Musée du Caire = EPRO 76. Leiden: Brill.
- Fraser (1967) = Fraser, P. M. (1967) ‘Some Alexandrian Forgeries’, Proceedings of the British Academy, 47(243–250).
+
+Fraser (1967) = Fraser, P. M. (1967) ‘Some Alexandrian Forgeries’, Proceedings of the British Academy, 47(243–250).
 
 Funghi et al. (eds) (2012) = Funghi, M. S., Savorelli, G. M. and Römer, C. (2012) Ostraca greci e bilingui del Petrie Museum of Egyptian Archaeology (O. Petr. Mus.). Firenze: Edizioni Gonnelli.
  
@@ -99,7 +105,7 @@ Gastgeber (2001) = Gastgeber, C. (2001) Kopie und Fälschung. Graz: Adeva Akadem
  
 Gilliam (1966) = Gilliam, J. F. (1966) ‘Leather Scrolls from Alexandria’, in Essays in honour of C. Bradford Welles. New Haven: American Society of Papyrologists, pp. 112–120.
 
-Gueraud & Kuentz (1936) = Gueraud, O. and Kuentz, C. (1936) ‘Le crépuscule d’un dieu. Harpocrate Χρενιβοπάστης’, ASAE, 36, pp. 115–136.
+Gueraud & Kuentz (1936) = Gueraud, O. and Kuentz, C. (1936) ‘Le crépuscule d’un dieu. Harpocrate Χρενιβοπάστης’, Annales du service des antiquités de l'Égypte, 36, pp. 115–136.
  
 Györy (2002) = Györy, H. (2002) ‘Les terres cuites d’Harpocrate-au-faucon-sur-le-pilier’, in Györy, H. and Mrav, Z. (eds) Acta Symposii anno 2000 = Aegyptus et Pannonia. Budapest, p. 94.
  
@@ -107,6 +113,8 @@ Hess (1892) = Hess, J. J. (1892) ‘Demotica’, Zeitschrift für ägyptische sp
 
 Heubeck (1986) = Heubeck, A. (1986) ‘Die Würzburger Alphabettafel’, Würzburger Jahrbucher für die Altertumswissenschaft, 12, pp. 7–20.
 
+Hoffmann, F. (2000) Ägypten, Kultur und Lebenswelt in Griechisch-Römischer Zeit, eine Darstellung nach den Demotischen Quellen. Berlin: Akademie.
+ 
 Horak (1991) = Horak, U. (1991) ‘Fälschungen auf Papyrus, Pergament, Papier und Ostraka’, Tyche, 6, pp. 91–98.
  
 Iconomopoulos (1889) = Iconomopoulos, D. (1889) ‘Le jeux gymniques de Panopolis’, Revue des études grecques, 2(6), pp. 164–168.
@@ -127,6 +135,8 @@ Krüger & Bistrikowa (1969) = Krüger, O. and Bistrikowa, M. (1969) ‘Неиз�
  
 Krüger & Bistrikowa (1965) = Krüger, O. and Bistrikowa, M. (1965) ‘Неизданные папирусы и другие тексты Государственного Эрмитажа’, Vestnik Drevnei istorii (Вестник древней истории), 92(2), pp. 103–106.
 
+Lanzone (1886) = Lanzone, R. V. (1881–1886) Dizionario di mitologia egizia. Turin: Litografia fratelli Doyen.
+
 Lauch (1951) = Lauch, E. (1951) ‘Eine echt hellenistische Grabschrift’, Theologische Literaturzeitung, 76, pp. 661–668.
 
 Lejeune (1988) = Lejeune, M. (1988) ‘De suprenants abécédaires (résumé)’, Comptes rendus de l’Academie des inscriptions et belles-lettres, 132(1), p. 144.
@@ -141,7 +151,9 @@ Malaise (1994) = Malaise, M. (1994) ‘Questions d’iconographie harpocratique 
  
 Marganne (2007) = Marganne, M. (2007) ‘Les Archives Photographiques de Papyrologie Littéraire du CEDOPAL’, in Marganne, M. (ed.) Papyrus et papyrologie à l’Université de Liège (Cahiers du CEDOPAL, 5). 5th edn. Liège: CEDOPAL, pp. 80–87.
  
-Merkelbach  (1958) = Merkelbach, R. (1958) ‘Die Hesiodfragmente auf Papyrus. Mit Lichtdrucktafeln’, Archiv für Papyrusforschung, 16, pp. 26–81.
+Meeks (1993) = Meeks, D. (1993) ‘Deux papyrus funéraires de Marseille (Inv. 292 et 5323). À propos de quelques personnages thébains’, in Karpieskaja, E. G. and Kovaljev, A. A. (eds) Ancient Egypt and Kush. Moscow: Oriental Literature, pp. 290–305.
+ 
+Merkelbach (1958) = Merkelbach, R. (1958) ‘Die Hesiodfragmente auf Papyrus. Mit Lichtdrucktafeln’, Archiv für Papyrusforschung, 16, pp. 26–81.
  
 Michaïlides  (1949) = Michaïlides, G. (1949) ‘Vase en terre cuite portant une inscription philosophique grecque’, BIFAO, 49, 49, pp. 23–44.
  
@@ -154,13 +166,20 @@ Nachtergael (1978) = Nachtergael, G. (1978) ‘La collection Marcel Hombert: Tim
 Nachtergael (2003) = Nachtergael, G. (2003) ‘Étiquettes de momies. Éditions, notes critiques, biliographie.’, Chronique d’Égypte, 78, pp. 251–276.
 
 Nachetergael (2004) = Nachtergael, G. (2004) ‘Sur la provenance de quelques Ostraca de la Lund Collection’, Ricerche di egittologia e di antichità copte, 6, p. 91.
+
 Néroutsos-Bey (1887) = Néroutsos-Bey, M. (1887) ‘Inscriptions Greques et Latines Recueillies dans la ville d’Aexandrue et aux environs’, Revue Archéologique, 3, (3), pp. 61–68.
 
 Oates et al. (1967) = Oates, J. F. et al. (1967) Yale Papyri in the Beinecke Rare Book and Manuscript Library, 1. New Haven and Toronto: American Society of Papyrologists.
  
+Omont (1901) = Omont, H. (1901) ‘Le recueil d’anciennes écritures de Pierre Hamon (1566–1567)’, Bibliothèque de l’École des chartes, 62, pp. 57–73.
+ 
 Pagenstecher (1913) = Pagenstecher, R. (1913) Expedition Ernst von Sieglin, Ausgrabungen in Alexandria vol. 2: Die griechisch-ägyptische Sammlung. Leipzig: Giesecke & Devrient.
 
 Parássoglou (1974) = Parássoglou, G. M. (1974) ‘Artificial Manuscripts and Magical Papyri’, Studia Papyrologica, 13, pp. 57–60.
+ 
+Parlasca & Frenz (2003) = Parlasca, K. and Frenz, H. G. (2003) Repertorie d’arte dell’Egitto greco-romano, a cura di Achille Adriani. Series 2. Rome: ‘L’Erma’ di Bretschneider.
+ 
+Parlasca, Berger & Pintaudi (1985) = Parlasca, K., Berger, J.-E. and Pintaudi, R. (1985) El-Fayyum. Milan: Ricci.
  
 Parlasca (1976) = Parlasca, K. (1976) ‘Pseudo-Alexandrian Shoes – Fake Paintings on Hadra vases, with 4 illustrations’, Archäologischer Anzeiger, 91, p. 83.
 
@@ -170,9 +189,9 @@ Pinto (2013) = Pinto, P. M. (2013). Il falso Eschilo di Simonidis. G. Bastianini
 
 Preisigke (1915) = Preisigke, F. (1915) Sammelbuch griechischer Urkunden aus Ägypten. Strasbourg: K. J. Trübner.
 
-Puech (1955) Puech, H.-C. (1955) ‘Un logion de Jésus sur bandelette funéraire’, Revue d’Histoire des Religions, 147, pp. 126–128.
+Puech (1955) = Puech, H.-C. (1955) ‘Un logion de Jésus sur bandelette funéraire’, Revue d’Histoire des Religions, 147, pp. 126–128.
 
-Revillout (1880) = Revillout, E. (1880) ‘Planchettes Bilingues’, Revue Égyptologique, 7, pp. 29–30.
+Revillout (1880) = Revillout, E. (1880) ‘Planchettes Bilingues’, Revue Égyptologique, 7, pp. 29–39.
 
 Ritschl (1872) = Ritschl, F. W. (1872) ‘Aeschylus’ Perser in Aegypten: ein neues Simonideum’, Rheinisches Museum für Philologie, 27, pp. 114–126.
 
@@ -180,19 +199,35 @@ Robert & Robert (1951) = Robert, L. and Robert, J. (1951) ‘Bulletin épigraphi
  
 Sandri (2010) = Sandri, S. (2010) ‘Echt oder falsch? Hieroglyphische Inschriften auf gräko-ägyptischen Terrakotten’, CE, 84, pp. 314–330.
  
+Satzinger  (1994) = Satzinger, H. (1994) Das Kunsthistorische Museum in Wien. Die ägyptisch-orientalische Sammlung vol. 14. Mainz: Philipp von Zabern.
+
 Sijpesteijn (1968) = Sijpesteijn, P. J. (1968) Oudheidkundige Mededelingen uit het Rijksmuseum van Oudheden te Leiden. p. 3, no. 121.
 
+Simon (1975) = Simon, E. (1975) Führer durch die Antikenabteilung des Martin von Wagner Museums der Universität Würzburg. Mainz: Philipp von Zabern.
+ 
+Simonides (1861) = Simonides, K. (1861) Fac-similes of certain portions of the Gospel of St. Matthew, and of the Epistles of Ss. James &amp; Jude: written on papyrus in the first century, and preserved in the Egyptian museum of Joseph Mayer, Esq. Liverpool. London: Trübner.
+ 
+Simonides (1864a) = Simonides, K. (1864) The Periplus of Hannon, King of the Karchedonians, concerning the Lybian parts of the Earth beyond the Pillars of Herakles, which he dedicated to Kronos, the greatest God, and to all the Gods dwelling with him. London: Trübner.
+ 
 Srasser (2004) = Strasser, J.-Y. (2004) ‘Les Olympia d’Alexandrie et le pancratiaste M. Aur. Asklèpiadès’, Bulletin de correspondance hellénique, 128–129, pp. 465–468.
 
 Tait (ed.) (1930) = Tait, J. G. (1930) Greek ostraca in the Bodleian Library at Oxford and various other collections. vol. 1. London: Egypt Exploration Society.
 
+Thompson (1982) = Thompson, D. (1982) Mummy Portraits in the J. Paul Getty Museum. Mailbu: J. Paul Getty Museum.
+
+Tovar & Worp (2013) = Tovar, S. T. and Worp, K. A. (2013) ‘New Wooden Labels from Various Collections’, Zeitschrift für Papyrologie und Epigraphik, 184, pp. 257–270.
+  
 van Haelst (1976) = van Haelst, J. (1976) Catalogue des Papyrus Littéraires Juifs et Chrétiens. Paris: Sorbonne.
 
 van Rengen (1971) = van Rengen, W. (1971) 'Les jeux de Panopolis', Chronique d’Égypte, 46, p. 136–141.
 
+Vandenbeusch  (2010) = Vandenbeusch, M. (2010) Catalogue des bandelettes de momies. Geneva: Société d’Égyptologie.
+
 Vleeming (2011) = Vleeming, S. P. (2011) Demotic and Greek-Demotic mummy labels and other short texts gathered from many publications (Short Texts II 278-1200). Leuven: Peeters.
 
 Wagner et al. (1990) = Wagner, G. et al. (1990) ‘Documents grecs découverts dans la Vallée des Reines, I [avec 1 planche]’, Bulletin De L’Institut Français D’Archéologie Orientale, 90, p. 1990.
+
+Walker (2000) = Walker, S. (2000) Ancient Faces: Mummy Portraits from Roman Egypt. exh. cat. New York: Routledge.
 
 Wiedemann (1883) = Wiedemann, A. (1883) ‘Zum Fund von Der el Bahari’, Zeitschrift für ägyptische sprache und altertumskunde, 21, pp. 123–126.
 

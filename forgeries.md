@@ -11,7 +11,7 @@ The "Typology" column contains the classification of the forgeries into the cate
 
 In accordance with the general parameters of the project, the list below consists of forgeries from (or allegedly from) Egypt on papyrus and related material (ostraca, tablets, etc). It thus largely excludes (a) epigraphic forgeries; and (b) forgeries from locations other than Egypt. For this reason it does not includes texts such as the post-2002 "Dead Sea Scroll-like" fragments which are well covered by <a href="https://lyingpen.com">other projects</a>.
 
-This list largely consists of those forgeries which have been published, mentioned in print, or featured in online reposititories. We are aware that there are many more papyrus forgeries in collections throughout the world, and would be very grateful to receive information on them (and also images of them, if possible). Please send informatin on such fakes to <a href="mailto:malcolm@forgingantiquity.com">malcolm@forgingantiquity.com</a>. 
+This list largely consists of those forgeries which have been published, mentioned in print, or featured in online reposititories. We are aware that there are many more papyrus forgeries in collections throughout the world, and would be very grateful to receive information on them (and also images of them, if possible). Please send information on such fakes to <a href="mailto:malcolm@forgingantiquity.com">malcolm@forgingantiquity.com</a>. 
 
 <iframe style="width:100%; height:70vh" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAM7XZfOITY72YEqOdwYmu5FMnWzZ4R2PpM-6h4TYtiMTh4RejWsfEUZV7QhRa5RjXND_be-31k1We/pubhtml?gid=2103175600&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 

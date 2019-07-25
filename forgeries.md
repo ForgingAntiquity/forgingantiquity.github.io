@@ -9,6 +9,10 @@ We provide here a list of those fake papyri and related manuscripts which have c
 
 The "Typology" column contains the classification of the forgeries into the categories established within the project. While most of the categories are self-explanatory, a [full description of this typology](/typology) is also available.
 
+In accordance with the general parameters of the project, the list below consists of forgeries from (or allegedly from) Egypt on papyrus and related material (ostraca, tablets, etc). It thus largely excludes (a) epigraphic forgeries; and (b) forgeries from locations other than Egypt. For this reason it does not includes texts such as the post-2002 "Dead Sea Scroll-like" fragments which are well covered by <a href="https://lyingpen.com">other projects</a>.
+
+This list largely consists of those forgeries which have been published, mentioned in print, or featured in online reposititories. We are aware that there are many more papyrus forgeries in collections throughout the world, and would be very grateful to receive information on them (and also images of them, if possible). Please send informatin on such fakes to 
+
 <iframe style="width:100%; height:70vh" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAM7XZfOITY72YEqOdwYmu5FMnWzZ4R2PpM-6h4TYtiMTh4RejWsfEUZV7QhRa5RjXND_be-31k1We/pubhtml?gid=2103175600&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 <h3 id="Bibliography">Bibliography</h3>
@@ -105,7 +109,7 @@ Gastgeber (2001) = Gastgeber, C. (2001) Kopie und Fälschung. Graz: Adeva Akadem
  
 Gilliam (1966) = Gilliam, J. F. (1966) ‘Leather Scrolls from Alexandria’, in Essays in honour of C. Bradford Welles. New Haven: American Society of Papyrologists, pp. 112–120.
 
-Gueraud & Kuentz (1936) = Gueraud, O. and Kuentz, C. (1936) ‘Le crépuscule d’un dieu. Harpocrate Χρενιβοπάστης’, Annales du service des antiquités de l'Égypte, 36, pp. 115–136.
+Gueraud & Kuentz (1936) = Gueraud, O. and Kuentz, C. (1936) ‘Le crépuscule d’un dieu. Harpocrate Χρενιβοπάστης’, Annales du service des antiquités de l'Égypte, 36, pp. 115–136.
  
 Györy (2002) = Györy, H. (2002) ‘Les terres cuites d’Harpocrate-au-faucon-sur-le-pilier’, in Györy, H. and Mrav, Z. (eds) Acta Symposii anno 2000 = Aegyptus et Pannonia. Budapest, p. 94.
  
@@ -187,7 +191,7 @@ Peterson (ed.) (1964) = Peterson, T. C. (1964) A Collection of Papyri: Egyptian,
  
 Pinto (2013) = Pinto, P. M. (2013). Il falso Eschilo di Simonidis. G. Bastianini and A. Casanova (Edd.), I Papiri Di Eschilo e Sofocle. Atti Del Convegno Internazionale Di Studi. Firenze, 14-15 Giugno 2012, Firenze.
 
-Preisigke (1915) = Preisigke, F. (1915) Sammelbuch griechischer Urkunden aus Ägypten. Strasbourg: K. J. Trübner.
+Preisigke (1915) = Preisigke, F. (1915) Sammelbuch griechischer Urkunden aus Ägypten. Strasbourg: K. J. Trübner.
 
 Puech (1955) = Puech, H.-C. (1955) ‘Un logion de Jésus sur bandelette funéraire’, Revue d’Histoire des Religions, 147, pp. 126–128.
 
@@ -221,7 +225,7 @@ van Haelst (1976) = van Haelst, J. (1976) Catalogue des Papyrus Littéraires Jui
 
 van Rengen (1971) = van Rengen, W. (1971) 'Les jeux de Panopolis', Chronique d’Égypte, 46, p. 136–141.
 
-Vandenbeusch  (2010) = Vandenbeusch, M. (2010) Catalogue des bandelettes de momies. Geneva: Société d’Égyptologie.
+Vandenbeusch  (2010) = Vandenbeusch, M. (2010) Catalogue des bandelettes de momies. Geneva: Société d’Égyptologie.
 
 Vleeming (2011) = Vleeming, S. P. (2011) Demotic and Greek-Demotic mummy labels and other short texts gathered from many publications (Short Texts II 278-1200). Leuven: Peeters.
 

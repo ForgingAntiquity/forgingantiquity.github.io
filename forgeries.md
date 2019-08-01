@@ -97,6 +97,8 @@ Dieleman (2010) = Dieleman, J. (2010) ‘Cryptography at the Monastery of Deir e
 
 Dunand, F. (1979) Les terres cuites isiaqies du Musée du Caire = EPRO 76. Leiden: Brill.
 
+Emmel, S. (2014). “The Codicology of the New Coptic (Lycopolitan) Gospel of John Fragment (and Its Relevance for Assessing the Genuineness of the Recently Published Coptic ‘Gospel of Jesus’ Wife’ Fragment) [2014]”, <a href="https://suciualin.files.wordpress.com/2014/06/emmel-codicologyharvardjohn-2014-06-22.pdf">https://suciualin.files.wordpress.com/2014/06/emmel-codicologyharvardjohn-2014-06-22.pdf</a>. Posted 22 June 2014.
+
 Fraser (1967) = Fraser, P. M. (1967) ‘Some Alexandrian Forgeries’, Proceedings of the British Academy, 47(243–250).
 
 Funghi et al. (eds) (2012) = Funghi, M. S., Savorelli, G. M. and Römer, C. (2012) Ostraca greci e bilingui del Petrie Museum of Egyptian Archaeology (O. Petr. Mus.). Firenze: Edizioni Gonnelli.

@@ -18,7 +18,7 @@ This list largely consists of those forgeries which have been published, mention
 <h3 id="Bibliography">Bibliography</h3>
 Below is a working version of our project Bibliography, not a completed version. 
 
-Note: For Editions and Sigla, please refer to the ‘Checklist of Editions of Greek, Latin, Demotic, and Coptic Papyri, Ostraca, and Tablets’ found on the papyri.info website. 
+Note: For Editions and Sigla, please refer to the <a href="http://papyri.info/docs/checklist">Checklist of Editions at papyri.info</a>. 
 
 Amundsen (1935) = Amundsen, L. (1935) Greek Ostraca in the University of Michigan Collection. Ann Arbor: University of Michigan.
 

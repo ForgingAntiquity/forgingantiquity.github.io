@@ -67,6 +67,6 @@ Collaborators:
 
 Project Alumni:
 * [Mark Matic](/mark) (intern 2018)
-* [Jacob Gwiazdzinski](/jacob)(intern 2017)
+* [Jacob Gwiazdzinski](/jacob) (intern 2017)
 * [Daniel Hanigan](/daniel) (research assistant 2017)
 * [Richard Bott](/richard) (research student 2019)

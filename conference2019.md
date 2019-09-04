@@ -17,6 +17,9 @@ From Thucydides to the New Testament, Zoroaster to hieroglyphs, from Egypt to e-
 
 **Funding for this showcase** has been provided by the Australian Research Council.
 
+Attendence is free but registration is essential for catering purposes: please register [https://mqedu.qualtrics.com/jfe/form/SV_3w97YD7tT7jtB2t](here).
+
+
 ###### Speakers
 (all speakers from Macquarie University except where noted)
 
@@ -30,7 +33,6 @@ Isabelle Marthot-Santaniello (University of Basel), 'The challenges of Writer Id
 
 Vanessa Mawby, George Topalidis, and Penny Blake, 'Theopompus (of Chios?) and his Hieroglyphs: Constantine Simonides and 19th century Egyptology'
 
-Rachel Yuen-Collingridge,'Forgery as an act of creative decolonisation: Constantine Simonides between Thucydides and Zoroaster'
-
+Rachel Yuen-Collingridge, 'Forgery as an act of creative decolonisation: Constantine Simonides between Thucydides and Zoroaster'
 
 

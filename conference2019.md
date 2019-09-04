@@ -1,5 +1,7 @@
-### Deviant Expertise and Malicious Thievery: 
-### Markets, Makers, and Illicit Artefacts on the Move
+<figure>
+<p><img src="/images/Deviant_Expertise_Image.jpg" style="width:100%"/>
+</p>
+</figure>
 
 #### A Showcase for the Australian Research Council Funded Project:
 #### ‘Forging Antiquity: Authenticity, Forgery & Fake Papyri’

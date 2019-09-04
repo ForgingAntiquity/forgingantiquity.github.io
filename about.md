@@ -53,19 +53,20 @@ Postdoctoral Fellow and Project Manager:
 * [Rachel Yuen-Collingridge](/rachel)
 
 Research Assistants:
-* [Daniel Hanigan](/daniel)
 * [Vanessa Mawby](/vanessa)
 
 Research students:
 * [Lauren Dundler](/lauren)
-* [Richard Bott](/richard)
 
 Interns
-* [Mark Matic](/mark)
-* [Jacob Gwiazdzinski](/jacob)
 
 Collaborators:
 * [Tommy Wasserman](https://ansgarteologiskehogskole.academia.edu/TWasserman)
 * [Gregg Schwendner](https://wichita.academia.edu/GreggWSchwendner)
 * [Rita Lucarelli](http://nes.berkeley.edu/faculty/lucarelli.html)
 
+Project Alumni:
+* [Mark Matic](/mark) (intern 2018)
+* [Jacob Gwiazdzinski](/jacob)(intern 2017)
+* [Daniel Hanigan](/daniel) (research assistant 2017)
+* [Richard Bott](/richard) (research student 2019)

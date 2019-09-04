@@ -57,6 +57,7 @@ Research Assistants:
 
 Research students:
 * [Lauren Dundler](/lauren)
+* Candice Green
 
 Interns
 

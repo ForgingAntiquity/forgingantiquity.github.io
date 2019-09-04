@@ -17,7 +17,7 @@ From Thucydides to the New Testament, Zoroaster to hieroglyphs, from Egypt to e-
 
 **Funding for this showcase** has been provided by the Australian Research Council.
 
-Attendence is free but registration is essential for catering purposes: please register [https://mqedu.qualtrics.com/jfe/form/SV_3w97YD7tT7jtB2t](here).
+Attendence is free but registration is essential for catering purposes: please register [here](https://mqedu.qualtrics.com/jfe/form/SV_3w97YD7tT7jtB2t).
 
 
 ###### Speakers

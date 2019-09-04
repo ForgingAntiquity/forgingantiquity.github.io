@@ -21,11 +21,16 @@ From Thucydides to the New Testament, Zoroaster to hieroglyphs, from Egypt to e-
 (all speakers from Macquarie University except where noted)
 
 Richard Bott, 'Assumed Authenticity: Expertise, Authentication, and the Sheikh Ibada Fakes'
+
 Malcolm Choat, 'Constantine Simonides and his New Testament Papyri'
+
 Lauren Dundler,'#antiquitiesdealers – The Construction of Dealer Persona in the Internet Antiquities Market'
+
 Isabelle Marthot-Santaniello (University of Basel), 'The challenges of Writer Identification on papyrus'
+
 Vanessa Mawby, George Topalidis, and Penny Blake, 'Theopompus (of Chios?) and his Hieroglyphs: Constantine Simonides and 19th century Egyptology'
-Rachel Yuen-Collingridge,
+
+Rachel Yuen-Collingridge,'Forgery as an act of creative decolonisation: Constantine Simonides between Thucydides and Zoroaster'
 
 
 

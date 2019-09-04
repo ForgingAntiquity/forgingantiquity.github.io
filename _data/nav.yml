@@ -21,6 +21,8 @@
     subhref: "/conference2017"
   - subtitle: "Conference 2018"
     subhref: "/conference2018"
+  - subtitle: "Conference 2019"
+    subhref: "/conference2019"
 
 - title: "Gallery"
   href: "/gallery"

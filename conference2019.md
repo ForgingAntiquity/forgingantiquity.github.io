@@ -6,3 +6,10 @@
 
 ##### 2–6pm, 19 September 2019
 ##### Australian Hearing Hub, Level 1 room 602, Macquarie University
+
+Every interpretation of the past involves some creative imposition and, yet, folk understandings of the historian’s task admit no room for this rich dynamic between known and unknown, us and them. The idea that the past is made and made through our engagement with it seems to threaten the integrity of our sense of where we come from and who we are. 
+
+The stakes are even higher when it comes to antiquity understood as material remains, as object of art or inquiry. Particular ire is reserved for those who compromise the guarantee of truth and immediacy offered by the physical reality of the material by adjustment, appropriation, or downright fabrication. Looted or forged artefacts packaged up with false declarations of authenticity and fictional accounts of provenance speak to the criminal underbelly of our engagement with the ancient world. These objects exploit the vanity of our confidence in scientific technique and expertise. Deviant artefacts upset traditional assumptions about the protection afforded the past by the academy. They open up the past to contributions made by marginalised groups and to creative interventions which demonstrate how porous, how live, and how important the past is today. 
+
+From Thucydides to the New Testament, Zoroaster to hieroglyphs, from Egypt to e-Bay, this showcase will highlight research undertaken as part of the Australian Research Council-funded Project ‘Forging Antiquity: Authenticity, forgery, and fake papyri’, featuring presentations from Macquarie staff and students, and our overseas partners.
+

@@ -27,8 +27,7 @@ Richard Bott, 'Assumed Authenticity: Expertise, Authentication, and the Sheikh I
 
 Malcolm Choat, 'Constantine Simonides and his New Testament Papyri'
 
-Lauren Dundler, '#antiquitiesdealers – The Construction of Dealer Persona in the Internet 
-    Antiquities Market'
+Lauren Dundler, '#antiquitiesdealers – The Construction of Dealer Persona in the Internet Antiquities Market'
 
 Isabelle Marthot-Santaniello (University of Basel), 'The challenges of Writer Identification on papyrus'
 

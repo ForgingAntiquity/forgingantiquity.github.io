@@ -15,7 +15,7 @@ The stakes are even higher when it comes to antiquity understood as material rem
 
 From Thucydides to the New Testament, Zoroaster to hieroglyphs, from Egypt to e-Bay, this showcase will highlight research undertaken as part of the Australian Research Council-funded Project ‘Forging Antiquity: Authenticity, forgery, and fake papyri’, featuring presentations from Macquarie staff and students, and our overseas partners.
 
-**Funding for this showcase** has been provided by the Australian Research Council.
+**Funding for this showcase** has been provided by the Australian Research Council and the MQ Centre for Ancient Cultural Heritage and the Environment.
 
 Attendence is free but registration is essential for catering purposes: please register [here](https://mqedu.qualtrics.com/jfe/form/SV_3w97YD7tT7jtB2t).
 
@@ -34,5 +34,28 @@ Isabelle Marthot-Santaniello (University of Basel), 'The challenges of Writer Id
 Vanessa Mawby, George Topalidis, and Penny Blake, 'Theopompus (of Chios?) and his Hieroglyphs: Constantine Simonides and 19th century Egyptology'
 
 Rachel Yuen-Collingridge, 'Forgery as an act of creative decolonisation: Constantine Simonides between Thucydides and Zoroaster'
+
+###### Program
+(all speakers from Macquarie University except where noted)
+
+2.05–2.15pm Opening remarks
+
+2.15–2.20pm Rachel Yuen-Collingridge, An introduction to the theme
+
+2.20–2.45pm Malcolm Choat, 'Constantine Simonides and his New Testament Papyri'
+
+2.45–3.10pm Vanessa Mawby, George Topalidis, and Penny Blake, 'Theopompus (of Chios?) and his Hieroglyphs: Constantine Simonides and 19th century Egyptology'
+
+3.10–3.35pm Isabelle Marthot-Santaniello (University of Basel), 'The challenges of Writer Identification on papyrus'
+
+3.35–4..00pm Afternoon Tea (served in Level 3 Room 202, the 'Recreation Room')
+
+4.00–4.25pm Lauren Dundler,'#antiquitiesdealers – The Construction of Dealer Persona in the Internet Antiquities Market'
+
+4.25–4.50pm Richard Bott, 'Assumed Authenticity: Expertise, Authentication, and the Sheikh Ibada Fakes'
+
+4.50–5.15 pm Rachel Yuen-Collingridge, 'Forgery as an act of creative decolonisation: Constantine Simonides between Thucydides and Zoroaster'
+
+5.15–6.30pm Reception (Level 3 Room 202, the 'Recreation Room')
 
 

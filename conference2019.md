@@ -27,7 +27,8 @@ Richard Bott, 'Assumed Authenticity: Expertise, Authentication, and the Sheikh I
 
 Malcolm Choat, 'Constantine Simonides and his New Testament Papyri'
 
-Lauren Dundler, '#antiquitiesdealers – The Construction of Dealer Persona in the Internet Antiquities Market'
+Lauren Dundler, '#antiquitiesdealers – The Construction of Dealer Persona in the Internet 
+    Antiquities Market'
 
 Isabelle Marthot-Santaniello (University of Basel), 'The challenges of Writer Identification on papyrus'
 
@@ -57,5 +58,3 @@ Rachel Yuen-Collingridge, 'Forgery as an act of creative decolonisation: Constan
 4.50–5.15 pm Rachel Yuen-Collingridge, 'Forgery as an act of creative decolonisation: Constantine Simonides between Thucydides and Zoroaster'
 
 5.15–6.30pm Reception (Level 3 Room 202, the 'Recreation Room')
-
-

@@ -7,6 +7,6 @@ To forge is creative, but forgery now means creating a fake. 'Forging Antiquity'
 
 The project is supported by an [Australian Research Council Discovery project grant from 2017--2019](http://purl.org/au-research/grants/arc/DP170104196), and is a collaboration between Macquarie University and the University of Heidelberg.
 
-In these pages you can learn [about the project](/about#about), its [goals](/about#aims), our [team](/about#team), the [workshops and seminars](/meetings) we have planned, see a [gallery](/gallery) of examples of forged papyri and related material, and learn about our [publications in progress](/research#publications) and [related projects](/research#related) taking place elsewhere. Contact us at 
+In these pages you can learn [about the project](/about#about), its [goals](/about#aims), our [team](/about#team), the [workshops and seminars](/events) held by he project, see a [gallery](/gallery) of examples of forged papyri and related material, see the [working list of forged papyri](/forgeries) and learn about our [publications in progress](/research#publications) and [related projects](/research#related) taking place elsewhere. Contact us at 
 <a href="mailto:info@forgingantiquity.com">info@forgingantiquity.com</a> to provide feedback on this website, report fake papyri, or for any other reason.
 

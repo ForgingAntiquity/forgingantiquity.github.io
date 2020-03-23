@@ -1,9 +1,7 @@
 ## Workshops, Seminars, and Conferences
 
 Updates and results of the project have and will be given in papers in various seminar series,
-including the [Markers of Authenticity seminar series](/https://markersofauthenticity.wordpress.com/seminars/) and conferences.
-In addition to these, the project will hold workshops or symposia in 2017 and 2018,
-and a conference on a broader theme in 2019.
+including the [Markers of Authenticity seminar series](/https://markersofauthenticity.wordpress.com/seminars/). The project has also held workshops or symposia in 2017, 2018 and 2019.
 
 ### Papers
 For past papers, see below

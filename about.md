@@ -53,11 +53,11 @@ Postdoctoral Fellow and Project Manager:
 * [Rachel Yuen-Collingridge](/rachel)
 
 Research Assistants:
-* [Vanessa Mawby](/vanessa)
+* George Topalidis
 
 Research students:
 * [Lauren Dundler](/lauren)
-* Candice Green
+* Evie Handby
 
 Interns
 
@@ -67,7 +67,9 @@ Collaborators:
 * [Rita Lucarelli](http://nes.berkeley.edu/faculty/lucarelli.html)
 
 Project Alumni:
+* [Vanessa Mawby](/vanessa) (intern 2016, Research assistant 2017–2020)
 * [Mark Matic](/mark) (intern 2018)
 * [Jacob Gwiazdzinski](/jacob) (intern 2017)
 * [Daniel Hanigan](/daniel) (research assistant 2017)
 * [Richard Bott](/richard) (research student 2018)
+* Candice Green (research student 2019)

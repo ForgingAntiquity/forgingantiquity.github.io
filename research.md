@@ -6,25 +6,30 @@
 <a name="publications"/>
 ### Publications
 
-We will blog on the project at the [Markers of Authenticity](https://markersofauthenticity.wordpress.com) blog.
+We will blog on the project at the [Markers of Authenticity](https://markersofauthenticity.com) blog.
 
 #### Published
 
+M. Choat, ‘Forging Antiquities: the case of papyrus fakes’, in *The Palgrave Handbook on Art Crime*, edd. S. Hufnagel and D. Chappell (Basingstoke: Palgrave MacMillen, 2019), 557–86.
+
+R. Yuen-Collingridge,  'Constantine Simonides and papyrus fragments of Gemistus Pletho's Μαγικὰ λόγια τῶν ἀπὸ Ζωροάστρου μάγων', *Analecta Papyrologica* 31 (2019), 369–85.
+
+M. Choat, ‘Dating Papyri: Familiarity, Instinct and Guesswork’, *Journal for the Study of the New Testament* 41 (2019) 58–83.
+
 M. Choat, ‘The Gospel of Jesus’s Wife: A Preliminary Paleographical Assessment’, *Harvard Theological Review* 107 (2014), 160–62.
+
 
 #### In press
 
-M. Choat, ‘The Case of Papyrus Fakes’, in *The Art Crime Handbook*, ed. D. Chappell and S. Hufnagel (Basingstoke: Palgrave Macmillan, in press).
+T. Wasserman and M. Choat, ‘“The Cable Guy:” Constantine Simonides and Codex Mayerianus’, *Bulletin of the American Society of Papyrologists*.
 
-M. Choat, 'Dating and Authenticating papyri, from Mabillon to the present day', *Journal for the Study of the New Testament*.
-
-R. Lucarelli and M. Choat, 'Forged Copies of the Book of the Dead", *The Oxford Handbook of the Egyptian Book of the Dead*, edd. Rita Lucarelli and Martin Stadler. 
+R. Lucarelli and M. Choat, 'Forged Copies of the Book of the Dead", *The Oxford Handbook of the Egyptian Book of the Dead*, edd. Rita Lucarelli and Martin Stadler (Oxford: Oxford University Press). 
 
 #### In preparation
 
-R. Yuen-Collingridge, 'The first forged papyrus in Euorpe: Pierre Hamon and his work on ancient scripts'.
+M. Choat, R. Yuen-Collingridge, and R. Ast, 'A Catalog of Simonides' Papyri'
 
-M. Choat and T. Wasserman, 'The Cable guy: the biblical papyri of Constantine Simonides'.
+R. Yuen-Collingridge, 'The first forged papyrus in Euorpe: Pierre Hamon and his work on ancient scripts'.
 
 Work is also in progress by Yuen-Collingridge, Choat, and Schwendner on other parts of the Simonides corpus, as well as on the historical circumstances of his career.
 
@@ -87,7 +92,7 @@ to light in the last fifteen years, with a special focus on recently published a
 <dt>False testimonianze. Copie, contraffazioni, manipolazioni e abusi del documento epigrafico antico</dt>
 <dd> A National Research Project funded by the Italian Ministry of Education, based at Ca' Foscari 
 University of Venice and led by Lorenzo Calvelli, this project focuses on fake Roman inscriptions. 
-For further information on the project, see this <a href="https://www.aiegl.org/blogreader/research-project-on-epigraphic-forgeries.html">announcement</a>. </dd>
+For further information on the project, see this <a href="http://virgo.unive.it/archeolab/getFile.php?id=1097">poster</a>. </dd>
 
 <dt>Forged antiquities -- a forthcoming book by Christopher Rollston</dt>
 <dd> Christopher Rollston (<a href="https://cnelc.columbian.gwu.edu/christopher-rollston">institutional page</a>) is writing a book on
@@ -100,9 +105,6 @@ ancient and modern epigraphic and other forgeries; see also his <a href="http://
 <dt>Leibniz Research Alliance Historical Authenticity</dt>
 <dd> The <a href="http://www.leibniz-historische-authentizitaet.de/en/start/">Leibniz Research Alliance on Historical Authenticity</a> explores contemporary conceptions of authenticity through
 a range of approaches.</dd>
-
-<dt>Ancient Ink Laboratory – Columbia University</dt>
-<dd> Part of the Columbia Nano Initiative, the <a href="http://cni.columbia.edu/ancient-ink-lab/">Ancient Ink Laboratory</a> brings together physicists, conservators, and papyrologists to investigate the nature of the inks used on papyri, including <a href="http://cni.columbia.edu/publications-reports-and-presentations">work</a> on the 'Gospel of Jesus' Wife' and the associated Gospel of John fragment.</dd>
 
 <dt>'Imitations, copies et faux. Des rives du Nil à Rome.'</dt>
 <dd> A <a href="http://www.aibl.fr/seances-et-manifestations/colloques-et-journees-d-etudes-313/colloques-et-journees-d-etudes-524/article/imitations-copies-et-faux-des?lang=fr">report on a recent symposium</a> of the Académie des Inscriptions et Belles-Lettres on this theme.</dd>

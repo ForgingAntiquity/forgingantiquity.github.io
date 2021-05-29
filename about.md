@@ -57,9 +57,12 @@ Research Assistants:
 
 Research students:
 * [Lauren Dundler](/lauren)
+* [Richard Bott](/richard)
 * Evie Handby
 
 Interns
+* Levi Bak
+* Jacinta Peirce
 
 Collaborators:
 * [Tommy Wasserman](https://ansgarteologiskehogskole.academia.edu/TWasserman)
@@ -71,5 +74,4 @@ Project Alumni:
 * [Mark Matic](/mark) (intern 2018)
 * [Jacob Gwiazdzinski](/jacob) (intern 2017)
 * [Daniel Hanigan](/daniel) (research assistant 2017)
-* [Richard Bott](/richard) (research student 2018)
 * Candice Green (research student 2019)

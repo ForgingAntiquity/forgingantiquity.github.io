@@ -10,6 +10,8 @@ We will blog on the project at the [Markers of Authenticity](https://markersofau
 
 #### Published
 
+T. Wasserman and M. Choat, ‘“The Cable Guy:” Constantine Simonides and Codex Mayerianus’, *Bulletin of the American Society of Papyrologists*, 57(2020) 177–218.
+
 M. Choat, ‘Forging Antiquities: the case of papyrus fakes’, in *The Palgrave Handbook on Art Crime*, edd. S. Hufnagel and D. Chappell (Basingstoke: Palgrave MacMillen, 2019), 557–86.
 
 R. Yuen-Collingridge,  'Constantine Simonides and papyrus fragments of Gemistus Pletho's Μαγικὰ λόγια τῶν ἀπὸ Ζωροάστρου μάγων', *Analecta Papyrologica* 31 (2019), 369–85.
@@ -20,8 +22,6 @@ M. Choat, ‘The Gospel of Jesus’s Wife: A Preliminary Paleographical Assessme
 
 
 #### In press
-
-T. Wasserman and M. Choat, ‘“The Cable Guy:” Constantine Simonides and Codex Mayerianus’, *Bulletin of the American Society of Papyrologists*.
 
 R. Lucarelli and M. Choat, 'Forged Copies of the Book of the Dead", *The Oxford Handbook of the Egyptian Book of the Dead*, edd. Rita Lucarelli and Martin Stadler (Oxford: Oxford University Press). 
 

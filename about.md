@@ -75,3 +75,6 @@ Project Alumni:
 * [Jacob Gwiazdzinski](/jacob) (intern 2017)
 * [Daniel Hanigan](/daniel) (research assistant 2017)
 * Candice Green (research student 2019)
+* Penny Blake (intern 2019)
+* Genevieve Dally-Watkins (Intern 2019)
+* Kathy Yeo (intern 2019)

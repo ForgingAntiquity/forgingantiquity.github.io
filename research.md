@@ -12,6 +12,8 @@ We will blog on the project at the [Markers of Authenticity](https://markersofau
 
 T. Wasserman and M. Choat, ‘“The Cable Guy:” Constantine Simonides and Codex Mayerianus’, *Bulletin of the American Society of Papyrologists*, 57(2020) 177–218.
 
+L. Dundler '“Still covered in sand.looked very old.”— Legal Obligations in the Internet Market for Antiquities', *Heritage* 2(3) (2019) 2311-2326. Full text: <a href="https://doi.org/10.3390/heritage2030142">doi.org/10.3390/heritage2030142</a>   
+
 M. Choat, ‘Forging Antiquities: the case of papyrus fakes’, in *The Palgrave Handbook on Art Crime*, edd. S. Hufnagel and D. Chappell (Basingstoke: Palgrave MacMillen, 2019), 557–86.
 
 R. Yuen-Collingridge,  'Constantine Simonides and papyrus fragments of Gemistus Pletho's Μαγικὰ λόγια τῶν ἀπὸ Ζωροάστρου μάγων', *Analecta Papyrologica* 31 (2019), 369–85.

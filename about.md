@@ -53,16 +53,17 @@ Postdoctoral Fellow and Project Manager:
 * [Rachel Yuen-Collingridge](/rachel)
 
 Research Assistants:
+* Levi Bak
 * George Topalidis
 
 Research students:
 * [Lauren Dundler](/lauren)
 * [Richard Bott](/richard)
 * Evie Handby
+* Arzak Mohamed
 
 Interns
-* Levi Bak
-* Jacinta Peirce
+*  
 
 Collaborators:
 * [Tommy Wasserman](https://ansgarteologiskehogskole.academia.edu/TWasserman)
@@ -74,7 +75,8 @@ Project Alumni:
 * [Mark Matic](/mark) (intern 2018)
 * [Jacob Gwiazdzinski](/jacob) (intern 2017)
 * [Daniel Hanigan](/daniel) (research assistant 2017)
+* Jacinta Peirce (intern 2021)
 * Candice Green (research student 2019)
 * Penny Blake (intern 2019)
-* Genevieve Dally-Watkins (Intern 2019)
+* Genevieve Dally-Watkins (ntern 2019)
 * Kathy Yeo (intern 2019)

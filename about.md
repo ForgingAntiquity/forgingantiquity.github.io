@@ -53,7 +53,7 @@ Postdoctoral Fellow and Project Manager:
 * [Rachel Yuen-Collingridge](/rachel)
 
 Research Assistants:
-* Levi Bak
+* [Levi Bak](/levi)
 * George Topalidis
 
 Research students:

@@ -1,4 +1,4 @@
-Levi Bak
+## Levi Bak
 Levi is concluding his Bachelor of Ancient History specialising in ancient languages at Macquarie
 University. In 2021 he completed a PACE internship investigating the origins and acquisition history of
 the Macquarie University History Museum Papyrus Collection, and he is currently working as a research

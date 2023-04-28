@@ -29,16 +29,12 @@ humanities expertise in the detection of forged artefacts.
 
 * Journal articles and book chapters relating to the theme. Those forthcoming and in progress are listed on our [Research page](/research#publications).
 
-* A volume, co-edited by the project team along with collaborators, on forged papyri from (or allegedly from) Egypt, with editions and commentary.
-
 * A monograph, co-authored by Choat and Yuen-Collingridge, on the mid-nineteenth century master forger and self-taught manuscript expert Constantine Simonides. 
 This will focus primarily on the collection of forged papyri in the World Museum at Liverpool and on Simonides' time in 
 England in 1859--1863, telling the story of someone forging Greek history, and selling it (literally and metaphorically)
 to the English.
 
 * An [online list of forged papyri](/forgeries) from (or allegedly from) Egypt. We invite people to report fake papyri they are aware of to us at <a href="mailto:info@forgingantiquity.com"> info@forgingantiquity.com </a>.
-
-* Studies by Dundler of the internet trade in papyrus, Bott of fake sculptures from Egypt, and Handby of the use of YouTube in the Antiquities trade.
 
 <a name="team"/>
 ## Team

@@ -53,19 +53,19 @@ Postdoctoral Fellow and Project Manager:
 * [Rachel Yuen-Collingridge](/rachel)
 
 Research Assistants:
-* [Levi Bak](/levi)
-* George Topalidis
+* Brooke Galluci
 
 Research students:
-* [Lauren Dundler](/lauren)
 * [Richard Bott](/richard)
 * Evie Handby
 * Arzak Mohamed
+* Louis Anderson
 
 Interns
 *  
 
 Collaborators:
+* [Lauren Dundler](/lauren)
 * [Tommy Wasserman](https://ansgarteologiskehogskole.academia.edu/TWasserman)
 * [Gregg Schwendner](https://wichita.academia.edu/GreggWSchwendner)
 * [Rita Lucarelli](http://nes.berkeley.edu/faculty/lucarelli.html)
@@ -75,8 +75,10 @@ Project Alumni:
 * [Mark Matic](/mark) (intern 2018)
 * [Jacob Gwiazdzinski](/jacob) (intern 2017)
 * [Daniel Hanigan](/daniel) (research assistant 2017)
+* [Levi Bak](/levi) (research assisatnt 2021)
+* George Topalidis (research assisatnt 2020)
 * Jacinta Peirce (intern 2021)
 * Candice Green (research student 2019)
 * Penny Blake (intern 2019)
-* Genevieve Dally-Watkins (ntern 2019)
+* Genevieve Dally-Watkins (intern 2019)
 * Kathy Yeo (intern 2019)

@@ -13,7 +13,7 @@ In accordance with the general parameters of the Forging Antiquity project, the 
 
 This list largely consists of those forgeries which have been published, mentioned in print, or featured in online reposititories. We are aware that there are many more papyrus forgeries in collections throughout the world, and would be very grateful to receive information on them (and also images of them, if possible). Please send information on such fakes to <a href="mailto:malcolm@forgingantiquity.com">malcolm@forgingantiquity.com</a>. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRtyGEmEVnftuJGoHfJM-VaWdDE65gXUgG1dsWWzT9MzXJggi_qDz7i46H4R9LWWA/pubhtml?widget=true&amp;headers=false"> width="100" height="600" </iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1C9L2qVVrorTLs9oqmm9--5o9d9ME38sp/htmlembed?widget=true&headers=false&ouid=114558014487138840384&rtpof=true&sd=true> width="100" height="600" </iframe>
 
 <h3 id="Bibliography">Bibliography</h3>
 Below is a working version of the project Bibliography. Suggestions for additions are welcome, and can be directed to <a href="mailto:malcolm@forgingantiquity.com">malcolm@forgingantiquity.com</a>.

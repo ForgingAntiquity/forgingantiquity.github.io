@@ -5,7 +5,7 @@ title: Forged Papyri
 
 ## Forgeries known to the project
 
-We provide here a list of those fake papyri and related manuscripts which have come to the notice of the project so far. We provide it here as a resource for those who are interested in fake papyri. The table below may be sorted and filtered, or items searched for by using CNTRL+F /CMD+F functions. Papyri and related texts are cited by papyrological siglum where one exists (according to the <a href="http://papyri.info/docs/checklist">Checklist of Editions at papyri.info</a>), or according to the details of the work in which they are discussed. A [full bibliography of works cited](#Bibliography) may be found below the table.
+We provide here a list of those fake papyri and related manuscripts which have come to the notice of the project so far. We provide it here as a resource for those who are interested in fake papyri. The table below may be sorted and filtered, or items searched for. Papyri and related texts are cited by papyrological siglum where one exists (according to the <a href="http://papyri.info/docs/checklist">Checklist of Editions at papyri.info</a>), or according to the details of the work in which they are discussed. A [full bibliography of works cited](#Bibliography) may be found below the table.
 
 The "Typology" column contains the classification of the forgeries into the categories established within the project. A [full description of this typology](/typology) is available which explains the categories adopted.
 

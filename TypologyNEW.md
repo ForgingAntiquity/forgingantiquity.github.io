@@ -1,6 +1,6 @@
 # Typology of Forged Manuscripts
 
-The typology of forged manuscripts adopted by the project separates forgeries into four categories based on their script, text, or physical characteristics.
+The typology of forged manuscripts adopted by the project separates forgeries along four axes: according to their support, content, material, and script. In the database these are listed with a forward slashes (/) between them. Subcategories are listed with brackets, etc Reuse (secondary use), copy (exact) etc. 
 
 ## Nonsensical script
 This category is a spectrum running between two types of script: 

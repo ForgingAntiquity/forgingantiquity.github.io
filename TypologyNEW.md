@@ -2,6 +2,12 @@
 
 The typology of forged manuscripts adopted by the project separates forgeries along four axes: according to their support, content, material, and script. In the database these are listed with a forward slashes (/) between them. Subcategories are listed with brackets, etc Reuse (secondary use), copy (exact) etc. 
 
+| **Support**  | Ancient      | Composite                                                                                 | Modern                                                                                          |    |
+|--------------|--------------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----|
+| **Use**      | First use    | Reuse <br>* Palimpsest <br>* Secondary use <br>* Supplementary use <br>* Reconstituted   |                                                                                                |    |
+| **Script**   | Simulated    | Adapted                                                                                 | Aspirational                                                                                   | Authentic                                                                                         |
+| **Content**  | Nonsense     | Composition <br>* Augmentation <br>* Patchwork <br>* Inspired                           | Copy <br>- Exact <br>- Adaptation                                                              |    |
+
 ## Nonsensical script
 This category is a spectrum running between two types of script: 
 * Simulated Alphabet: Fabricated alphabetic forms: the majority of forms are not identifiable, even if some resemble real forms. 

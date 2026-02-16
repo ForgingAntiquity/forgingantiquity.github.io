@@ -15,7 +15,7 @@ This list largely consists of those forgeries which have been published, mention
 
 <!-- Start Rocket Embed --><script 
     src="https://embed.rocketalumnisolutions.com/rocket-sheets-embed.js"
-    googleSheetsUrl="https://docs.google.com/spreadsheets/d/1C9L2qVVrorTLs9oqmm9--5o9d9ME38sp/edit?usp=sharing&ouid=114558014487138840384&rtpof=true&sd=true"
+    googleSheetsUrl="https://docs.google.com/spreadsheets/d/1C9L2qVVrorTLs9oqmm9--5o9d9ME38sp/edit?gid=1027676349#gid=1027676349"
     color="#00bbff"
     confetti="false"
     height="720"
@@ -29,6 +29,7 @@ This list largely consists of those forgeries which have been published, mention
     rounded="true"
     selection="false"
     pagination="true"
+    pageSize="1000"
     filtering="true"
     quickFilter="true"
     sorting="true"

@@ -70,7 +70,7 @@ This list largely consists of those forgeries which have been published, mention
     noScrollNewData="false"
     noColumnVirtualization="false"
     noRowVirtualization="false"
-    cellExpressions="false"
+    cellExpressions="true"
     showChangeAfterFilter="true"
     statusBar="false"
     showTotal="true"

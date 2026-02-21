@@ -354,4 +354,203 @@ title: Public Database
           cbRow.addEventListener("click", (e) => {
             if (e.target !== cb) {
               cb.checked = !cb.checked;
-              cb.dispatchEvent(new Event("
+              cb.dispatchEvent(new Event("change"));
+            }
+          });
+
+          list.appendChild(cbRow);
+        });
+
+        const actions = document.createElement("div");
+        actions.className = "panel-actions";
+
+        const selectAll = document.createElement("button");
+        selectAll.type = "button";
+        selectAll.textContent = "Select all";
+        selectAll.addEventListener("click", (e) => {
+          e.stopPropagation();
+          list.querySelectorAll(".cb-row").forEach(cbRow => {
+            if (cbRow.style.display !== "none") {
+              const cb = cbRow.querySelector("input[type=checkbox]");
+              cb.checked = true;
+              selectedValues[i].add(cb.value);
+            }
+          });
+          updateDropdownBtnState(i);
+          applyFilters();
+        });
+
+        const clearBtn = document.createElement("button");
+        clearBtn.type = "button";
+        clearBtn.textContent = "Clear";
+        clearBtn.addEventListener("click", (e) => {
+          e.stopPropagation();
+          list.querySelectorAll("input[type=checkbox]").forEach(cb => { cb.checked = false; });
+          selectedValues[i].clear();
+          updateDropdownBtnState(i);
+          applyFilters();
+        });
+
+        actions.appendChild(selectAll);
+        actions.appendChild(clearBtn);
+
+        panel.appendChild(search);
+        panel.appendChild(list);
+        panel.appendChild(actions);
+
+        btn.addEventListener("click", (e) => {
+          e.stopPropagation();
+          const isOpen = panel.classList.contains("open");
+          document.querySelectorAll(".dropdown-panel.open").forEach(p => p.classList.remove("open"));
+          if (!isOpen) panel.classList.add("open");
+        });
+
+        wrapper.appendChild(btn);
+        wrapper.appendChild(panel);
+        ftd.appendChild(wrapper);
+
+      } else {
+        const inp = document.createElement("input");
+        inp.type = "text";
+        inp.placeholder = `Filter ${h}…`;
+        inp.dataset.col = i;
+        inp.addEventListener("input", () => {
+          inp.classList.toggle("filter-active", inp.value.length > 0);
+          applyFilters();
+        });
+        ftd.appendChild(inp);
+      }
+
+      filterRow.appendChild(ftd);
+    });
+
+    document.addEventListener("click", () => {
+      document.querySelectorAll(".dropdown-panel.open").forEach(p => p.classList.remove("open"));
+    });
+  }
+
+  function updateDropdownBtnState(colIndex) {
+    const btn = document.getElementById(`dropdown-btn-${colIndex}`);
+    if (!btn) return;
+    if (selectedValues[colIndex] && selectedValues[colIndex].size > 0) {
+      btn.classList.add("filter-active");
+    } else {
+      btn.classList.remove("filter-active");
+    }
+  }
+
+  function filterPanelList(colIndex, query) {
+    const list = document.getElementById(`checkbox-list-${colIndex}`);
+    const q = query.toLowerCase();
+    list.querySelectorAll(".cb-row").forEach(row => {
+      const text = row.textContent.toLowerCase();
+      row.style.display = text.includes(q) ? "" : "none";
+    });
+  }
+
+  function sortByCol(col, th) {
+    if (sortCol === col) sortDir *= -1;
+    else { sortCol = col; sortDir = 1; }
+    document.querySelectorAll("#header-row th").forEach(t => t.classList.remove("sort-asc", "sort-desc"));
+    th.classList.add(sortDir === 1 ? "sort-asc" : "sort-desc");
+    applyFilters();
+  }
+
+  function applyFilters() {
+    const globalSearch = document.getElementById("global-search").value.toLowerCase();
+
+    filteredRows = allRows.filter(row => {
+      if (globalSearch && !row.some(c => (c || "").toLowerCase().includes(globalSearch))) return false;
+
+      const textInputs = document.querySelectorAll("#filter-row th input[type='text'][data-col]");
+      for (const inp of textInputs) {
+        const val = inp.value.toLowerCase();
+        const col = parseInt(inp.dataset.col);
+        if (val && !(row[col] || "").toLowerCase().includes(val)) return false;
+      }
+
+      for (const [colIdx, selected] of Object.entries(selectedValues)) {
+        if (selected.size === 0) continue;
+        const cellVal = (row[colIdx] || "").trim();
+        if (!selected.has(cellVal)) return false;
+      }
+
+      return true;
+    });
+
+    if (sortCol >= 0) {
+      filteredRows.sort((a, b) => {
+        const av = a[sortCol] || "", bv = b[sortCol] || "";
+        const an = parseFloat(av), bn = parseFloat(bv);
+        if (!isNaN(an) && !isNaN(bn)) return (an - bn) * sortDir;
+        return av.localeCompare(bv) * sortDir;
+      });
+    }
+
+    renderTable();
+  }
+
+  function renderTable() {
+    const total = filteredRows.length;
+    const tbody = document.getElementById("table-body");
+    tbody.innerHTML = "";
+
+    if (filteredRows.length === 0) {
+      tbody.innerHTML = `<tr><td colspan="${headers.length}" class="no-data">No matching records found.</td></tr>`;
+    } else {
+      filteredRows.forEach(row => {
+        const tr = document.createElement("tr");
+        headers.forEach((h, i) => {
+          const td = document.createElement("td");
+          const val = row[i] || "";
+          td.title = val;
+          if (i === tmColIndex && val !== "") {
+            const a = document.createElement("a");
+            a.href = `https://www.trismegistos.org/text/${val}`;
+            a.textContent = val;
+            a.className = "tm-link";
+            a.target = "_blank";
+            a.rel = "noopener noreferrer";
+            td.appendChild(a);
+          } else {
+            td.textContent = val;
+          }
+          tr.appendChild(td);
+        });
+        tbody.appendChild(tr);
+      });
+    }
+
+    document.getElementById("row-count").textContent =
+      `Showing ${total} of ${allRows.length} row(s)` +
+      (total < allRows.length ? ` (filtered)` : "");
+  }
+
+  function clearAllFilters() {
+    document.getElementById("global-search").value = "";
+    document.querySelectorAll("#filter-row th input[type='text']").forEach(i => {
+      i.value = "";
+      i.classList.remove("filter-active");
+    });
+    document.querySelectorAll(".cb-row input[type='checkbox']").forEach(cb => cb.checked = false);
+    Object.keys(selectedValues).forEach(k => {
+      selectedValues[k].clear();
+      updateDropdownBtnState(k);
+    });
+    sortCol = -1; sortDir = 1;
+    document.querySelectorAll("#header-row th").forEach(t => t.classList.remove("sort-asc", "sort-desc"));
+    applyFilters();
+  }
+
+  function exportCSV() {
+    const csvRows = [headers, ...filteredRows]
+      .map(r => r.map(c => `"${(c || "").replace(/"/g, '""')}"`).join(","))
+      .join("\n");
+    const a = document.createElement("a");
+    a.href = "data:text/csv;charset=utf-8," + encodeURIComponent(csvRows);
+    a.download = "export.csv";
+    a.click();
+  }
+
+  loadSheet();
+</script>

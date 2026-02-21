@@ -84,7 +84,6 @@ title: Public Database
     box-sizing: border-box;
   }
 
-  /* Dropdown filter button */
   .dropdown-filter-btn {
     width: 100%;
     padding: 5px 8px;
@@ -102,7 +101,6 @@ title: Public Database
   .dropdown-filter-btn:hover { background: #f0f0f0; }
   .dropdown-filter-btn .arrow { font-size: 0.7rem; color: #999; }
 
-  /* Dropdown panel */
   .dropdown-panel {
     display: none;
     position: absolute;
@@ -133,19 +131,29 @@ title: Public Database
     overflow-y: auto;
     font-size: 0.85rem;
   }
-  .dropdown-panel .checkbox-list label {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    padding: 4px 4px;
-    border-radius: 3px;
-    cursor: pointer;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+
+  .dropdown-panel .checkbox-list .cb-row {
+    display: flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    padding: 4px !important;
+    border-radius: 3px !important;
+    cursor: pointer !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    font-size: 0.85rem !important;
+    color: #333 !important;
+    background: transparent !important;
   }
-  .dropdown-panel .checkbox-list label:hover { background: #f0f7ff; }
-  .dropdown-panel .checkbox-list input[type="checkbox"] { cursor: pointer; }
+  .dropdown-panel .checkbox-list .cb-row:hover { background: #f0f7ff !important; }
+  .dropdown-panel .checkbox-list input[type="checkbox"] { cursor: pointer; flex-shrink: 0; }
+  .dropdown-panel .checkbox-list .cb-label {
+    display: inline !important;
+    font-size: 0.85rem !important;
+    color: #333 !important;
+    font-weight: normal !important;
+  }
 
   .dropdown-panel .panel-actions {
     display: flex;
@@ -166,7 +174,6 @@ title: Public Database
   }
   .dropdown-panel .panel-actions button:hover { background: #e0e0e0; }
 
-  /* Relative wrapper for each filter cell */
   .filter-cell-wrapper { position: relative; }
 
   tbody tr:nth-child(even) { background: #f8f9fa; }
@@ -180,7 +187,6 @@ title: Public Database
     overflow: hidden;
     text-overflow: ellipsis;
   }
-
   tbody td[title]:hover {
     overflow: visible;
     white-space: normal;
@@ -222,8 +228,6 @@ title: Public Database
 
   let tmColIndex = -1;
   let allRows = [], headers = [], filteredRows = [], sortCol = -1, sortDir = 1;
-
-  // Stores selected checkbox values per column index
   const selectedValues = {};
 
   async function loadSheet() {
@@ -272,14 +276,12 @@ title: Public Database
     filterRow.innerHTML = "";
 
     headers.forEach((h, i) => {
-      // Sort header
       const th = document.createElement("th");
       th.innerHTML = `${h} <span class="sort-icon"></span>`;
       th.dataset.col = i;
       th.addEventListener("click", () => sortByCol(i, th));
       headerRow.appendChild(th);
 
-      // Filter cell
       const ftd = document.createElement("th");
 
       if (DROPDOWN_COLS.includes(h.trim())) {
@@ -288,26 +290,24 @@ title: Public Database
         const wrapper = document.createElement("div");
         wrapper.className = "filter-cell-wrapper";
 
-        // Button to open panel
         const btn = document.createElement("button");
         btn.className = "dropdown-filter-btn";
         btn.type = "button";
         btn.innerHTML = `<span>All ${h}</span><span class="arrow">▼</span>`;
         btn.dataset.col = i;
 
-        // Panel
         const panel = document.createElement("div");
         panel.className = "dropdown-panel";
         panel.dataset.col = i;
 
-        // Search box inside panel
         const search = document.createElement("input");
         search.type = "text";
         search.className = "panel-search";
         search.placeholder = `Search ${h}…`;
         search.addEventListener("input", () => filterPanelList(i, search.value));
+        // Prevent panel search from triggering table filter
+        search.addEventListener("click", e => e.stopPropagation());
 
-        // Checkbox list
         const list = document.createElement("div");
         list.className = "checkbox-list";
         list.id = `checkbox-list-${i}`;
@@ -316,7 +316,9 @@ title: Public Database
           .filter(v => v !== "").sort();
 
         values.forEach(v => {
-          const label = document.createElement("label");
+          const cbRow = document.createElement("div");
+          cbRow.className = "cb-row";
+
           const cb = document.createElement("input");
           cb.type = "checkbox";
           cb.value = v;
@@ -326,21 +328,34 @@ title: Public Database
             else selectedValues[i].delete(v);
             applyFilters();
           });
-          label.appendChild(cb);
-          label.appendChild(document.createTextNode(v));
-          list.appendChild(label);
+
+          const span = document.createElement("span");
+          span.className = "cb-label";
+          span.textContent = v;
+
+          cbRow.appendChild(cb);
+          cbRow.appendChild(span);
+          cbRow.addEventListener("click", (e) => {
+            if (e.target !== cb) {
+              cb.checked = !cb.checked;
+              cb.dispatchEvent(new Event("change"));
+            }
+          });
+
+          list.appendChild(cbRow);
         });
 
-        // Select all / Clear buttons
         const actions = document.createElement("div");
         actions.className = "panel-actions";
 
         const selectAll = document.createElement("button");
         selectAll.type = "button";
         selectAll.textContent = "Select all";
-        selectAll.addEventListener("click", () => {
-          list.querySelectorAll("input[type=checkbox]").forEach(cb => {
-            if (cb.closest("label").style.display !== "none") {
+        selectAll.addEventListener("click", (e) => {
+          e.stopPropagation();
+          list.querySelectorAll(".cb-row").forEach(cbRow => {
+            if (cbRow.style.display !== "none") {
+              const cb = cbRow.querySelector("input[type=checkbox]");
               cb.checked = true;
               selectedValues[i].add(cb.value);
             }
@@ -351,7 +366,8 @@ title: Public Database
         const clearBtn = document.createElement("button");
         clearBtn.type = "button";
         clearBtn.textContent = "Clear";
-        clearBtn.addEventListener("click", () => {
+        clearBtn.addEventListener("click", (e) => {
+          e.stopPropagation();
           list.querySelectorAll("input[type=checkbox]").forEach(cb => { cb.checked = false; });
           selectedValues[i].clear();
           applyFilters();
@@ -364,11 +380,9 @@ title: Public Database
         panel.appendChild(list);
         panel.appendChild(actions);
 
-        // Toggle panel open/close
         btn.addEventListener("click", (e) => {
           e.stopPropagation();
           const isOpen = panel.classList.contains("open");
-          // Close all panels first
           document.querySelectorAll(".dropdown-panel.open").forEach(p => p.classList.remove("open"));
           if (!isOpen) panel.classList.add("open");
         });
@@ -389,7 +403,6 @@ title: Public Database
       filterRow.appendChild(ftd);
     });
 
-    // Close panels when clicking outside
     document.addEventListener("click", () => {
       document.querySelectorAll(".dropdown-panel.open").forEach(p => p.classList.remove("open"));
     });
@@ -398,9 +411,9 @@ title: Public Database
   function filterPanelList(colIndex, query) {
     const list = document.getElementById(`checkbox-list-${colIndex}`);
     const q = query.toLowerCase();
-    list.querySelectorAll("label").forEach(label => {
-      const text = label.textContent.toLowerCase();
-      label.style.display = text.includes(q) ? "" : "none";
+    list.querySelectorAll(".cb-row").forEach(row => {
+      const text = row.textContent.toLowerCase();
+      row.style.display = text.includes(q) ? "" : "none";
     });
   }
 
@@ -416,10 +429,8 @@ title: Public Database
     const globalSearch = document.getElementById("global-search").value.toLowerCase();
 
     filteredRows = allRows.filter(row => {
-      // Global search
       if (globalSearch && !row.some(c => (c || "").toLowerCase().includes(globalSearch))) return false;
 
-      // Text input filters
       const textInputs = document.querySelectorAll("#filter-row th input[type='text'][data-col]");
       for (const inp of textInputs) {
         const val = inp.value.toLowerCase();
@@ -427,7 +438,6 @@ title: Public Database
         if (val && !(row[col] || "").toLowerCase().includes(val)) return false;
       }
 
-      // Checkbox filters
       for (const [colIdx, selected] of Object.entries(selectedValues)) {
         if (selected.size === 0) continue;
         const cellVal = (row[colIdx] || "").trim();
@@ -488,7 +498,7 @@ title: Public Database
   function clearAllFilters() {
     document.getElementById("global-search").value = "";
     document.querySelectorAll("#filter-row th input[type='text']").forEach(i => i.value = "");
-    document.querySelectorAll("#filter-row th input[type='checkbox']").forEach(cb => cb.checked = false);
+    document.querySelectorAll(".cb-row input[type='checkbox']").forEach(cb => cb.checked = false);
     Object.keys(selectedValues).forEach(k => selectedValues[k].clear());
     sortCol = -1; sortDir = 1;
     document.querySelectorAll("#header-row th").forEach(t => t.classList.remove("sort-asc", "sort-desc"));

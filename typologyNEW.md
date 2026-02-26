@@ -3,30 +3,40 @@ layout: default
 title: Typology
 ---
 
-<style>
-  table {
-    font-size: 0.92rem;
-  }
-  table thead tr {
-    background: white;
-    color: inherit;
-  }
-  table th {
-    font-weight: bold;
-    background: white;
-    color: inherit;
-  }
-</style>
-
 # Typology of Forged Manuscripts
 
 The typology of forged manuscripts adopted by the project separates forgeries along four axes: support, content, material, and script. In the database these are listed with a forward slash (/) between them. Subcategories are listed in brackets — for example, Reuse (Secondary Use) or Copy (Exact).
 
-| **Support** | Ancient | Composite | Modern | |
-|-------------|---------|-----------|--------|--|
-| **Use** | First use | Reuse<br>- Palimpsest<br>- Secondary use<br>- Supplementary use<br>- Reconstituted | | |
-| **Script** | Simulated | Adapted | Aspirational | Authentic |
-| **Content** | Nonsense | Composition<br>- Augmentation<br>- Patchwork<br>- Inspired | Copy<br>- Exact<br>- Adaptation | |
+<table>
+  <tr>
+    <td><strong>Support</strong></td>
+    <td>Ancient</td>
+    <td>Composite</td>
+    <td>Modern</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Use</strong></td>
+    <td>First use</td>
+    <td>Reuse<br>- Palimpsest<br>- Secondary use<br>- Supplementary use<br>- Reconstituted</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Script</strong></td>
+    <td>Simulated</td>
+    <td>Adapted</td>
+    <td>Aspirational</td>
+    <td>Authentic</td>
+  </tr>
+  <tr>
+    <td><strong>Content</strong></td>
+    <td>Nonsense</td>
+    <td>Composition<br>- Augmentation<br>- Patchwork<br>- Inspired</td>
+    <td>Copy<br>- Exact<br>- Adaptation</td>
+    <td></td>
+  </tr>
+</table>
 
 # Support
 

@@ -447,18 +447,15 @@ title: Public Database
   function sortByCol(col, th) {
     if (sortCol === col) {
       if (sortDir === 1) {
-        // Was ascending, go to descending
         sortDir = -1;
         th.classList.remove("sort-asc");
         th.classList.add("sort-desc");
       } else {
-        // Was descending, clear sort
         sortCol = -1;
         sortDir = 1;
         th.classList.remove("sort-desc");
       }
     } else {
-      // New column, start ascending
       document.querySelectorAll("#header-row th").forEach(t => t.classList.remove("sort-asc", "sort-desc"));
       sortCol = col;
       sortDir = 1;
@@ -502,9 +499,6 @@ title: Public Database
   }
 
   function renderTable() {
-    const total = filteredRows.length;
-    const tbody
-      function renderTable() {
     const total = filteredRows.length;
     const tbody = document.getElementById("table-body");
     tbody.innerHTML = "";

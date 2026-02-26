@@ -59,3 +59,12 @@ A text substantially composed, either physically or textually, by the forger. Th
 A copy or version of an already known text, being either:
 - **Exact text:** The forgery reproduces the exact text of an existing model, though it may have an independent or modified format or accidental variations from the model.
 - **Adaptation text:** A text which has been copied in part or substantially from an existing model, but in which variations from or minor additions to the existing text have been deliberately introduced.
+
+The typology of forged manuscripts adopted by the project separates forgeries along four axes: support, content, material, and script. In the database these are listed with a forward slash (/) between them. Subcategories are listed in brackets — for example, Reuse (Secondary Use) or Copy (Exact).
+
+| **Support** | Ancient | Composite | Modern |
+|-------------|---------|-----------|--------|
+| **Use** | First use | Reuse (Palimpsest · Secondary use · Supplementary use · Reconstituted) | |
+| **Script** | Simulated | Adapted | Aspirational · Authentic |
+| **Content** | Nonsense | Composition (Augmentation · Patchwork · Inspired) | Copy (Exact · Adaptation) |
+

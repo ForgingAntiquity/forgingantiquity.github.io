@@ -38,58 +38,58 @@ The typology of forged manuscripts adopted by the project separates forgeries al
   </tr>
 </table>
 
-# Support
+## Support
 
-## *Ancient*
+### *Ancient*
 
 The support is an authentically ancient piece of papyrus, parchment, or ostracon.
 
-## *Composite*
+### *Composite*
 
 Pieces of papyrus, parchment, linen, or other material support from separate original manuscripts, attached together to form a single sheet, thus creating a new artefact.
 
-## *Modern*
+### *Modern*
 
 A material support constructed in the modern period is used for a forgery.
 
-# Use
+## Use
 
-## *First Use*
+### *First Use*
 
 The papyrus or ostracon is used for the first time to create a forgery.
 
-## *Reuse*
+### *Reuse*
 
 - **Palimpsest:** Existing text is erased and a new one written over it.
 - **Secondary Use:** The reuse of the back of an existing ancient text.
 - **Supplementary Use:** Modern additions are made to traces of a pre-existing ancient text.
 - **Reconstituted Use:** The arrangement of fragments of ancient text without modern additions to constitute a new textual artefact.
 
-# Script
+## Script
 
-## *Simulated Alphabet*
+### *Simulated Alphabet*
 
 Fabricated alphabetic forms: the majority of forms are not identifiable, even if some resemble real forms.
 
-## *Adapted Alphabet*
+### *Adapted Alphabet*
 
 Letters from an identifiable alphabet or alphabets mixed with invented forms.
 
-## *Aspirational*
+### *Aspirational*
 
 Script is a real alphabet that aspires to reproduce a genuine consistent script.
 
-## *Authentic*
+### *Authentic*
 
 The papyrus contains genuine ancient script.
 
-# Content
+## Content
 
-## *Nonsense*
+### *Nonsense*
 
 The text makes no sense either because there was no attempt to create or copy coherent text, or because fragments of authentic text which were recombined to make the forgery do not together construct coherent text.
 
-## *Composition*
+### *Composition*
 
 A text substantially composed, either physically or textually, by the forger. This category can be subdivided as follows:
 
@@ -97,7 +97,7 @@ A text substantially composed, either physically or textually, by the forger. Th
 - **Patchwork text:** Selections from either one or multiple texts have been combined and reproduced as a single new text, with or without additional composition by the forger.
 - **Inspired text:** The text is inspired by ancient traditions, whether by genre or by mention of a lost work or author, but a specific model was not used.
 
-## *Copy*
+### *Copy*
 
 A copy or version of an already known text, being either:
 

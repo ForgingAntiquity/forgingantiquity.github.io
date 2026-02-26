@@ -3,6 +3,11 @@ layout: wide
 title: Public Database
 ---
 
+---
+layout: wide
+title: Public Database
+---
+
 <style>
   .controls {
     display: flex;
@@ -46,7 +51,7 @@ title: Public Database
     font-size: 0.92rem;
   }
   thead tr {
-    background: #2c3e50;
+    background: #3498db;
     color: white;
   }
   thead th {
@@ -58,9 +63,9 @@ title: Public Database
     cursor: pointer;
     user-select: none;
     white-space: nowrap;
-    background: #2c3e50;
+    background: #3498db;
   }
-  thead th:hover { background: #34495e; }
+  thead th:hover { background: #2980b9; }
   thead th .sort-icon { margin-left: 6px; font-size: 0.8rem; opacity: 0.6; }
   thead th.sort-asc .sort-icon::after { content: "▲"; }
   thead th.sort-desc .sort-icon::after { content: "▼"; }
@@ -83,7 +88,6 @@ title: Public Database
     background: white;
     box-sizing: border-box;
   }
-  /* Highlight text inputs that have content */
   thead tr.filter-row th input[type="text"].filter-active {
     background: #dbeafe !important;
     border-color: #2980b9 !important;
@@ -107,8 +111,6 @@ title: Public Database
   }
   .dropdown-filter-btn:hover { background: #f0f0f0; }
   .dropdown-filter-btn .arrow { font-size: 0.7rem; color: #999; }
-
-  /* Active state for dropdown filter button */
   .dropdown-filter-btn.filter-active {
     background: #dbeafe !important;
     border-color: #2980b9 !important;
@@ -146,7 +148,6 @@ title: Public Database
     overflow-y: auto;
     font-size: 0.85rem;
   }
-
   .dropdown-panel .checkbox-list .cb-row {
     display: flex !important;
     align-items: center !important;
@@ -449,10 +450,25 @@ title: Public Database
   }
 
   function sortByCol(col, th) {
-    if (sortCol === col) sortDir *= -1;
-    else { sortCol = col; sortDir = 1; }
-    document.querySelectorAll("#header-row th").forEach(t => t.classList.remove("sort-asc", "sort-desc"));
-    th.classList.add(sortDir === 1 ? "sort-asc" : "sort-desc");
+    if (sortCol === col) {
+      if (sortDir === 1) {
+        // Was ascending, go to descending
+        sortDir = -1;
+        th.classList.remove("sort-asc");
+        th.classList.add("sort-desc");
+      } else {
+        // Was descending, clear sort
+        sortCol = -1;
+        sortDir = 1;
+        th.classList.remove("sort-desc");
+      }
+    } else {
+      // New column, start ascending
+      document.querySelectorAll("#header-row th").forEach(t => t.classList.remove("sort-asc", "sort-desc"));
+      sortCol = col;
+      sortDir = 1;
+      th.classList.add("sort-asc");
+    }
     applyFilters();
   }
 
@@ -491,6 +507,9 @@ title: Public Database
   }
 
   function renderTable() {
+    const total = filteredRows.length;
+    const tbody
+      function renderTable() {
     const total = filteredRows.length;
     const tbody = document.getElementById("table-body");
     tbody.innerHTML = "";

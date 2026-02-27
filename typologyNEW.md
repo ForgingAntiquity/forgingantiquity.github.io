@@ -44,13 +44,9 @@ The typology of forged manuscripts adopted by the project separates forgeries al
 
 The support is an authentically ancient piece of papyrus, parchment, or ostracon.
 
-[Back to top](#typology-of-forged-manuscripts)
-
 ### *Composite*
 
 Pieces of papyrus, parchment, linen, or other material support from separate original manuscripts, attached together to form a single sheet, thus creating a new artefact.
-
-[Back to top](#typology-of-forged-manuscripts)
 
 ### *Modern*
 
@@ -63,8 +59,6 @@ A material support constructed in the modern period is used for a forgery.
 ### *First Use*
 
 The papyrus or ostracon is used for the first time to create a forgery.
-
-[Back to top](#typology-of-forged-manuscripts)
 
 ### *Reuse*
 
@@ -81,19 +75,13 @@ The papyrus or ostracon is used for the first time to create a forgery.
 
 Fabricated alphabetic forms: the majority of forms are not identifiable, even if some resemble real forms.
 
-[Back to top](#typology-of-forged-manuscripts)
-
 ### *Adapted Alphabet*
 
 Letters from an identifiable alphabet or alphabets mixed with invented forms.
 
-[Back to top](#typology-of-forged-manuscripts)
-
 ### *Aspirational*
 
 Script is a real alphabet that aspires to reproduce a genuine consistent script.
-
-[Back to top](#typology-of-forged-manuscripts)
 
 ### *Authentic*
 
@@ -107,8 +95,6 @@ The papyrus contains genuine ancient script.
 
 The text makes no sense either because there was no attempt to create or copy coherent text, or because fragments of authentic text which were recombined to make the forgery do not together construct coherent text.
 
-[Back to top](#typology-of-forged-manuscripts)
-
 ### *Composition*
 
 A text substantially composed, either physically or textually, by the forger. This category can be subdivided as follows:
@@ -116,8 +102,6 @@ A text substantially composed, either physically or textually, by the forger. Th
 - **Augmented text:** A new text is added to authentic text already present on the support.
 - **Patchwork text:** Selections from either one or multiple texts have been combined and reproduced as a single new text, with or without additional composition by the forger.
 - **Inspired text:** The text is inspired by ancient traditions, whether by genre or by mention of a lost work or author, but a specific model was not used.
-
-[Back to top](#typology-of-forged-manuscripts)
 
 ### *Copy*
 

@@ -141,8 +141,7 @@ of which we are aware: to alert us to others, please email [info@forgingantiquit
 
 <dt>False testimonianze. Copie, contraffazioni, manipolazioni e abusi del documento epigrafico antico</dt>
 <dd> A National Research Project funded by the Italian Ministry of Education, based at Ca' Foscari 
-University of Venice and led by Lorenzo Calvelli, this project focuses on fake Roman inscriptions. 
-For further information on the project, see this <a href="http://virgo.unive.it/archeolab/getFile.php?id=1097">poster</a>. </dd>
+University of Venice and led by Lorenzo Calvelli, this <a href="https://wiki.digitalclassicist.org/Forged_Evidence_(False_Testimonianze)">project</a> focuses on fake Roman inscriptions.</dd>
 
 <dt>Christopher Rollston's blog</dt>
 <dd> <a href="https://cnelc.columbian.gwu.edu/christopher-rollston">Christopher Rollston</a> maintains a <a href="http://www.rollstonepigraphy.com">blog</a> on ancient epigraphy where he frequently addressed issues of forged textual antiquities. </dd>

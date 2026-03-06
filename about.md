@@ -27,7 +27,7 @@ discussions, in particular debates over the ethics and practice of the antiquiti
 of the illegal trafficking of artefacts; and public perceptions of the relative value of scientific and
 humanities expertise in the detection of forged artefacts. 
 
-To futther these aims, we have written [journal articles and book chapters](/research#publications) relating to the theme; devleoped an an [online list of forged papyri](/forgeries) from (or allegedly from) Egypt and a [typology](/typology) for classifying them; and are writing a monograph on the mid-nineteenth century master forger and self-taught manuscript expert Constantine Simonides. This will focus primarily on the collection of forged papyri in the World Museum at Liverpool and on Simonides' time in England in 1859--1863, telling the story of someone forging Greek history, and selling it (literally and metaphorically) to the English.
+As outcomes for these aims, we have written [journal articles and book chapters](/research#publications) relating to the theme; devleoped an an [online list of forged papyri](/forgeries) from (or allegedly from) Egypt and a [typology](/typology) for classifying them; and are writing a monograph on the mid-nineteenth century master forger and self-taught manuscript expert Constantine Simonides. This will focus primarily on the collection of forged papyri in the World Museum at Liverpool and on Simonides' time in England in 1859--1863, telling the story of someone forging Greek history, and selling it (literally and metaphorically) to the English.
 
 <a name="team"/>
 ## Team

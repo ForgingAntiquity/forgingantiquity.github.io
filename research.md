@@ -160,7 +160,7 @@ ancient and modern epigraphic and other forgeries; see also his <a href="http://
 a range of approaches.</dd>
 
 <dt>'Imitations, copies et faux. Des rives du Nil à Rome.'</dt>
-<dd> A <a href="http://www.aibl.fr/seances-et-manifestations/colloques-et-journees-d-etudes-313/colloques-et-journees-d-etudes-524/article/imitations-copies-et-faux-des?lang=fr">report on a recent symposium</a> of the Académie des Inscriptions et Belles-Lettres on this theme.</dd>
+<dd> A <a href="https://aibl.fr/seances/imitations-copies-et-faux-des-rives-du-nil-a-rome/"> report on a 2016 symposium</a> of the Académie des Inscriptions et Belles-Lettres on this theme, including video presentations.</dd>
 
 </dl>
 

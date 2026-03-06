@@ -156,8 +156,8 @@ ancient and modern epigraphic and other forgeries; see also his <a href="http://
 'Forgery and the Ancient'. Further information may be found <a href="http://hrc.rice.edu/rice-seminars/node/38">at Rice's seminars page</a>.</dd>
 
 <dt>Leibniz Research Alliance Historical Authenticity</dt>
-<dd> The <a href="http://www.leibniz-historische-authentizitaet.de/en/start/">Leibniz Research Alliance on Historical Authenticity</a> explores contemporary conceptions of authenticity through
-a range of approaches.</dd>
+<dd> The <a href="https://www.leibniz-wert-der-vergangenheit.de/aktuelles/news-und-berichte-3">Leibniz Research Alliance on Historical Authenticity</a> explored contemporary conceptions of authenticity through
+a range of approaches from 2013 to 2021 and has been succeeeded by the <a href="https://www.leibniz-wert-der-vergangenheit.de">Leibniz Research Alliance on the “Value of the Past”</a></dd>
 
 <dt>'Imitations, copies et faux. Des rives du Nil à Rome.'</dt>
 <dd> A <a href="https://aibl.fr/seances/imitations-copies-et-faux-des-rives-du-nil-a-rome/"> report on a 2016 symposium</a> of the Académie des Inscriptions et Belles-Lettres on this theme, including video presentations.</dd>

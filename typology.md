@@ -1,6 +1,6 @@
 # Typology of Forged Manuscripts
 
-The typology of forged manuscripts adopted by the project separates forgeries along four axes: support, content, material, and script. In the database these are listed with a forward slash (/) between them. Subcategories are listed in brackets — for example, Reuse (Secondary Use) or Copy (Exact).
+The typology of forged manuscripts adopted by the project separates forgeries along four axes: support, content, material, and script. In the [database](/forgeries) these are listed with a forward slash (/) between them. Subcategories are listed in brackets — for example, Reuse (Secondary Use) or Copy (Exact).
 
 <table>
   <tr>

@@ -148,8 +148,7 @@ University of Venice and led by Lorenzo Calvelli, this project focuses on fake R
 For further information on the project, see this <a href="http://virgo.unive.it/archeolab/getFile.php?id=1097">poster</a>. </dd>
 
 <dt>Forged antiquities -- a forthcoming book by Christopher Rollston</dt>
-<dd> Christopher Rollston (<a href="https://cnelc.columbian.gwu.edu/christopher-rollston">institutional page</a>) is writing a book on
-ancient and modern epigraphic and other forgeries; see also his <a href="http://www.rollstonepigraphy.com">blog</a>. </dd>
+<dd> (<a href="https://cnelc.columbian.gwu.edu/christopher-rollston">Christopher Rollston</a>) maintains a <a href="http://www.rollstonepigraphy.com">blog</a> on ancient epigaphy where he frequently addressed issues of forged textual antiquities. </dd>
 
 <dt>Forgery and the Ancient: Art, Agency, Authorship</dt>
 <dd> The 2017--2018 Seminar of the Humanities Research Center at Rice University, Texas is based on the theme 

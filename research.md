@@ -61,7 +61,9 @@ M. Choat and R. Yuen-Collingridge, '[Unearthing Museum Fakes is Critical for Set
 #### Radio and Podcasts
 
 M. Choat and R. Yuen-Collingridge, '[Detecting forgeries and fakes in the ancient world](https://2ser.com/detecting-forgeries-and-fakes-in-the-ancient-world/)'. 2SER, 24 August 2018 
+
 R. Yuen-Collingridge, '[Papyrology and ethics in Ancient History](https://wideopenairexchange.com/2022/09/05/papyrology/)'. Wide Open Air Exchange, 2SER 5 Septemebr 2022 [Radio Version](https://wideopenairexchange.com/2023/01/15/papyrologyry-radio-version/)
+
 M. Choat, (along with many contributors) 'Sappho', [Sweetbitter podcast](https://www.sweetbitterpodcast.com/sappho),2022, episodes 4–7. 
 
 #### Papers

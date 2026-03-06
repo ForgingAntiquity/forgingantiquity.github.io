@@ -25,16 +25,9 @@ forgers work, both in terms of the methods they use, and the assumptions about t
 producing fakes. In doing so, we will locate and contextualise debates over forged papyri within contemporary
 discussions, in particular debates over the ethics and practice of the antiquities trade and the related problem 
 of the illegal trafficking of artefacts; and public perceptions of the relative value of scientific and
-humanities expertise in the detection of forged artefacts.
+humanities expertise in the detection of forged artefacts. 
 
-* Journal articles and book chapters relating to the theme. Those forthcoming and in progress are listed on our [Research page](/research#publications).
-
-* A monograph, co-authored by Choat and Yuen-Collingridge, on the mid-nineteenth century master forger and self-taught manuscript expert Constantine Simonides. 
-This will focus primarily on the collection of forged papyri in the World Museum at Liverpool and on Simonides' time in 
-England in 1859--1863, telling the story of someone forging Greek history, and selling it (literally and metaphorically)
-to the English.
-
-* An [online list of forged papyri](/forgeries) from (or allegedly from) Egypt. We invite people to report fake papyri they are aware of to us at <a href="mailto:info@forgingantiquity.com"> info@forgingantiquity.com </a>.
+To futther these aims, we have written [journal articles and book chapters](/research#publications) relating to the theme; devleoped an an [online list of forged papyri](/forgeries) from (or allegedly from) Egypt and a [typology](/typology) for classifying them; and are writing a monograph on the mid-nineteenth century master forger and self-taught manuscript expert Constantine Simonides. This will focus primarily on the collection of forged papyri in the World Museum at Liverpool and on Simonides' time in England in 1859--1863, telling the story of someone forging Greek history, and selling it (literally and metaphorically) to the English.
 
 <a name="team"/>
 ## Team
@@ -49,32 +42,38 @@ Postdoctoral Fellow and Project Manager:
 * [Rachel Yuen-Collingridge](/rachel)
 
 Research Assistants:
-* Brooke Galluci
-
-Research students:
 * [Richard Bott](/richard)
-* Evie Handby
-* Arzak Mohamed
-* Louis Anderson
-
-Interns
-*  
 
 Collaborators:
-* [Lauren Dundler](/lauren)
 * [Tommy Wasserman](https://ansgarteologiskehogskole.academia.edu/TWasserman)
 * [Gregg Schwendner](https://wichita.academia.edu/GreggWSchwendner)
 * [Rita Lucarelli](http://nes.berkeley.edu/faculty/lucarelli.html)
 
 Project Alumni:
+* [Lauren Dundler](/lauren) (research student 2017–2022)
 * [Vanessa Mawby](/vanessa) (intern 2016, Research assistant 2017–2020)
 * [Mark Matic](/mark) (intern 2018)
 * [Jacob Gwiazdzinski](/jacob) (intern 2017)
 * [Daniel Hanigan](/daniel) (research assistant 2017)
-* [Levi Bak](/levi) (research assisatnt 2021)
+* [Levi Bak](/levi) (intern and research assisatnt 2021)
 * George Topalidis (research assisatnt 2020)
+* Brooke Galluci (research assistant 2022--2023)
 * Jacinta Peirce (intern 2021)
 * Candice Green (research student 2019)
 * Penny Blake (intern 2019)
 * Genevieve Dally-Watkins (intern 2019)
 * Kathy Yeo (intern 2019)
+* Evie Handby (interm 2019, research student 2020--2025)
+* Arzak Mohamed (research student 2021--2024)
+* Oliver Hastings (research assistant 2023)
+* Rhys Pearton (intern 2020)
+* Sabrina Kirby (intern 2020)
+* Jacinta Peirce (intern 2021)
+* Sarah Hinder (intern2022)
+* Louis Anderson (intern 2022)
+* Matilda Main (intern 2025)
+* Sussan Lum (intern 2025)
+* Genevieve Dally-Watkins (capstone student 2019)
+* Jayden Morrison (capstone student 2021)
+* Liv Siefert (capstone student 2023)
+ 

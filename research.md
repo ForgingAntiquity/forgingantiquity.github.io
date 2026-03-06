@@ -8,32 +8,47 @@
 
 We will blog on the project at the [Markers of Authenticity](https://markersofauthenticity.com) blog.
 
-#### Published
+#### Articles and Book chapters
 
-T. Wasserman and M. Choat, ‘“The Cable Guy:” Constantine Simonides and Codex Mayerianus’, *Bulletin of the American Society of Papyrologists*, 57(2020) 177–218.
+R.Bott, 'Cataloguing Authenticity: Exploring Collection Engagement with Forged Papyri Through Online Catalogues', in E. Smith and S. Austin (eds), *Researching a Rigged Game: Digital Approaches to Tracing the Illicit Trade in Cultural Objects*, Studies in Art, Heritage, Law and the Market, vol. 11 (Cham: Springer, 2026), https://doi.org/10.1007/978-3-032-02014-7_8
 
-L. Dundler '“Still covered in sand.looked very old.”— Legal Obligations in the Internet Market for Antiquities', *Heritage* 2(3) (2019) 2311-2326. Full text: <a href="https://doi.org/10.3390/heritage2030142">doi.org/10.3390/heritage2030142</a>   
+R. Yuen-Collingridge, 'Forgery as Decolonisation: Constantine Simonides in Liverpool', in K. Blouin and B. Akrigg (eds), *The Routledge Handbook of Classics, Colonialism, and Postcolonial Theory*, Routledge Handbooks of Classics and Theory (London: Routledge, Taylor and Francis Group, 2025), 475–95. https://doi.org/10.4324/9781003096016-27
 
-M. Choat, ‘Forging Antiquities: the case of papyrus fakes’, in *The Palgrave Handbook on Art Crime*, edd. S. Hufnagel and D. Chappell (Basingstoke: Palgrave MacMillen, 2019), 557–86.
+E. Handby and Z. Roberts, 'Criminals or Craftsmen of Genius? Attitudes towards Antiquities Forgery in the Australian Press, 1900–1956', *History Australia* (2025), 1–15. https://doi.org/10.1080/14490854.2025.2573457
 
-R. Yuen-Collingridge,  'Constantine Simonides and papyrus fragments of Gemistus Pletho's Μαγικὰ λόγια τῶν ἀπὸ Ζωροάστρου μάγων', *Analecta Papyrologica* 31 (2019), 369–85.
+D. Huffer and E. Handby (eds), *Investigating Online Heritage Crime: New Directions, New Technologies, Emerging Markets* (New York: Berghahn Books, 2025). https://doi.org/10.1515/9781836953074
 
-M. Choat, ‘Dating Papyri: Familiarity, Instinct and Guesswork’, *Journal for the Study of the New Testament* 41 (2019) 58–83.
+E. Handby, 'How to Sell an Ancient Manuscript on YouTube: Investigating a Hidden Corner of the Internet Market in Antiquities', in D. Huffer and E. Handby (eds), *Investigating Online Heritage Crime: New Directions, New Technologies, Emerging Markets* (New York: Berghahn Books, 2025), 13–32. https://doi.org/10.1515/9781836953074-004
 
-M. Choat, ‘The Gospel of Jesus’s Wife: A Preliminary Paleographical Assessment’, *Harvard Theological Review* 107 (2014), 160–62.
+R. Bott, 'A Perplexed Crocodile and Other Sculptures: Some Sheikh Ibada Fakes in the Rijksmuseum van Oudheden, Leiden', *Journal of Egyptian Archaeology* 111(1–2) (2025), 171–87. https://doi.org/10.1177/03075133251361160
 
+R. Bott, '"Miscellaneous Fragments" and "Specimens of the Faker's Art": Fake Papyri and the British-American Papyrus Syndicate', *Bulletin of the American Society of Papyrologists* 61 (2024), 335–67. https://doi.org/10.2143/BASP.61.0.3293802
 
-#### In press
+T. Murray, K. Pearlman, S. Russo, H.-M. Teo, R. Tulloch, R. Yuen-Collingridge and M. Choat, 'Peribiophoty', *Journal of Embodied Research* 6(1) (2023), Article 2. https://doi.org/10.16995/jer.9985
 
-R. Lucarelli and M. Choat, 'Forged Copies of the Book of the Dead", *The Oxford Handbook of the Egyptian Book of the Dead*, edd. Rita Lucarelli and Martin Stadler (Oxford: Oxford University Press). 
+R. Lucarelli and M. Choat, 'The Art of Forgery in the Manuscript Culture in Antiquity', in R. Lucarelli and M.A. Stadler (eds), *The Oxford Handbook of the Egyptian Book of the Dead* (Oxford: Oxford University Press, 2023), 556–68. https://doi.org/10.1093/oxfordhb/9780190210007.013.26
+
+R. Yuen-Collingridge, 'Between Representation and the Real: The Forgeries of Constantine Simonides', in N. Brodie, M.M. Kersel and J. Munch Rasmussen (eds), *Variant Scholarship: Ancient Texts in Modern Contexts* (Leiden: Sidestone Press, 2023), 203–18.
+
+E. Handby, 'Trafficking Fake "Ancient" Torahs in Turkey: A Media Analysis', *Public Archaeology* (2023), 1–20. https://doi.org/10.1080/14655187.2023.2218729
+
+L. Dundler, '#antiquitiesdealers', in N. Oosterman and D. Yates (eds), *Crime and Art*, Studies in Art, Heritage, Law and the Market, vol. 1 (Cham: Springer, 2021). https://doi.org/10.1007/978-3-030-84856-9_4
+
+T. Wasserman and M. Choat, '"The Cable Guy:" Constantine Simonides and Codex Mayerianus', *Bulletin of the American Society of Papyrologists* 57 (2020), 177–218.
+
+L. Dundler, '"Still Covered in Sand. Looked Very Old." — Legal Obligations in the Internet Market for Antiquities', *Heritage* 2(3) (2019), 2311–26. https://doi.org/10.3390/heritage2030142
+
+M. Choat, 'Forging Antiquities: The Case of Papyrus Fakes', in S. Hufnagel and D. Chappell (eds), *The Palgrave Handbook on Art Crime* (Basingstoke: Palgrave Macmillan, 2019), 557–86.
+
+R. Yuen-Collingridge, 'Constantine Simonides and Papyrus Fragments of Gemistus Pletho's Μαγικὰ λόγια τῶν ἀπὸ Ζωροάστρου μάγων', *Analecta Papyrologica* 31 (2019), 369–85.
+
+M. Choat, 'Dating Papyri: Familiarity, Instinct and Guesswork', *Journal for the Study of the New Testament* 41 (2019), 58–83.
+
+M. Choat, 'The Gospel of Jesus's Wife: A Preliminary Paleographical Assessment', *Harvard Theological Review* 107 (2014), 160–62.
 
 #### In preparation
 
 M. Choat, R. Yuen-Collingridge, and R. Ast, 'A Catalog of Simonides' Papyri'
-
-R. Yuen-Collingridge, 'The first forged papyrus in Euorpe: Pierre Hamon and his work on ancient scripts'.
-
-Work is also in progress by Yuen-Collingridge, Choat, and Schwendner on other parts of the Simonides corpus, as well as on the historical circumstances of his career.
 
 #### Papers
 

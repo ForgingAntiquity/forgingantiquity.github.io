@@ -66,6 +66,26 @@ R. Yuen-Collingridge, '[Papyrology and ethics in Ancient History](https://wideop
 
 M. Choat, (along with many contributors) 'Sappho', [Sweetbitter podcast](https://www.sweetbitterpodcast.com/sappho),2022, episodes 4–7. 
 
+#### Theses
+
+Evie Handby, PhD 2025, Rethinking Bad Fakes: Tracing the Emergence and Impact of the Fake Ancient Bible Industry (Principal Supervisor: Malcolm Choat)
+
+Richard Bott, PhD 2025, “Probably a Fake, Rather Well Done:” Understanding the Collection of Forged Papyri, 1880-1999 (Principal Supervisor: Malcolm Choat)
+
+Arzak Mohamed, PhD 2025, The chemistry of Egyptian papyri and their inks (Associate Supervisor: Malcolm Choat)
+
+Mahtab Hassanzadeh, MRes 2025, Qabl az Islam, Ba’ad az Islam: Archaeology, Identity, and Nationalism from the 19th Century to Post-1979 Iranian Revolution(Associate Supervisor: Rachel Yuen-Collingridge)
+
+Lauren Dundler, PhD 2022, Rethinking Engagement with and Consumption of the Past: An Ethical Framework for the 21st Century Antiquities Market (Principal Supervisor: Malcolm Choat)
+
+Evie Handby, MRes 2020, YouTube Markets and Media Hype: Facilitating the Trade in Fake Biblical Manuscripts through New and Traditional Media (Principal Supervisor: Rachel Yuen-Collingridge)
+
+Candice Green, MRes 2019, The integration of ancient Egyptian artefacts into modern jewellery: forgery or history? (Principal Supervisor: Malcolm Choat)
+
+Richard Bott, MRes 2019, Distorting the Corpus: Scholarly Interaction and the Erroneous Authentication of the Sheikh Ibada Fakes. (Principal Supervisor: Malcolm Choat)
+
+Lauren Dundler, MRes 2017, Collecting papyrus in the 21st century: a comparison of existing and emerging trade markets. (Principal Supervisor: Malcolm Choat)
+
 #### Papers
 
 Papers given by the team on the themes of the project.

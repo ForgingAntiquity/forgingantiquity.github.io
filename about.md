@@ -41,39 +41,47 @@ Lead Investigators:
 Postdoctoral Fellow and Project Manager:
 * [Rachel Yuen-Collingridge](/rachel)
 
-Research Assistants:
-* [Richard Bott](/richard)
+Project Alumni:
+
+*Research Students* 
+* [Lauren Dundler](/lauren) (research student 2017–2022)
+* Candice Green (research student 2019)
+* [Richard Bott](/richard) (research student 2018, 2023–2025)
+* Evie Handby (research student 2020--2025)
+* Arzak Mohamed (research student 2021--2024)
+
+*Research assistants*
+* [Vanessa Mawby](/vanessa) (Research assistant 2017–2020)
+* [Daniel Hanigan](/daniel) (research assistant 2017)
+* George Topalidis (research assistant 2020)
+* [Levi Bak](/levi) (intern and research assistant 2021)
+* Brooke Galluci (research assistant 2022--2023)
+* Oliver Hastings (research assistant 2023)
+
+*Interns*
+* [Vanessa Mawby](/vanessa) (intern 2016)
+* [Mark Matic](/mark) (intern 2018)
+* [Jacob Gwiazdzinski](/jacob) (intern 2017)
+* Penny Blake (intern 2019)
+* Kathy Yeo (intern 2019)
+* Evie Handby (interm 2019)
+* Rhys Pearton (intern 2020)
+* Sabrina Kirby (intern 2020)
+* [Levi Bak](/levi) (intern 2021)
+* Jacinta Peirce (intern 2021)
+* Sarah Hinder (intern 2022)
+* Louis Anderson (intern 2022)
+* Matilda Main (intern 2025)
+* Sussan Lum (intern 2025)
+* Jacinta Peirce (intern 2021)
+
+*Capstone students*
+* Genevieve Dally-Watkins (capstone student 2019)
+* Jayden Morrison (capstone student 2021)
+* Liv Siefert (capstone student 2023)
 
 Collaborators:
 * [Tommy Wasserman](https://ansgarteologiskehogskole.academia.edu/TWasserman)
 * [Gregg Schwendner](https://wichita.academia.edu/GreggWSchwendner)
 * [Rita Lucarelli](http://nes.berkeley.edu/faculty/lucarelli.html)
-
-Project Alumni:
-* [Lauren Dundler](/lauren) (research student 2017–2022)
-* [Vanessa Mawby](/vanessa) (intern 2016, Research assistant 2017–2020)
-* [Mark Matic](/mark) (intern 2018)
-* [Jacob Gwiazdzinski](/jacob) (intern 2017)
-* [Daniel Hanigan](/daniel) (research assistant 2017)
-* [Levi Bak](/levi) (intern and research assisatnt 2021)
-* George Topalidis (research assisatnt 2020)
-* Brooke Galluci (research assistant 2022--2023)
-* Jacinta Peirce (intern 2021)
-* Candice Green (research student 2019)
-* Penny Blake (intern 2019)
-* Genevieve Dally-Watkins (intern 2019)
-* Kathy Yeo (intern 2019)
-* Evie Handby (interm 2019, research student 2020--2025)
-* Arzak Mohamed (research student 2021--2024)
-* Oliver Hastings (research assistant 2023)
-* Rhys Pearton (intern 2020)
-* Sabrina Kirby (intern 2020)
-* Jacinta Peirce (intern 2021)
-* Sarah Hinder (intern2022)
-* Louis Anderson (intern 2022)
-* Matilda Main (intern 2025)
-* Sussan Lum (intern 2025)
-* Genevieve Dally-Watkins (capstone student 2019)
-* Jayden Morrison (capstone student 2021)
-* Liv Siefert (capstone student 2023)
  

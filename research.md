@@ -50,6 +50,14 @@ M. Choat, 'The Gospel of Jesus's Wife: A Preliminary Paleographical Assessment',
 
 M. Choat, R. Yuen-Collingridge, and R. Ast, 'A Catalog of Simonides' Papyri'
 
+#### Public Writing
+
+J. Cooper and R. Bott, '[Sudan's National Treasures Have Been Stolen — We Spoke with the Director of Museums](https://theconversation.com/sudans-national-treasures-have-been-stolen-we-spoke-with-the-director-of-museums-243825)', *The Conversation*, 22 November 2024.
+
+J. Droogan and M. Choat, '[The Taliban's Rule Threatens What's Left of Afghanistan's Dazzlingly Diverse Cultural History](https://theconversation.com/the-talibans-rule-threatens-whats-left-of-afghanistans-dazzlingly-diverse-cultural-history-167780)', *The Conversation*, 15 September 2021.
+
+M. Choat and R. Yuen-Collingridge, '[Unearthing Museum Fakes is Critical for Setting the Historical Record Straight](https://lighthouse.mq.edu.au/article/october/Unearthing-museum-fakes-critical-for-setting-the-historical-record-straight)', *The Lighthouse*, 2 November 2018.
+
 #### Papers
 
 Papers given by the team on the themes of the project.

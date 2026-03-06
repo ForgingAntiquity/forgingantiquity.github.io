@@ -13,7 +13,565 @@ In accordance with the general parameters of the Forging Antiquity project, the 
 
 This list largely consists of those forgeries which have been published, mentioned in print, or featured in online reposititories. We are aware that there are many more papyrus forgeries in collections throughout the world, and would be very grateful to receive information on them (and also images of them, if possible). Please send information on such fakes to <a href="mailto:malcolm@forgingantiquity.com">malcolm@forgingantiquity.com</a>. 
 
-<iframe style="width:100%; height:70vh" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAM7XZfOITY72YEqOdwYmu5FMnWzZ4R2PpM-6h4TYtiMTh4RejWsfEUZV7QhRa5RjXND_be-31k1We/pubhtml?gid=2103175600&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<style>
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 16px;
+    align-items: center;
+  }
+  .controls input[type="text"] {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    flex: 1;
+    min-width: 200px;
+  }
+  .controls button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 6px;
+    background: #3498db;
+    color: white;
+    font-size: 0.95rem;
+    cursor: pointer;
+  }
+  .controls button:hover { background: #2980b9; }
+  #status { margin-bottom: 8px; font-size: 0.9rem; color: #888; }
+  #row-count { font-size: 0.9rem; color: #666; margin-bottom: 10px; }
+
+  .table-wrapper {
+    overflow-x: auto;
+    overflow-y: auto;
+    height: 600px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    font-size: 0.92rem;
+  }
+  thead tr {
+    background: #3498db;
+    color: white;
+  }
+  thead th {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    padding: 12px 14px;
+    text-align: left;
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+    background: #3498db;
+  }
+  thead th:hover { background: #2980b9; }
+  thead th .sort-icon { margin-left: 6px; font-size: 0.8rem; opacity: 0.6; }
+  thead th.sort-asc .sort-icon::after { content: "▲"; }
+  thead th.sort-desc .sort-icon::after { content: "▼"; }
+  thead th:not(.sort-asc):not(.sort-desc) .sort-icon::after { content: "⇅"; }
+
+  thead tr.filter-row th {
+    position: sticky;
+    top: 45px;
+    z-index: 2;
+    background: #ecf0f1;
+    padding: 6px 8px;
+    cursor: default;
+  }
+  thead tr.filter-row th input[type="text"] {
+    width: 100%;
+    padding: 5px 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    background: white;
+    box-sizing: border-box;
+  }
+  thead tr.filter-row th input[type="text"].filter-active {
+    background: #dbeafe !important;
+    border-color: #2980b9 !important;
+    color: #1a5276 !important;
+  }
+
+  .dropdown-filter-btn {
+    width: 100%;
+    padding: 5px 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    background: white;
+    text-align: left;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    color: #333;
+  }
+  .dropdown-filter-btn:hover { background: #f0f0f0; }
+  .dropdown-filter-btn .arrow { font-size: 0.7rem; color: #999; }
+  .dropdown-filter-btn.filter-active {
+    background: #dbeafe !important;
+    border-color: #2980b9 !important;
+    color: #1a5276 !important;
+  }
+  .dropdown-filter-btn.filter-active .arrow { color: #2980b9 !important; }
+
+  .dropdown-panel {
+    display: none;
+    position: absolute;
+    z-index: 100;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    min-width: 220px;
+    max-width: 320px;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  .dropdown-panel.open { display: block; }
+
+  .dropdown-panel .panel-search {
+    width: 100%;
+    padding: 6px 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    margin-bottom: 6px;
+    box-sizing: border-box;
+  }
+
+  .dropdown-panel .checkbox-list {
+    max-height: 200px;
+    overflow-y: auto;
+    font-size: 0.85rem;
+  }
+  .dropdown-panel .checkbox-list .cb-row {
+    display: flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    padding: 4px !important;
+    border-radius: 3px !important;
+    cursor: pointer !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    font-size: 0.85rem !important;
+    color: #333 !important;
+    background: transparent !important;
+  }
+  .dropdown-panel .checkbox-list .cb-row:hover { background: #f0f7ff !important; }
+  .dropdown-panel .checkbox-list input[type="checkbox"] { cursor: pointer; flex-shrink: 0; }
+  .dropdown-panel .checkbox-list .cb-label {
+    display: inline !important;
+    font-size: 0.85rem !important;
+    color: #333 !important;
+    font-weight: normal !important;
+  }
+
+  .dropdown-panel .panel-actions {
+    display: flex;
+    gap: 6px;
+    margin-top: 8px;
+    border-top: 1px solid #eee;
+    padding-top: 8px;
+  }
+  .dropdown-panel .panel-actions button {
+    flex: 1;
+    padding: 4px 8px;
+    font-size: 0.8rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: #f5f5f5;
+    cursor: pointer;
+    color: #333;
+  }
+  .dropdown-panel .panel-actions button:hover { background: #e0e0e0; }
+
+  .filter-cell-wrapper { position: relative; }
+
+  tbody tr:nth-child(even) { background: #f8f9fa; }
+  tbody tr:hover { background: #eaf4fb; }
+  tbody td {
+    padding: 10px 14px;
+    border-bottom: 1px solid #e0e0e0;
+    vertical-align: top;
+    max-width: 180px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  tbody td[title]:hover {
+    overflow: visible;
+    white-space: normal;
+    background: #fffbe6;
+    z-index: 10;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    border-radius: 4px;
+    position: relative;
+  }
+
+  .no-data { text-align: center; padding: 30px; color: #888; font-style: italic; }
+  a.tm-link { color: #2980b9; text-decoration: none; }
+  a.tm-link:hover { text-decoration: underline; }
+</style>
+
+<div class="controls">
+  <input type="text" id="global-search" placeholder="🔍 Search all columns..." oninput="applyFilters()" />
+  <button onclick="clearAllFilters()">Clear Filters</button>
+  <button onclick="exportCSV()">Export CSV</button>
+</div>
+
+<div id="status">Loading data...</div>
+<div id="row-count"></div>
+
+<div class="table-wrapper">
+  <table id="data-table">
+    <thead>
+      <tr id="header-row"></tr>
+      <tr class="filter-row" id="filter-row"></tr>
+    </thead>
+    <tbody id="table-body"></tbody>
+  </table>
+</div>
+
+<script>
+  const CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQJmtFhGP3jqWAhRy80D7gYTqZmlE8nn2lyvkUUbhP5Q7q6C2Gs4raljRWBvaEt0A/pub?gid=1186059827&single=true&output=csv";
+
+  const DROPDOWN_COLS = ["Collection", "Material", "Format", "Aspirational Format", "Script", "Typology"];
+
+  let tmColIndex = -1;
+  let allRows = [], headers = [], filteredRows = [], sortCol = -1, sortDir = 1;
+  const selectedValues = {};
+
+  async function loadSheet() {
+    try {
+      const res = await fetch(CSV_URL);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const text = await res.text();
+      parseCSV(text);
+      document.getElementById("status").textContent = "Data loaded successfully.";
+    } catch (e) {
+      document.getElementById("status").textContent = `Error loading sheet: ${e.message}.`;
+    }
+  }
+
+  function parseCSV(text) {
+    const rows = [];
+    let row = [], cell = "", inQuote = false;
+    for (let i = 0; i < text.length; i++) {
+      const ch = text[i], next = text[i + 1];
+      if (inQuote) {
+        if (ch === '"' && next === '"') { cell += '"'; i++; }
+        else if (ch === '"') inQuote = false;
+        else cell += ch;
+      } else {
+        if (ch === '"') inQuote = true;
+        else if (ch === ',') { row.push(cell.trim()); cell = ""; }
+        else if (ch === '\n' || (ch === '\r' && next === '\n')) {
+          if (ch === '\r') i++;
+          row.push(cell.trim()); rows.push(row); row = []; cell = "";
+        } else cell += ch;
+      }
+    }
+    if (cell || row.length) { row.push(cell.trim()); rows.push(row); }
+    if (rows.length === 0) return;
+    headers = rows[0];
+    tmColIndex = headers.findIndex(h => h.trim().toLowerCase() === "t.m. number");
+    allRows = rows.slice(1).filter(r => r.some(c => c !== ""));
+    buildHeaders();
+    applyFilters();
+  }
+
+  function buildHeaders() {
+    const headerRow = document.getElementById("header-row");
+    const filterRow = document.getElementById("filter-row");
+    headerRow.innerHTML = "";
+    filterRow.innerHTML = "";
+
+    headers.forEach((h, i) => {
+      const th = document.createElement("th");
+      th.innerHTML = `${h} <span class="sort-icon"></span>`;
+      th.dataset.col = i;
+      th.addEventListener("click", () => sortByCol(i, th));
+      headerRow.appendChild(th);
+
+      const ftd = document.createElement("th");
+
+      if (DROPDOWN_COLS.includes(h.trim())) {
+        selectedValues[i] = new Set();
+
+        const wrapper = document.createElement("div");
+        wrapper.className = "filter-cell-wrapper";
+
+        const btn = document.createElement("button");
+        btn.className = "dropdown-filter-btn";
+        btn.type = "button";
+        btn.id = `dropdown-btn-${i}`;
+        btn.innerHTML = `<span>All ${h}</span><span class="arrow">▼</span>`;
+        btn.dataset.col = i;
+
+        const panel = document.createElement("div");
+        panel.className = "dropdown-panel";
+        panel.dataset.col = i;
+
+        const search = document.createElement("input");
+        search.type = "text";
+        search.className = "panel-search";
+        search.placeholder = `Search ${h}…`;
+        search.addEventListener("input", () => filterPanelList(i, search.value));
+        search.addEventListener("click", e => e.stopPropagation());
+
+        const list = document.createElement("div");
+        list.className = "checkbox-list";
+        list.id = `checkbox-list-${i}`;
+
+        const values = [...new Set(allRows.map(r => (r[i] || "").trim()))]
+          .filter(v => v !== "").sort();
+
+        values.forEach(v => {
+          const cbRow = document.createElement("div");
+          cbRow.className = "cb-row";
+
+          const cb = document.createElement("input");
+          cb.type = "checkbox";
+          cb.value = v;
+          cb.dataset.col = i;
+          cb.addEventListener("change", () => {
+            if (cb.checked) selectedValues[i].add(v);
+            else selectedValues[i].delete(v);
+            updateDropdownBtnState(i);
+            applyFilters();
+          });
+
+          const span = document.createElement("span");
+          span.className = "cb-label";
+          span.textContent = v;
+
+          cbRow.appendChild(cb);
+          cbRow.appendChild(span);
+          cbRow.addEventListener("click", (e) => {
+            if (e.target !== cb) {
+              cb.checked = !cb.checked;
+              cb.dispatchEvent(new Event("change"));
+            }
+          });
+
+          list.appendChild(cbRow);
+        });
+
+        const actions = document.createElement("div");
+        actions.className = "panel-actions";
+
+        const selectAll = document.createElement("button");
+        selectAll.type = "button";
+        selectAll.textContent = "Select all";
+        selectAll.addEventListener("click", (e) => {
+          e.stopPropagation();
+          list.querySelectorAll(".cb-row").forEach(cbRow => {
+            if (cbRow.style.display !== "none") {
+              const cb = cbRow.querySelector("input[type=checkbox]");
+              cb.checked = true;
+              selectedValues[i].add(cb.value);
+            }
+          });
+          updateDropdownBtnState(i);
+          applyFilters();
+        });
+
+        const clearBtn = document.createElement("button");
+        clearBtn.type = "button";
+        clearBtn.textContent = "Clear";
+        clearBtn.addEventListener("click", (e) => {
+          e.stopPropagation();
+          list.querySelectorAll("input[type=checkbox]").forEach(cb => { cb.checked = false; });
+          selectedValues[i].clear();
+          updateDropdownBtnState(i);
+          applyFilters();
+        });
+
+        actions.appendChild(selectAll);
+        actions.appendChild(clearBtn);
+
+        panel.appendChild(search);
+        panel.appendChild(list);
+        panel.appendChild(actions);
+
+        btn.addEventListener("click", (e) => {
+          e.stopPropagation();
+          const isOpen = panel.classList.contains("open");
+          document.querySelectorAll(".dropdown-panel.open").forEach(p => p.classList.remove("open"));
+          if (!isOpen) panel.classList.add("open");
+        });
+
+        wrapper.appendChild(btn);
+        wrapper.appendChild(panel);
+        ftd.appendChild(wrapper);
+
+      } else {
+        const inp = document.createElement("input");
+        inp.type = "text";
+        inp.placeholder = `Filter ${h}…`;
+        inp.dataset.col = i;
+        inp.addEventListener("input", () => {
+          inp.classList.toggle("filter-active", inp.value.length > 0);
+          applyFilters();
+        });
+        ftd.appendChild(inp);
+      }
+
+      filterRow.appendChild(ftd);
+    });
+
+    document.addEventListener("click", () => {
+      document.querySelectorAll(".dropdown-panel.open").forEach(p => p.classList.remove("open"));
+    });
+  }
+
+  function updateDropdownBtnState(colIndex) {
+    const btn = document.getElementById(`dropdown-btn-${colIndex}`);
+    if (!btn) return;
+    if (selectedValues[colIndex] && selectedValues[colIndex].size > 0) {
+      btn.classList.add("filter-active");
+    } else {
+      btn.classList.remove("filter-active");
+    }
+  }
+
+  function filterPanelList(colIndex, query) {
+    const list = document.getElementById(`checkbox-list-${colIndex}`);
+    const q = query.toLowerCase();
+    list.querySelectorAll(".cb-row").forEach(row => {
+      const text = row.textContent.toLowerCase();
+      row.style.display = text.includes(q) ? "" : "none";
+    });
+  }
+
+  function sortByCol(col, th) {
+    if (sortCol === col) {
+      if (sortDir === 1) {
+        sortDir = -1;
+        th.classList.remove("sort-asc");
+        th.classList.add("sort-desc");
+      } else {
+        sortCol = -1;
+        sortDir = 1;
+        th.classList.remove("sort-desc");
+      }
+    } else {
+      document.querySelectorAll("#header-row th").forEach(t => t.classList.remove("sort-asc", "sort-desc"));
+      sortCol = col;
+      sortDir = 1;
+      th.classList.add("sort-asc");
+    }
+    applyFilters();
+  }
+
+  function applyFilters() {
+    const globalSearch = document.getElementById("global-search").value.toLowerCase();
+
+    filteredRows = allRows.filter(row => {
+      if (globalSearch && !row.some(c => (c || "").toLowerCase().includes(globalSearch))) return false;
+
+      const textInputs = document.querySelectorAll("#filter-row th input[type='text'][data-col]");
+      for (const inp of textInputs) {
+        const val = inp.value.toLowerCase();
+        const col = parseInt(inp.dataset.col);
+        if (val && !(row[col] || "").toLowerCase().includes(val)) return false;
+      }
+
+      for (const [colIdx, selected] of Object.entries(selectedValues)) {
+        if (selected.size === 0) continue;
+        const cellVal = (row[colIdx] || "").trim();
+        if (!selected.has(cellVal)) return false;
+      }
+
+      return true;
+    });
+
+    if (sortCol >= 0) {
+      filteredRows.sort((a, b) => {
+        const av = a[sortCol] || "", bv = b[sortCol] || "";
+        const an = parseFloat(av), bn = parseFloat(bv);
+        if (!isNaN(an) && !isNaN(bn)) return (an - bn) * sortDir;
+        return av.localeCompare(bv) * sortDir;
+      });
+    }
+
+    renderTable();
+  }
+
+  function renderTable() {
+    const total = filteredRows.length;
+    const tbody = document.getElementById("table-body");
+    tbody.innerHTML = "";
+
+    if (filteredRows.length === 0) {
+      tbody.innerHTML = `<tr><td colspan="${headers.length}" class="no-data">No matching records found.</td></tr>`;
+    } else {
+      filteredRows.forEach(row => {
+        const tr = document.createElement("tr");
+        headers.forEach((h, i) => {
+          const td = document.createElement("td");
+          const val = row[i] || "";
+          td.title = val;
+          if (i === tmColIndex && val !== "") {
+            const a = document.createElement("a");
+            a.href = `https://www.trismegistos.org/text/${val}`;
+            a.textContent = val;
+            a.className = "tm-link";
+            a.target = "_blank";
+            a.rel = "noopener noreferrer";
+            td.appendChild(a);
+          } else {
+            td.textContent = val;
+          }
+          tr.appendChild(td);
+        });
+        tbody.appendChild(tr);
+      });
+    }
+
+    document.getElementById("row-count").textContent =
+      `Showing ${total} of ${allRows.length} row(s)` +
+      (total < allRows.length ? ` (filtered)` : "");
+  }
+
+  function clearAllFilters() {
+    document.getElementById("global-search").value = "";
+    document.querySelectorAll("#filter-row th input[type='text']").forEach(i => {
+      i.value = "";
+      i.classList.remove("filter-active");
+    });
+    document.querySelectorAll(".cb-row input[type='checkbox']").forEach(cb => cb.checked = false);
+    Object.keys(selectedValues).forEach(k => {
+      selectedValues[k].clear();
+      updateDropdownBtnState(k);
+    });
+    sortCol = -1; sortDir = 1;
+    document.querySelectorAll("#header-row th").forEach(t => t.classList.remove("sort-asc", "sort-desc"));
+    applyFilters();
+  }
+
+  function exportCSV() {
+    const csvRows = [headers, ...filteredRows]
+      .map(r => r.map(c => `"${(c || "").replace(/"/g, '""')}"`).join(","))
+      .join("\n");
+    const a = document.createElement("a");
+    a.href = "data:text/csv;charset=utf-8," + encodeURIComponent(csvRows);
+    a.download = "export.csv";
+    a.click();
+  }
+
+  loadSheet();
+</script>
 
 <h3 id="Bibliography">Bibliography</h3>
 The bibliography below lists those works referred to in the table above; it is not a complete bibliogrpahy of the project.For papyrus editions and sigla, please refer to the <a href="http://papyri.info/docs/checklist">Checklist of Editions at papyri.info</a>. 

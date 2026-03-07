@@ -5,13 +5,9 @@ title: Forged Papyri
 
 ## Forgeries known to the project
 
-We provide here a list of those fake papyri and related manuscripts which have come to the notice of the project so far. We provide it here as a resource for those who are interested in fake papyri. The table below may be sorted and filtered, or items searched for. Papyri and related texts are cited by papyrological siglum where one exists (according to the <a href="http://papyri.info/docs/checklist">Checklist of Editions at papyri.info</a>), or according to the details of the work in which they are discussed. A [full bibliography of works cited](#Bibliography) may be found below the table.
+We provide here a list of those fake papyri and related manuscripts which have come to the notice of the project so far, as a resource for those who are interested in the topic. The table below may be sorted and filtered, or items searched for. A [description](#Description) of the table and its fields may be found below the table, along with a [bibliography of works cited](#Bibliography). A [full description of the typology](/typology) is also available.
 
-The "Typology" column contains the classification of the forgeries into the categories established within the project. A [full description of this typology](/typology) is available which explains the categories adopted.
-
-In accordance with the general parameters of the Forging Antiquity project, the list below consists of forgeries from (or allegedly from) Egypt on papyrus and related material (ostraca, tablets, etc). It thus largely excludes (a) epigraphic forgeries; and (b) forgeries from locations other than Egypt. For this reason it does not includes texts such as the post-2002 "Dead Sea Scroll-like" fragments which are well covered by <a href="https://lyingpen.com">other projects</a>.
-
-This list largely consists of those forgeries which have been published, mentioned in print, or featured in online reposititories. We are aware that there are many more papyrus forgeries in collections throughout the world, and would be very grateful to receive information on them (and also images of them, if possible). Please send information on such fakes to <a href="mailto:malcolm@forgingantiquity.com">malcolm@forgingantiquity.com</a>. 
+In accordance with the general parameters of the Forging Antiquity project, the list below consists of forgeries from (or allegedly from) Egypt on papyrus and related material (ostraca, tablets, etc). It thus largely excludes (a) epigraphic forgeries; and (b) forgeries from locations other than Egypt. For this reason it does not include texts such as the post-2002 "Dead Sea Scroll-like" fragments which are well covered by <a href="https://lyingpen.com">other projects</a>. This list largely consists of those forgeries which have been published, mentioned in print, or featured in online reposititories. We are aware that there are many more papyrus forgeries in collections throughout the world, and would be very grateful to receive information on them (and also images of them, if possible). Please send information on such fakes to <a href="mailto:malcolm@forgingantiquity.com">malcolm@forgingantiquity.com</a>. 
 
 <style>
   .controls {
@@ -572,6 +568,12 @@ This list largely consists of those forgeries which have been published, mention
 
   loadSheet();
 </script>
+
+<h3 id="Description">Description</h3>
+In the table above and the project database, papyri and related texts are listed first by papyrological siglum where one exists (according to the <a href="http://papyri.info/docs/checklist">Checklist of Editions at papyri.info</a>), or according to the details of the work in which they are discussed. In some cases there is no such publication, so the first column is left blank. In every case possible, we record (in the columns "Inventory number" and "Collection" the collection in which the text is currently found, as well as the text's number(s) in the [Trismegistos](https://www.trismegistos.org) ("TM") database where it exists. These are hyperlinked where possible; where it is not, the number(s) can be searched from the Trismegistos landing page.
+
+The "Typology" column contains the classification of the forgeries into the categories established within the project. A [full description of this typology](/typology) is available which explains the categories adopted.
+
 
 <h3 id="Bibliography">Bibliography</h3>
 The bibliography below lists those works referred to in the table above; it is not a complete bibliogrpahy of the project.For papyrus editions and sigla, please refer to the <a href="http://papyri.info/docs/checklist">Checklist of Editions at papyri.info</a>. 

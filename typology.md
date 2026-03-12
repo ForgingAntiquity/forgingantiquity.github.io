@@ -2,6 +2,10 @@
 
 The typology of forged manuscripts adopted by the project separates forgeries along four axes: support, use, content, and script. In the [database](/forgeries) these are listed with a forward slash (/) between them. Subcategories are listed in brackets — for example, Reuse (Secondary Use) or Copy (Exact).
 
+Previous typologies of forged papyri, though resting on excellent work, have encoded category errors. Traditionally, papyrus fakes have been classified in to three broad categories: those written in pseudoscripts; composites made by joining parts of multiple original texts; and those which made textual sense, either copied or composed. Although this broadly describes the types of papyrus forgeries encountered, as a typology it mixes designations based on script, materiality, and textual content.
+
+By way of producing a more robust typology, we first separate forgeries along four axes: support, use, content, and script. As elaborated below, these attempt to capture the nature of the material used; the way in which it is (re)used; the type of script employed; and a characterisation of the content. This means that “composite papyri” are not a category in themselves, but a subcategory in support, while pseudoscript texts are noted in script (simulated) and content (nonsense). Copies and compositions, meanwhile, are able to be more effectively differentiated from one another.
+
 <table>
   <tr>
     <td><strong><a href="#support">Support</a></strong></td>

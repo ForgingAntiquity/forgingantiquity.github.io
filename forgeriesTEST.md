@@ -332,8 +332,7 @@ const list = document.createElement("div");
 list.className = "checkbox-list";
 list.id = `checkbox-list-${i}`;
 
-// For Typology, collect unique components across all cells;
-// for all other columns, collect unique whole-cell values.
+// For Typology, collect unique components; for all others, unique whole-cell values
 let values;
 if (i === typologyColIndex) {
 const componentSet = new Set();
@@ -507,11 +506,12 @@ for (const [colIdx, selected] of Object.entries(selectedValues)) {
 if (selected.size === 0) continue;
 const colIdxNum = parseInt(colIdx);
 if (colIdxNum === typologyColIndex) {
-// Typology: AND logic — cell must contain ALL selected components
+// Typology: OR logic — cell must contain AT LEAST ONE selected component
 const cellComponents = splitTypology(row[colIdxNum] || "");
-for (const selectedVal of selected) {
-if (!cellComponents.includes(selectedVal)) return false;
-}
+const hasMatch = [...selected].some(selectedVal =>
+cellComponents.includes(selectedVal)
+);
+if (!hasMatch) return false;
 } else {
 // All other dropdown columns: exact whole-cell match
 const cellVal = (row[colIdxNum] || "").trim();

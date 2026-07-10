@@ -237,8 +237,11 @@ a.tm-link:hover { text-decoration: underline; }
 const CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTedmiAFcKlgcOm3Rkj-0jibnimYQ7et7hAiMs7vUv7iKMzL41YPXR7SkxIBcmMqQ/pub?gid=440269735&single=true&output=csv";
 
 const DROPDOWN_COLS = ["Reference", "Collection", "Material", "Format", "Aspirational Format", "Script", "Typology"];
+const TYPOLOGY_COL = "Typology";
+const TYPOLOGY_DELIMITER = "/ ";
 
 let tmColIndex = -1;
+let typologyColIndex = -1;
 let allRows = [], headers = [], filteredRows = [], sortCol = -1, sortDir = 1;
 const selectedValues = {};
 
@@ -276,9 +279,14 @@ if (cell || row.length) { row.push(cell.trim()); rows.push(row); }
 if (rows.length === 0) return;
 headers = rows[0];
 tmColIndex = headers.findIndex(h => h.trim().toLowerCase() === "trismegistos number");
+typologyColIndex = headers.findIndex(h => h.trim() === TYPOLOGY_COL);
 allRows = rows.slice(1).filter(r => r.some(c => c !== ""));
 buildHeaders();
 applyFilters();
+}
+
+function splitTypology(val) {
+return val.split(TYPOLOGY_DELIMITER).map(v => v.trim()).filter(v => v !== "");
 }
 
 function buildHeaders() {
@@ -324,8 +332,21 @@ const list = document.createElement("div");
 list.className = "checkbox-list";
 list.id = `checkbox-list-${i}`;
 
-const values = [...new Set(allRows.map(r => (r[i] || "").trim()))]
+// For Typology, collect unique components across all cells;
+// for all other columns, collect unique whole-cell values.
+let values;
+if (i === typologyColIndex) {
+const componentSet = new Set();
+allRows.forEach(r => {
+splitTypology(r[i] || "").forEach(component => {
+if (component !== "") componentSet.add(component);
+});
+});
+values = [...componentSet].sort();
+} else {
+values = [...new Set(allRows.map(r => (r[i] || "").trim()))]
 .filter(v => v !== "").sort();
+}
 
 values.forEach(v => {
 const cbRow = document.createElement("div");
@@ -484,8 +505,18 @@ if (val && !(row[col] || "").toLowerCase().includes(val)) return false;
 
 for (const [colIdx, selected] of Object.entries(selectedValues)) {
 if (selected.size === 0) continue;
-const cellVal = (row[colIdx] || "").trim();
+const colIdxNum = parseInt(colIdx);
+if (colIdxNum === typologyColIndex) {
+// Typology: AND logic — cell must contain ALL selected components
+const cellComponents = splitTypology(row[colIdxNum] || "");
+for (const selectedVal of selected) {
+if (!cellComponents.includes(selectedVal)) return false;
+}
+} else {
+// All other dropdown columns: exact whole-cell match
+const cellVal = (row[colIdxNum] || "").trim();
 if (!selected.has(cellVal)) return false;
+}
 }
 
 return true;

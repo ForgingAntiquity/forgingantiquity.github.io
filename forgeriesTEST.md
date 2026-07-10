@@ -31,7 +31,7 @@ cursor: pointer;
 }
 .controls button:hover { background: #2980b9; }
 #status { margin-bottom: 8px; font-size: 0.9rem; color: #888; }
-#row-count { font-size: 0.9rem; color: #666; margin-bottom: 10px; }  
+#row-count { font-size: 0.9rem; color: #666; margin-bottom: 10px; }
 
 .table-wrapper {
 overflow-x: auto;
@@ -65,7 +65,7 @@ thead th:hover { background: #2980b9; }
 thead th .sort-icon { margin-left: 6px; font-size: 0.8rem; opacity: 0.6; }
 thead th.sort-asc .sort-icon::after { content: "▲"; }
 thead th.sort-desc .sort-icon::after { content: "▼"; }
-thead th:not(.sort-asc):not(.sort-desc) .sort-icon::after { content: "⇅"; }  
+thead th:not(.sort-asc):not(.sort-desc) .sort-icon::after { content: "⇅"; }
 
 thead tr.filter-row th {
 position: sticky;
@@ -88,7 +88,7 @@ thead tr.filter-row th input[type="text"].filter-active {
 background: #dbeafe !important;
 border-color: #2980b9 !important;
 color: #1a5276 !important;
-}  
+}
 
 .dropdown-filter-btn {
 width: 100%;
@@ -112,7 +112,7 @@ background: #dbeafe !important;
 border-color: #2980b9 !important;
 color: #1a5276 !important;
 }
-.dropdown-filter-btn.filter-active .arrow { color: #2980b9 !important; }  
+.dropdown-filter-btn.filter-active .arrow { color: #2980b9 !important; }
 
 .dropdown-panel {
 display: none;
@@ -127,7 +127,7 @@ max-width: 320px;
 padding: 8px;
 box-sizing: border-box;
 }
-.dropdown-panel.open { display: block; }  
+.dropdown-panel.open { display: block; }
 
 .dropdown-panel .panel-search {
 width: 100%;
@@ -137,7 +137,7 @@ border-radius: 4px;
 font-size: 0.85rem;
 margin-bottom: 6px;
 box-sizing: border-box;
-}  
+}
 
 .dropdown-panel .checkbox-list {
 max-height: 200px;
@@ -145,7 +145,7 @@ overflow-y: auto;
 font-size: 0.85rem;
 }
 .dropdown-panel .checkbox-list .cb-row {
-display: flex !important;
+display: flex;
 align-items: center !important;
 gap: 6px !important;
 padding: 4px !important;
@@ -165,7 +165,7 @@ display: inline !important;
 font-size: 0.85rem !important;
 color: #333 !important;
 font-weight: normal !important;
-}  
+}
 
 .dropdown-panel .panel-actions {
 display: flex;
@@ -184,9 +184,9 @@ background: #f5f5f5;
 cursor: pointer;
 color: #333;
 }
-.dropdown-panel .panel-actions button:hover { background: #e0e0e0; }  
+.dropdown-panel .panel-actions button:hover { background: #e0e0e0; }
 
-.filter-cell-wrapper { position: relative; }  
+.filter-cell-wrapper { position: relative; }
 
 tbody tr:nth-child(even) { background: #f8f9fa; }
 tbody tr:hover { background: #eaf4fb; }
@@ -207,21 +207,21 @@ z-index: 10;
 box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 border-radius: 4px;
 position: relative;
-}  
+}
 
 .no-data { text-align: center; padding: 30px; color: #888; font-style: italic; }
 a.tm-link { color: #2980b9; text-decoration: none; }
 a.tm-link:hover { text-decoration: underline; }
-</style>  
+</style>
 
 <div class="controls">
 <input type="text" id="global-search" placeholder="🔍 Search all columns..." oninput="applyFilters()" />
 <button onclick="clearAllFilters()">Clear Filters</button>
 <button onclick="exportCSV()">Export CSV</button>
-</div>  
+</div>
 
 <div id="status">Loading data...</div>
-<div id="row-count"></div>  
+<div id="row-count"></div>
 
 <div class="table-wrapper">
 <table id="data-table">
@@ -231,16 +231,16 @@ a.tm-link:hover { text-decoration: underline; }
 </thead>
 <tbody id="table-body"></tbody>
 </table>
-</div>  
+</div>
 
 <script>
-const CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRt97e2VDe0pu9l-nIpz39ZK0M-pjfheYIj9Gmd4okhRJzD27yNBHvU13uAbpbjsQ/pub?gid=1011630089&single=true&output=csv";  
+const CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTedmiAFcKlgcOm3Rkj-0jibnimYQ7et7hAiMs7vUv7iKMzL41YPXR7SkxIBcmMqQ/pub?gid=440269735&single=true&output=csv";
 
-const DROPDOWN_COLS = ["Reference", "Collection", "Material", "Format", "Aspirational Format", "Script", "Typology"];  
+const DROPDOWN_COLS = ["Reference", "Collection", "Material", "Format", "Aspirational Format", "Script", "Typology"];
 
 let tmColIndex = -1;
 let allRows = [], headers = [], filteredRows = [], sortCol = -1, sortDir = 1;
-const selectedValues = {};  
+const selectedValues = {};
 
 async function loadSheet() {
 try {
@@ -252,7 +252,7 @@ document.getElementById("status").textContent = "Data loaded successfully.";
 } catch (e) {
 document.getElementById("status").textContent = `Error loading sheet: ${e.message}.`;
 }
-}  
+}
 
 function parseCSV(text) {
 const rows = [];
@@ -279,57 +279,57 @@ tmColIndex = headers.findIndex(h => h.trim().toLowerCase() === "trismegistos num
 allRows = rows.slice(1).filter(r => r.some(c => c !== ""));
 buildHeaders();
 applyFilters();
-}  
+}
 
 function buildHeaders() {
 const headerRow = document.getElementById("header-row");
 const filterRow = document.getElementById("filter-row");
 headerRow.innerHTML = "";
-filterRow.innerHTML = "";  
+filterRow.innerHTML = "";
 
 headers.forEach((h, i) => {
 const th = document.createElement("th");
 th.innerHTML = `${h} <span class="sort-icon"></span>`;
 th.dataset.col = i;
 th.addEventListener("click", () => sortByCol(i, th));
-headerRow.appendChild(th);  
+headerRow.appendChild(th);
 
-const ftd = document.createElement("th");  
+const ftd = document.createElement("th");
 
 if (DROPDOWN_COLS.includes(h.trim())) {
-selectedValues[i] = new Set();  
+selectedValues[i] = new Set();
 
 const wrapper = document.createElement("div");
-wrapper.className = "filter-cell-wrapper";  
+wrapper.className = "filter-cell-wrapper";
 
 const btn = document.createElement("button");
 btn.className = "dropdown-filter-btn";
 btn.type = "button";
 btn.id = `dropdown-btn-${i}`;
 btn.innerHTML = `<span>All ${h}</span><span class="arrow">▼</span>`;
-btn.dataset.col = i;  
+btn.dataset.col = i;
 
 const panel = document.createElement("div");
 panel.className = "dropdown-panel";
-panel.dataset.col = i;  
+panel.dataset.col = i;
 
 const search = document.createElement("input");
 search.type = "text";
 search.className = "panel-search";
 search.placeholder = `Search ${h}…`;
 search.addEventListener("input", () => filterPanelList(i, search.value));
-search.addEventListener("click", e => e.stopPropagation());  
+search.addEventListener("click", e => e.stopPropagation());
 
 const list = document.createElement("div");
 list.className = "checkbox-list";
-list.id = `checkbox-list-${i}`;  
+list.id = `checkbox-list-${i}`;
 
 const values = [...new Set(allRows.map(r => (r[i] || "").trim()))]
-.filter(v => v !== "").sort();  
+.filter(v => v !== "").sort();
 
 values.forEach(v => {
 const cbRow = document.createElement("div");
-cbRow.className = "cb-row";  
+cbRow.className = "cb-row";
 
 const cb = document.createElement("input");
 cb.type = "checkbox";
@@ -340,11 +340,11 @@ if (cb.checked) selectedValues[i].add(v);
 else selectedValues[i].delete(v);
 updateDropdownBtnState(i);
 applyFilters();
-});  
+});
 
 const span = document.createElement("span");
 span.className = "cb-label";
-span.textContent = v;  
+span.textContent = v;
 
 cbRow.appendChild(cb);
 cbRow.appendChild(span);
@@ -353,17 +353,18 @@ if (e.target !== cb) {
 cb.checked = !cb.checked;
 cb.dispatchEvent(new Event("change"));
 }
-});  
+});
 
 list.appendChild(cbRow);
-});  
+});
 
 const actions = document.createElement("div");
-actions.className = "panel-actions";  
+actions.className = "panel-actions";
 
 const selectAll = document.createElement("button");
 selectAll.type = "button";
 selectAll.textContent = "Select all";
+selectAll.id = `select-all-btn-${i}`;
 selectAll.addEventListener("click", (e) => {
 e.stopPropagation();
 list.querySelectorAll(".cb-row").forEach(cbRow => {
@@ -375,7 +376,7 @@ selectedValues[i].add(cb.value);
 });
 updateDropdownBtnState(i);
 applyFilters();
-});  
+});
 
 const clearBtn = document.createElement("button");
 clearBtn.type = "button";
@@ -386,25 +387,25 @@ list.querySelectorAll("input[type=checkbox]").forEach(cb => { cb.checked = false
 selectedValues[i].clear();
 updateDropdownBtnState(i);
 applyFilters();
-});  
+});
 
 actions.appendChild(selectAll);
-actions.appendChild(clearBtn);  
+actions.appendChild(clearBtn);
 
 panel.appendChild(search);
 panel.appendChild(list);
-panel.appendChild(actions);  
+panel.appendChild(actions);
 
 btn.addEventListener("click", (e) => {
 e.stopPropagation();
 const isOpen = panel.classList.contains("open");
 document.querySelectorAll(".dropdown-panel.open").forEach(p => p.classList.remove("open"));
 if (!isOpen) panel.classList.add("open");
-});  
+});
 
 wrapper.appendChild(btn);
 wrapper.appendChild(panel);
-ftd.appendChild(wrapper);  
+ftd.appendChild(wrapper);
 
 } else {
 const inp = document.createElement("input");
@@ -416,15 +417,15 @@ inp.classList.toggle("filter-active", inp.value.length > 0);
 applyFilters();
 });
 ftd.appendChild(inp);
-}  
+}
 
 filterRow.appendChild(ftd);
-});  
+});
 
 document.addEventListener("click", () => {
 document.querySelectorAll(".dropdown-panel.open").forEach(p => p.classList.remove("open"));
 });
-}  
+}
 
 function updateDropdownBtnState(colIndex) {
 const btn = document.getElementById(`dropdown-btn-${colIndex}`);
@@ -434,7 +435,7 @@ btn.classList.add("filter-active");
 } else {
 btn.classList.remove("filter-active");
 }
-}  
+}
 
 function filterPanelList(colIndex, query) {
 const list = document.getElementById(`checkbox-list-${colIndex}`);
@@ -443,7 +444,10 @@ list.querySelectorAll(".cb-row").forEach(row => {
 const text = row.textContent.toLowerCase();
 row.style.display = text.includes(q) ? "" : "none";
 });
-}  
+list.scrollTop = 0;
+const btn = document.getElementById(`select-all-btn-${colIndex}`);
+if (btn) btn.textContent = q.length > 0 ? "Select matching" : "Select all";
+}
 
 function sortByCol(col, th) {
 if (sortCol === col) {
@@ -463,29 +467,29 @@ sortDir = 1;
 th.classList.add("sort-asc");
 }
 applyFilters();
-}  
+}
 
 function applyFilters() {
-const globalSearch = document.getElementById("global-search").value.toLowerCase();  
+const globalSearch = document.getElementById("global-search").value.toLowerCase();
 
 filteredRows = allRows.filter(row => {
-if (globalSearch && !row.some(c => (c || "").toLowerCase().includes(globalSearch))) return false;  
+if (globalSearch && !row.some(c => (c || "").toLowerCase().includes(globalSearch))) return false;
 
 const textInputs = document.querySelectorAll("#filter-row th input[type='text'][data-col]");
 for (const inp of textInputs) {
 const val = inp.value.toLowerCase();
 const col = parseInt(inp.dataset.col);
 if (val && !(row[col] || "").toLowerCase().includes(val)) return false;
-}  
+}
 
 for (const [colIdx, selected] of Object.entries(selectedValues)) {
 if (selected.size === 0) continue;
 const cellVal = (row[colIdx] || "").trim();
 if (!selected.has(cellVal)) return false;
-}  
+}
 
 return true;
-});  
+});
 
 if (sortCol >= 0) {
 filteredRows.sort((a, b) => {
@@ -494,15 +498,15 @@ const an = parseFloat(av), bn = parseFloat(bv);
 if (!isNaN(an) && !isNaN(bn)) return (an - bn) * sortDir;
 return av.localeCompare(bv) * sortDir;
 });
-}  
+}
 
 renderTable();
-}  
+}
 
 function renderTable() {
 const total = filteredRows.length;
 const tbody = document.getElementById("table-body");
-tbody.innerHTML = "";  
+tbody.innerHTML = "";
 
 if (filteredRows.length === 0) {
 tbody.innerHTML = `<tr><td colspan="${headers.length}" class="no-data">No matching records found.</td></tr>`;
@@ -534,12 +538,12 @@ tr.appendChild(td);
 });
 tbody.appendChild(tr);
 });
-}  
+}
 
 document.getElementById("row-count").textContent =
 `Showing ${total} of ${allRows.length} row(s)` +
 (total < allRows.length ? ` (filtered)` : "");
-}  
+}
 
 function clearAllFilters() {
 document.getElementById("global-search").value = "";
@@ -555,7 +559,7 @@ updateDropdownBtnState(k);
 sortCol = -1; sortDir = 1;
 document.querySelectorAll("#header-row th").forEach(t => t.classList.remove("sort-asc", "sort-desc"));
 applyFilters();
-}  
+}
 
 function exportCSV() {
 const csvRows = [headers, ...filteredRows]
@@ -565,7 +569,7 @@ const a = document.createElement("a");
 a.href = "data:text/csv;charset=utf-8," + encodeURIComponent(csvRows);
 a.download = "export.csv";
 a.click();
-}  
+}
 
 loadSheet();
 </script>

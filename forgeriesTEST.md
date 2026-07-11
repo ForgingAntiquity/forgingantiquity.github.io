@@ -321,6 +321,12 @@ const panel = document.createElement("div");
 panel.className = "dropdown-panel";
 panel.dataset.col = i;
 
+// KEY FIX: stop clicks inside the panel from bubbling up to the
+// document-level listener that closes all open panels
+panel.addEventListener("click", (e) => {
+e.stopPropagation();
+});
+
 const search = document.createElement("input");
 search.type = "text";
 search.className = "panel-search";

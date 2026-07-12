@@ -73,7 +73,6 @@ Project Alumni:
 * Louis Anderson (intern 2022)
 * Matilda Main (intern 2025)
 * Sussan Lum (intern 2025)
-* Jacinta Peirce (intern 2021)
 
 *Capstone students*
 * Genevieve Dally-Watkins (capstone student 2019)

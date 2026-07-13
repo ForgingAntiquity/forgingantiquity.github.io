@@ -4,8 +4,7 @@ title: Forged Papyri
 ---
 
 ## Forgeries known to the project
-
-We provide here a list of those fake papyri and related manuscripts which have come to the notice of the project so far, as a resource for those who are interested in the topic. The table below may be sorted and filtered, or items searched for. A [description](#Description) of the table and its fields may be found below the table, along with a [bibliography of works cited](#Bibliography). A [full description of the typology](/typology) is also available.
+We provide here a list of those fake papyri and related manuscripts which have come to the notice of the project so far, as a resource for those who are interested in the topic. The table below may be sorted and filtered, or items searched for. This version of the database was uploaded on 3 July 2026. The full csv file is available in the Macquarie University Data Repository, and a csv file reflecting selections made in the table can also be downoaded from this page. A [description](#Description) of the table and its fields may be found below the table, along with information on [citing the database and licensing](#Citation and Licensing) and a [bibliography of works cited](#Bibliography). A [full description of the typology](/typology) is available on a separate page.
 
 In accordance with the general parameters of the Forging Antiquity project, the list below consists of forgeries from (or allegedly from) Egypt on papyrus and related material (ostraca, tablets, etc). It thus largely excludes (a) epigraphic forgeries; and (b) forgeries from locations other than Egypt. For this reason it does not include texts such as the post-2002 “Dead Sea Scroll-like” fragments which are well covered by <a href="https://lyingpen.com">other projects</a>. This list largely consists of those forgeries which have been published, mentioned in print, or featured in online repositories. We are aware that there are many more papyrus forgeries in collections throughout the world, and would be very grateful to receive information on them (and also images of them, if possible). Please send information on such fakes to <a href="mailto:malcolm@forgingantiquity.com">malcolm@forgingantiquity.com</a>. 
  
@@ -579,6 +578,15 @@ loadSheet();
 In the table above and the project database, papyri and related texts are listed first by the project’s primary reference for each text, which can be either the papyrological siglum (where one exists, according to the <a href="http://papyri.info/docs/checklist">Checklist of Editions at papyri.info</a>), an inventory number, or the details of the work in which they are discussed. In every case possible, we record (in the columns “Inventory number” and “Collection” the collection in which the text is currently found, as well as the text’s number(s) in the [Trismegistos](https://www.trismegistos.org) database where it exists. In some cases there are digital records on collection or other sites. Technical limitations prevent us being able to hyperlink to these here, but links to such repositories are usually available via Trismegsitos.
 
 After “Material”, “Format” lists the format of the text as we appraise it, followed by the format the forger aspired to effect, where this is apparent (“Aspirational Format”). The “Script” column lists the script used: “Nonsensical” is used for the many papyri using pseudoscripts. The “Typology” column contains the classification of the text into the categories of forgery established within the project. A [full description of this typology](/typology) is available which explains the categories adopted. Contents and relevant bibliography are listed last.
+
+<h3 id="Citation and Licensing">Citation and Licensing</h3>
+
+This version of the database was uploaded on 3 July 2026. it is licensed under a CC-BY-NC [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+Many people have worked on the Database sicne 2017, with significant contributions made by Venessa Mawby, Levi Bak, and Brooke Galluci, and substantial work undertaken by Richard Bott as part of his doctoral thesis. The named authors take collective responsibility for the work in its present form but acknowledge all the important work done by other project participants. The Database is updated periodically, with the update date noted at the top of this section and above the table. We recommend you include this date as well as the access date in your citation.
+
+To cite the database, please use the following form: Malcolm Choat, Richard Bott, Rachel Yuen-Collingridge et al., “Database of Forged Papyri”, 2017–[current year], updated at [DATE], https://www.forgingantiquity.com/forgeries. Accessed on [DATE]
+
 
 <h3 id="Bibliography">Bibliography</h3>
 The bibliography below lists those works referred to in the table above; it is not a complete bibliogrpahy of the project.For papyrus editions and sigla, please refer to the <a href="http://papyri.info/docs/checklist">Checklist of Editions at papyri.info</a>. 

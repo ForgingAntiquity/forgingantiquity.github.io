@@ -615,7 +615,6 @@ a.click();
 loadSheet();
 </script>
 
-
 <h3 id="Description">Description</h3>
 In the table above and the project database, papyri and related texts are listed first by the project’s primary reference for each text, which can be either the papyrological siglum (where one exists, according to the <a href="http://papyri.info/docs/checklist">Checklist of Editions at papyri.info</a>), an inventory number, or the details of the work in which they are discussed. In every case possible, we record (in the columns “Inventory number” and “Collection” the collection in which the text is currently found, as well as the text’s number(s) in the [Trismegistos](https://www.trismegistos.org) database where it exists. In some cases there are digital records on collection or other sites. Technical limitations prevent us being able to hyperlink to these here, but links to such repositories are usually available via Trismegsitos.
 

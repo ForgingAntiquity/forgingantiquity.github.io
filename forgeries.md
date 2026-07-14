@@ -626,7 +626,7 @@ This version of the database was uploaded on 3 July 2026. it is licensed under a
 
 Many people have worked on the Database since 2017, with significant contributions made by Venessa Mawby, Levi Bak, and Brooke Galluci, and substantial work undertaken by Richard Bott as part of his doctoral thesis. The named authors take collective responsibility for the work in its present form but acknowledge all the important work done by other project participants. The Database is updated periodically, with the update date noted at the top of this section and above the table. We recommend you include this date as well as the access date in your citation.
 
-To cite the database, please use the following form: Malcolm Choat, Richard Bott, Rachel Yuen-Collingridge et al., “Database of Forged Papyri”, 2017–[current year], updated at [DATE], https://www.forgingantiquity.com/forgeries. Accessed on [DATE]
+To cite the database, please use the following form: Malcolm Choat, Richard Bott, Rachel Yuen-Collingridge et al., “Forging Antiquity Database of Forged Papyri”, 2017–[current year], updated at [DATE], https://www.forgingantiquity.com/forgeries. Accessed on [DATE]
 
 
 <h3 id="Bibliography">Bibliography</h3>

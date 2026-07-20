@@ -716,7 +716,7 @@ Christiansen, T., & Ryholt, K. (2016). *Catalogue of Egyptian funerary papyri in
 
 Clarysse, W. (1980). Forgeries and ghost names. *Zeitschrift für Papyrologie und Epigraphik, 40*, 76–77.
 
-Clarysse, W., Maitland, M., & Worp, K. (2014). Mummy labels from Graeco-Roman Egypt in National Museums Scotland, England. *Chronique d’Égypte, 89*, 356–375.
+Clarysse, W., Maitland, M., & Worp, K. (2014). Mummy labels from Graeco-Roman Egypt in National Museums Scotland, Edinburgh. *Chronique d’Égypte, 89*, 356–375.
 
 Coles, R., & Gallazzi, C. (1981). Papyri and ostraka: Alterations and counterfeits. In E. Bresciani, G. Geraci, S. Pernigotti, & G. Susini (Eds.), *Scritti in onore di Orsolina Montevecchi* (pp. 99–105). Bologna, Italy: Clueb.
 
@@ -882,7 +882,7 @@ Simonides, C. (1861). *Fac-similes of certain portions of the Gospel of St. Matt
 
 Simonides, C. (1864a). *The periplus of Hannon, King of the Carchedonians, concerning the Libyan parts of the Earth beyond the Pillars of Herakles, which he dedicated to Kronos, the greatest God, and to all the Gods dwelling with him.* London, United Kingdom: Trübner.
 
-Simonides, C. (1864b). *Λείψανα ἱστορικά.* Liverpool, United Kingdom: Σταματίω Ν. Φραγκοπούλω.
+Simonides, C. (1864b). *Λείψανα ἱστορικά.* Liverpool.
 
 Sotheby’s. (1988, December 12). *Antiquities.* London, United Kingdom: Auction Catalogue.
 

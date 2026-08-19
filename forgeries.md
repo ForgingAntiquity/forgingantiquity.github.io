@@ -622,7 +622,7 @@ After “Material”, “Format” lists the format of the text as we appraise i
 
 <h3 id="Citation and Licensing">Citation and Licensing</h3>
 
-This is Version 2 of the database, uploaded on 17 July 2026. it is licensed under a CC-BY-NC-SA [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This is Version 2 of the database, uploaded on 17 July 2026. It is licensed under a CC-BY-NC-SA [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Many people have worked on the Database since 2017, with significant contributions made by Rachel Yuen-Collingridge, Venessa Mawby, Levi Bak, and Brooke Galluci, and substantial work undertaken by Richard Bott as part of his doctoral thesis. The named authors take collective responsibility for the work in its present form but acknowledge all the important work done by other project participants. The Database is updated periodically, with the version number and update date noted at the top of this section and above the table. We recommend you include the version number and upload date as well as the access date in your citation.
 

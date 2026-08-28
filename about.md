@@ -84,6 +84,6 @@ Collaborators:
 * [Gregg Schwendner](https://wichita.academia.edu/GreggWSchwendner)
 * [Rita Lucarelli](http://nes.berkeley.edu/faculty/lucarelli.html)
 
- ## Funding
+## Funding
 
- This project has been supported by the [Australian Research Council](http://purl.org/au-research/grants/arc/DP170104196), the Ian Potter Foundation, Macquarie University, and the University of Heidelberg.
+This project has been supported by the [Australian Research Council](http://purl.org/au-research/grants/arc/DP170104196), the Ian Potter Foundation, Macquarie University, and the University of Heidelberg.

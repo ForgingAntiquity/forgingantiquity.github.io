@@ -83,4 +83,7 @@ Collaborators:
 * [Tommy Wasserman](https://ansgarteologiskehogskole.academia.edu/TWasserman)
 * [Gregg Schwendner](https://wichita.academia.edu/GreggWSchwendner)
 * [Rita Lucarelli](http://nes.berkeley.edu/faculty/lucarelli.html)
- 
+
+ ## Funding
+
+ This project has been supported by the [Australian Research Council](http://purl.org/au-research/grants/arc/DP170104196), the Ian Potter Foundation, Macquarie University, and the University of Heidelberg.
